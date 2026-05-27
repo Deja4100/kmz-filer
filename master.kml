@@ -17,7 +17,7 @@
   <NetworkLink>
     <name>SPSKV</name>
     <Link>
-      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/kml/Bane 11b_System200.kml</href>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/Bane%2011b_System2000.kml</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
     </Link>
