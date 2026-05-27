@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<Document>
+
+  <name>AB-ELCO Driftssystem</name>
+
+  <NetworkLink>
+    <name>Undertavler</name>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/kml/Bane 11b_Undertavler.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
+
+  <NetworkLink>
+    <name>SPSKV</name>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/kml/Bane 11b_System200.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
+
+</Document>
+</kml>
