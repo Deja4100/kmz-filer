@@ -26,16 +26,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -66,7 +66,7 @@
   <td>55.649419572</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.272720613</td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@
   <td>19.302</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -82,8 +82,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -115,16 +115,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -155,7 +155,7 @@
   <td>55.649240000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.270435000</td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@
   <td>19.440</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -171,8 +171,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -204,16 +204,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -244,7 +244,7 @@
   <td>55.648575010</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.264501722</td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@
   <td>19.826</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -260,8 +260,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -293,16 +293,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -333,7 +333,7 @@
   <td>55.648113000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.265129000</td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@
   <td>19.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -349,8 +349,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -382,16 +382,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -422,7 +422,7 @@
   <td>55.647460000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.257161000</td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@
   <td>20.3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -438,8 +438,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -471,16 +471,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -511,7 +511,7 @@
   <td>55.647305000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.255388000</td>
 </tr>
 <tr>
@@ -519,7 +519,7 @@
   <td>20.4</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -527,8 +527,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -560,16 +560,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -600,7 +600,7 @@
   <td>55.646746000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.253014000</td>
 </tr>
 <tr>
@@ -608,7 +608,7 @@
   <td>19.305</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -616,8 +616,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -649,16 +649,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -689,7 +689,7 @@
   <td>55.648833000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.272542000</td>
 </tr>
 <tr>
@@ -697,7 +697,7 @@
   <td>19.326</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -705,8 +705,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -738,16 +738,16 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
-  <td>H?je Taastrup</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
+  <td>Høje Taastrup</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
-  <td>Ht?</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
+  <td>Htå</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
@@ -778,7 +778,7 @@
   <td>55.648833000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.272542000</td>
 </tr>
 <tr>
@@ -786,7 +786,7 @@
   <td>19.326</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -794,8 +794,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -827,15 +827,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -867,7 +867,7 @@
   <td>55.639568000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.090693000</td>
 </tr>
 <tr>
@@ -875,7 +875,7 @@
   <td>31.1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -883,8 +883,8 @@
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -916,15 +916,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -956,7 +956,7 @@
   <td>55.639408000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.090837000</td>
 </tr>
 <tr>
@@ -964,16 +964,16 @@
   <td>31.1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1005,15 +1005,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1045,7 +1045,7 @@
   <td>55.640366000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.092957000</td>
 </tr>
 <tr>
@@ -1053,16 +1053,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1094,15 +1094,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1134,7 +1134,7 @@
   <td>55.639858000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.091358000</td>
 </tr>
 <tr>
@@ -1142,16 +1142,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1183,15 +1183,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1223,7 +1223,7 @@
   <td>55.639954000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.092098000</td>
 </tr>
 <tr>
@@ -1231,16 +1231,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1272,15 +1272,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1312,7 +1312,7 @@
   <td>55.640274000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.092939000</td>
 </tr>
 <tr>
@@ -1320,16 +1320,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1361,15 +1361,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1401,7 +1401,7 @@
   <td>55.640141000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.092467000</td>
 </tr>
 <tr>
@@ -1409,16 +1409,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1450,15 +1450,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1490,7 +1490,7 @@
   <td>55.639599000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.090655000</td>
 </tr>
 <tr>
@@ -1498,7 +1498,7 @@
   <td>31.1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -1506,8 +1506,8 @@
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1539,15 +1539,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1579,7 +1579,7 @@
   <td>55.640549000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.093243000</td>
 </tr>
 <tr>
@@ -1587,16 +1587,16 @@
   <td>30.9</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1628,15 +1628,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1668,7 +1668,7 @@
   <td>55.640114000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.092540000</td>
 </tr>
 <tr>
@@ -1676,16 +1676,16 @@
   <td>31</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1717,15 +1717,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1757,7 +1757,7 @@
   <td>55.641041000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.094559000</td>
 </tr>
 <tr>
@@ -1765,16 +1765,16 @@
   <td>30.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1806,15 +1806,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1846,7 +1846,7 @@
   <td>55.640602000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.093682000</td>
 </tr>
 <tr>
@@ -1854,16 +1854,16 @@
   <td>30.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1895,15 +1895,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -1935,7 +1935,7 @@
   <td>55.640603000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.093803000</td>
 </tr>
 <tr>
@@ -1943,16 +1943,16 @@
   <td>30.9</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
-  <td>?63A</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
+  <td>≤63A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -1984,15 +1984,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2024,7 +2024,7 @@
   <td> 55.632574000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td> 12.074980000</td>
 </tr>
 <tr>
@@ -2032,7 +2032,7 @@
   <td>32.4</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2040,8 +2040,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2073,15 +2073,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2113,7 +2113,7 @@
   <td>55.635508000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.080517000</td>
 </tr>
 <tr>
@@ -2121,7 +2121,7 @@
   <td>31.9</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2129,8 +2129,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2162,15 +2162,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2202,7 +2202,7 @@
   <td>55.636476000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.082485000</td>
 </tr>
 <tr>
@@ -2210,7 +2210,7 @@
   <td>31.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2218,8 +2218,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2251,15 +2251,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2291,7 +2291,7 @@
   <td> 55.636895000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td> 12.083816000</td>
 </tr>
 <tr>
@@ -2299,7 +2299,7 @@
   <td>31.6</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2307,8 +2307,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2340,15 +2340,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2380,7 +2380,7 @@
   <td>55.638046000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.085934000</td>
 </tr>
 <tr>
@@ -2388,7 +2388,7 @@
   <td>31.4</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2396,8 +2396,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2429,15 +2429,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2469,7 +2469,7 @@
   <td>55.635509000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.080284000</td>
 </tr>
 <tr>
@@ -2477,7 +2477,7 @@
   <td>31.932</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2485,8 +2485,8 @@
   <td>3</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2518,15 +2518,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2558,7 +2558,7 @@
   <td>55.636158000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.081791000</td>
 </tr>
 <tr>
@@ -2566,7 +2566,7 @@
   <td>31.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2574,8 +2574,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2607,15 +2607,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2647,7 +2647,7 @@
   <td>55.641319000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.095731000</td>
 </tr>
 <tr>
@@ -2655,7 +2655,7 @@
   <td>30.8</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2663,8 +2663,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2696,15 +2696,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2736,7 +2736,7 @@
   <td>55.642632000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.099401000</td>
 </tr>
 <tr>
@@ -2744,7 +2744,7 @@
   <td>30.5</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2752,8 +2752,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
@@ -2785,15 +2785,15 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Str?kning</td>
+  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækning</td>
   <td>1</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/str?kning/sted</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Station/strækning/sted</td>
   <td>Roskilde</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Str?kningsforkortelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
   <td>Ro</td>
 </tr>
 <tr>
@@ -2825,7 +2825,7 @@
   <td>55.642635000</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">GPS ?st</td>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
   <td>12.099429000</td>
 </tr>
 <tr>
@@ -2833,7 +2833,7 @@
   <td>30.5</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsst?rrelse</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
   <td> >63A</td>
 </tr>
 <tr>
@@ -2841,8 +2841,8 @@
   <td>2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indend?rs/udend?rs</td>
-  <td>Udend?rs</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
+  <td>Udendørs</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
