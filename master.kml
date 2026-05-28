@@ -9,6 +9,15 @@
   <name>Bane 11b</name>
 
   <NetworkLink>
+    <name>Bane 11b - Hovedtavler</name>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Hovedtavler.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
+
+  <NetworkLink>
     <name>Bane 11b - Undertavler</name>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Undertavler.kml</href>
@@ -21,15 +30,6 @@
     <name>Bane 11b - System 2000</name>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_System2000.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
-    </Link>
-  </NetworkLink>
-
-  <NetworkLink>
-    <name>Bane 11b - Hovedtavler</name>
-    <Link>
-      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Hovedtavler.kml</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
     </Link>
