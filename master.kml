@@ -35,6 +35,15 @@
     </Link>
   </NetworkLink>
 
+  <NetworkLink>
+    <name>Bane 11b - Kabelskabe</name>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Kabelskabe.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
+
   </Folder>
 
 </Document>
