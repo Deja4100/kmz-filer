@@ -5,6 +5,9 @@
 
   <name>AB-ELCO Driftssystem</name>
 
+<Folder>
+  <name>Bane 11b</name>
+
   <NetworkLink>
     <name>Bane 11b - Undertavler</name>
     <Link>
@@ -32,6 +35,7 @@
     </Link>
   </NetworkLink>
 
+  </Folder>
 
 </Document>
 </kml>
