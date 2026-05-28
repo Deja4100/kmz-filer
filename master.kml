@@ -41,6 +41,8 @@
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Kabelskabe.kml</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
+      <visibility>1</visibility>
+      <open>1</open>
     </Link>
   </NetworkLink>
 
