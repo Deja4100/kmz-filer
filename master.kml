@@ -12,6 +12,8 @@
 
   <NetworkLink>
     <name>Bane 11b - Hovedtavler</name>
+    <visibility>1</visibility>
+    <open>1</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Hovedtavler.kml</href>
       <refreshMode>onInterval</refreshMode>
@@ -21,6 +23,8 @@
 
   <NetworkLink>
     <name>Bane 11b - Undertavler</name>
+    <visibility>1</visibility>
+    <open>1</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_Undertavler.kml</href>
       <refreshMode>onInterval</refreshMode>
@@ -30,6 +34,8 @@
 
   <NetworkLink>
     <name>Bane 11b - System 2000</name>
+    <visibility>1</visibility>
+    <open>1</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/Bane11b_System2000.kml</href>
       <refreshMode>onInterval</refreshMode>
