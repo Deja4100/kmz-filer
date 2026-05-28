@@ -26,76 +26,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Under station</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140388</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.019.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>315</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5618</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22461300</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115314966</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, ved station</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.648354000</td>
+  <td>55.648338</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.269590000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>19.5</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.269572</td>
 </tr>
 </table>
 </div>
@@ -115,76 +71,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140385</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.019.E</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>400</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5678</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22050344</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3X4X150 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112232027</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved læbælte</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.647499000</td>
+  <td>55.647755</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.257236000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.3</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Spskv forsyning</td>
+  <td>12.257078</td>
 </tr>
 </table>
 </div>
@@ -204,76 +116,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet, U/I hytte</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10522149</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.019.I</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>35</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>6762-43</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21318571</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112122977</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Langs sporet</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.646109000</td>
+  <td>55.645983</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.247428000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.935</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.246802</td>
 </tr>
 </table>
 </div>
@@ -293,76 +161,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved spor før kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10859173</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.019.J</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>125</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>40235</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22409953</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>79105038631</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, ved Energivej 2</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.646478000</td>
+  <td>55.643731</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.252659000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.600</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Terrænbelysning, spskv</td>
+  <td>12.254966</td>
 </tr>
 </table>
 </div>
@@ -382,76 +206,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved sporet, øst for station</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10867540</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.019.K</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>100</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5867</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22405116</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>79105045059</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, bag Thon Hotel</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.648782000</td>
+  <td>55.648597</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.272649000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>19.319</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Spskv forsyning</td>
+  <td>12.271971</td>
 </tr>
 </table>
 </div>
@@ -471,76 +251,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved relæhus Trk 020</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140391</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5050-10</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21504635</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x10 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112196176</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved relæhytte</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td> 55.647802000</td>
+  <td>55.647808</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td> 12.127435000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>28.599</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.127408</td>
 </tr>
 </table>
 </div>
@@ -560,76 +296,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Modsat relæhus 026900</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140402</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.B</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>458-6</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22227822</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112212265</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved Hf. Hvilen 196</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.649090000</td>
+  <td>55.649367</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.154155000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>26.9</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.154228</td>
 </tr>
 </table>
 </div>
@@ -649,76 +341,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved relæhus 025500</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140397</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.C</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5871-6</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21267412</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112193984</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Guldalderen 24</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.650297000</td>
+  <td>55.651027</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.177199000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>25.4</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Sikringsanlæg</td>
+  <td>12.176266</td>
 </tr>
 </table>
 </div>
@@ -738,76 +386,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Forsyning, KC hytte</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10522152</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.D</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>35</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>3668-21</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21267445</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x6 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115961276</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved jernbanebroen, Solhøjvej</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.644947000</td>
+  <td>55.645032</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.220726000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>22.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>KC hytte</td>
+  <td>12.221141</td>
 </tr>
 </table>
 </div>
@@ -827,76 +431,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved relæhus 022300, Poppellunden</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10522151</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.E</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>35</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>4358-42</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22383152</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112201313</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, I Poppellunden</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.644636000</td>
+  <td>55.644727</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.226548000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>22.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Sikringsanlæg</td>
+  <td>12.225889</td>
 </tr>
 </table>
 </div>
@@ -916,76 +476,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>GSMR-002</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10227282</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.022.F</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>35</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>2626-25</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21267431</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115776856</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Ved cykelparkering</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.648197000</td>
+  <td>55.648199</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.199142000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>24</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>GSM-R</td>
+  <td>12.198741</td>
 </tr>
 </table>
 </div>
@@ -1005,76 +521,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde (Hedehusene T)</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Hh</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Cykelskur perron</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10143911</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.025.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>315</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5901</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22022993</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3x240/120 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115305070</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved vejkryds</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.648983000</td>
+  <td>55.649252</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.196730000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>24.2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.196681</td>
 </tr>
 </table>
 </div>
@@ -1094,76 +566,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htå - Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved relæhus 023710</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10140394</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.025.B</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>2602-32</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21280819</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112203041</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, For enden af Hedevolden</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.647648000</td>
+  <td>55.648327</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.204550000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>23.7</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Sikringsanlæg</td>
+  <td>12.202562</td>
 </tr>
 </table>
 </div>
@@ -1183,76 +611,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup - Roskilde (Trekroner T)</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Trk</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved sti</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10143173</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.029.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>100</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5050-6</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22023544</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74112224992</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved trappeopgang</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.647705000</td>
+  <td>55.648083</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.131941000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>28.3</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Stationsinventar</td>
+  <td>12.131473</td>
 </tr>
 </table>
 </div>
@@ -1272,76 +656,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup Kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htås</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>I hovedbygning</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10459892</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.519.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>100</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>6165-2</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22023049</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74114926597</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved DB Cargo adm. bygning</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.636086000</td>
+  <td>55.635784</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.250341000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.250658</td>
 </tr>
 </table>
 </div>
@@ -1361,76 +701,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup Kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htås</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ved port til kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10696239</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.519.C</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>100</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>6166</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22266790</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74114926603</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ude i buskads</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.644247000</td>
+  <td>55.644427</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.250381000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.251304</td>
 </tr>
 </table>
 </div>
@@ -1450,76 +746,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup Kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htås</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>På containerplads</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10779567</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.519.F</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>250</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>5857</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22050637</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115793198</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved DSV</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.635885000</td>
+  <td>55.635105</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.248792000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.247443</td>
 </tr>
 </table>
 </div>
@@ -1539,76 +791,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup Kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htås</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>GSMR-024, undenfor hegn</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10232093</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.519.H</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>35</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>6165-10</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>21269256</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x25 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74115795208</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, i vejkant</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.636147000</td>
+  <td>55.635765</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.250955000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.251038</td>
 </tr>
 </table>
 </div>
@@ -1628,76 +836,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Høje Taastrup Kombiterminal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Htås</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Teknikhus</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10864146</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>012.519.I</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>100</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>41520</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>22404514</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3x4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>79104816520</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved indgang til NISB</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.635268000</td>
+  <td>55.634065</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.249212000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>20.800</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.248321</td>
 </tr>
 </table>
 </div>
@@ -1717,76 +881,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>KMP kælder</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10142059</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.A</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>250</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131167</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>1039838</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x185 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200094077</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.637768000</td>
+  <td>55.637692</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.084628000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.082691</td>
 </tr>
 </table>
 </div>
@@ -1806,76 +926,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Gl. fyrkælder</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10142056</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.B</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>315</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131167</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>660039</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200094107</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.639019000</td>
+  <td>55.639204</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.088613000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.088646</td>
 </tr>
 </table>
 </div>
@@ -1895,76 +971,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Tunnel Jernbanegade / Køgevej</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10142053</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.C</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>160</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131167</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>660077</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200094138</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.638424000</td>
+  <td>55.638433</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.086712000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.4</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.086628</td>
 </tr>
 </table>
 </div>
@@ -1984,76 +1016,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141964</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.D</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>160</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131027-300</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>750531</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200218060</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, sti tæt ved tavle</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.632562000</td>
+  <td>55.632524</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.075333000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32.389</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Spskv forsyning</td>
+  <td>12.07532</td>
 </tr>
 </table>
 </div>
@@ -2073,76 +1061,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Bag skydevæg i værkstedshal</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141990</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.F</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>350</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131009</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>1039859</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>-</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200178982</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.634747000</td>
+  <td>55.634688</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.079760000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.080222</td>
 </tr>
 </table>
 </div>
@@ -2162,76 +1106,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141987</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.G</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>125</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131009</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>750783</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200116540</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.636524000</td>
+  <td>55.63608</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.082768000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.9</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.081947</td>
 </tr>
 </table>
 </div>
@@ -2251,76 +1151,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Bakkeleddet 2b, i bygning</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141983</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.H</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>63</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131027-317</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>5285185</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x25 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200011456</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved gammel overkørsel</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.630348000</td>
+  <td>55.630459</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.071721000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32.7</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.072581</td>
 </tr>
 </table>
 </div>
@@ -2340,76 +1196,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet ved Stenvænget</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141967</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.K</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>400</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131009</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>660437</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>-</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200227383</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.636135000</td>
+  <td>55.63608</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.081777000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.8</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.081947</td>
 </tr>
 </table>
 </div>
@@ -2429,76 +1241,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet ved Stenvænget</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141970</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.L</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>250</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131009</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>660082</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200233933</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.636177000</td>
+  <td>55.63608</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.081801000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>31.8</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.081947</td>
 </tr>
 </table>
 </div>
@@ -2518,76 +1286,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Baneskråning ved Ro's Torv</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10141974</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.N</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>400</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131045</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>96930</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x240 AL</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200205060</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer modsat tavle</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.641823000</td>
+  <td>55.641822</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.097387000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>30.6</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td> >63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.097409</td>
 </tr>
 </table>
 </div>
@@ -2607,76 +1331,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Ud for sporet, U/I hytte</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10464641</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.O</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>31080-109</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>41223</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x10 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200176964</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Solsortevej 35</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.644485000</td>
+  <td>55.644656</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.103715000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>30.1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.10358</td>
 </tr>
 </table>
 </div>
@@ -2696,76 +1376,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Koldlager</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10667751</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.P</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>63</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131027-402</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>40157</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x150  CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200217025</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Stenvænget 52A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.634152000</td>
+  <td>55.633895</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.078010000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32.1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Indendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.077622</td>
 </tr>
 </table>
 </div>
@@ -2785,76 +1421,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Miljøplads</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10667755</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>013.000.Q</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>50</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131027-402</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>5276992</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4X10 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>75200179026</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Stenvænget 52A</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.633694000</td>
+  <td>55.633895</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.077184000</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32.2</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td></td>
+  <td>12.077622</td>
 </tr>
 </table>
 </div>
@@ -2874,76 +1466,32 @@
 <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">TIB Strækining</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Station/stækning/sted</td>
-  <td>Roskilde</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Strækningsforkortelse</td>
-  <td>Ro - Vy</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Uddybende placering</td>
-  <td>Forsyning til MTOB og PTOB</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Equipment</td>
-  <td>10637796</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Datagennemgang</td>
-  <td>Match</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Col NaN</td>
+  <td></td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
   <td>014.034.E</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Forsikring (A)</td>
-  <td>63</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskabnummer</td>
+  <td>131027-317</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Målernummer</td>
-  <td>548338</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4X16 CU</td>
 </tr>
 <tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Aftagernummer</td>
-  <td>74001743597</td>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved gammel overkørsel</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Nord</td>
-  <td>55.630054856</td>
+  <td>55.630459</td>
 </tr>
 <tr>
   <td style="font-weight:bold; background:#f0f0f0;">GPS Øst</td>
-  <td>12.071118587</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Kilometrering</td>
-  <td>32.774</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Sikringsstørrelse</td>
-  <td>≤63A</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Placering JBS</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Indendørs/udendørs</td>
-  <td>Udendørs</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Ansvarlig arbejdsplads</td>
-  <td>EXTX1284</td>
-</tr>
-<tr>
-  <td style="font-weight:bold; background:#f0f0f0;">Tavlefunktion</td>
-  <td>Måler</td>
+  <td>12.072581</td>
 </tr>
 </table>
 </div>
