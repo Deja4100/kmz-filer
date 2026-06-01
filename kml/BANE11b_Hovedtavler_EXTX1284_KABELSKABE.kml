@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Bane 11b - Bane 11b - KABELSKABE</name>
+
+<Style id="defaultStyle">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Kabelskabe.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>5618</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.019.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5618</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, ved station</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.648338</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.269572</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.269572,55.648338,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5678</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.019.E</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5678</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3X4X150 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved læbælte</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.647755</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.257078</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.257078,55.647755,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>6762-43</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.019.I</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>6762-43</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Langs sporet</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.645983</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.246802</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.246802,55.645983,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>40235</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.019.J</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>40235</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, ved Energivej 2</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.643731</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.254966</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.254966,55.643731,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5867</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.019.K</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5867</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer, bag Thon Hotel</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.648597</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.271971</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.271971,55.648597,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5050-10</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5050-10</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x10 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved relæhytte</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.647808</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.127408</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.127408,55.647808,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>458-6</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.B</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>458-6</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved Hf. Hvilen 196</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.649367</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.154228</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.154228,55.649367,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5871-6</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.C</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5871-6</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Guldalderen 24</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.651027</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.176266</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.176266,55.651027,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>3668-21</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.D</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>3668-21</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x6 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved jernbanebroen, Solhøjvej</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.645032</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.221141</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.221141,55.645032,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>4358-42</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.E</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>4358-42</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, I Poppellunden</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.644727</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.225889</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.225889,55.644727,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>2626-25</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.022.F</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>2626-25</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Ved cykelparkering</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.648199</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.198741</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.198741,55.648199,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5901</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.025.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5901</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3x240/120 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved vejkryds</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.649252</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.196681</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.196681,55.649252,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>2602-32</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.025.B</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>2602-32</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x16 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, For enden af Hedevolden</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.648327</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.202562</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.202562,55.648327,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5050-6</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.029.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5050-6</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved trappeopgang</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.648083</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.131473</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.131473,55.648083,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>6165-2</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.519.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>6165-2</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, Ved DB Cargo adm. bygning</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.635784</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.250658</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250658,55.635784,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>6166</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.519.C</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>6166</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ude i buskads</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.644427</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.251304</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.251304,55.644427,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>5857</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.519.F</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>5857</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved DSV</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.635105</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.247443</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.247443,55.635105,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>6165-10</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.519.H</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>6165-10</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x25 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, i vejkant</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.635765</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.251038</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.251038,55.635765,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>41520</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>012.519.I</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>41520</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>3x4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved indgang til NISB</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.634065</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.248321</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.248321,55.634065,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131167</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131167</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x185 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.637692</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.082691</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.082691,55.637692,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131167</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.B</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131167</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.639204</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.088646</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.088646,55.639204,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131167</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.C</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131167</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer ved Føtex</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.638433</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.086628</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.086628,55.638433,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131027-300</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.D</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131027-300</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x95 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, sti tæt ved tavle</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.632524</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.07532</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.07532,55.632524,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131009</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.F</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131009</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>-</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.634688</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.080222</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.080222,55.634688,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131009</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.G</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131009</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x150 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.63608</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.081947</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081947,55.63608,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131027-317</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.H</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131027-317</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x25 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved gammel overkørsel</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.630459</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.072581</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.072581,55.630459,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131009</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.K</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131009</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>-</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.63608</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.081947</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081947,55.63608,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131009</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.L</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131009</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer bag Knudsvej 44</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.63608</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.081947</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081947,55.63608,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131045</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.N</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131045</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x240 AL</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>Transformer modsat tavle</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.641822</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.097409</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.097409,55.641822,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>31080-109</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.O</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>31080-109</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4x10 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Solsortevej 35</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.644656</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.10358</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.10358,55.644656,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131027-402</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.P</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131027-402</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>2x4x150  CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Stenvænget 52A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.633895</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.077622</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.077622,55.633895,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131027-402</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>013.000.Q</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131027-402</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4X10 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved Stenvænget 52A</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.633895</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.077622</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.077622,55.633895,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>131027-317</name>
+  <styleUrl>#defaultStyle</styleUrl>
+  <description>
+<![CDATA[
+<div style="font-family: Calibri; font-size: 13px;">
+<table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Tavlenummer</td>
+  <td>014.034.E</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Kabelskab</td>
+  <td>131027-317</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Ledningsdimension</td>
+  <td>4X16 CU</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">Forsyningsplacering</td>
+  <td>KS, ved gammel overkørsel</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Nord (KS)</td>
+  <td>55.630459</td>
+</tr>
+<tr>
+  <td style="font-weight:bold; background:#f0f0f0;">GPS Øst (KS)</td>
+  <td>12.072581</td>
+</tr>
+</table>
+</div>
+]]>
+</description>
+  <Point>
+    <coordinates>12.072581,55.630459,0</coordinates>
+  </Point>
+</Placemark>
+
+</Document>
+</kml>
