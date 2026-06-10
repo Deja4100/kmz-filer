@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Bane 21 - KABELSKABE</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Kabelskabe.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>100672-101</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100672-101</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Tyvelsevej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.39174</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.737566</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.737566,55.39174,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100420-206</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100420-206</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Englerupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.411308</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.747963</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.747963,55.411308,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>107264-102</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>107264-102</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved siden af tavlen</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.285244</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.742893</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.742893,55.285244,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>106200-309</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>106200-309</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved sti</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.314979</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.745364</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.745364,55.314979,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100410-201</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100410-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Vinkelvej 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.245279</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.760832</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.760832,55.245279,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104796-203</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104796-203</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved hegn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.242356</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.761042</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.761042,55.242356,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100750-313</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100750-313</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x70 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved fodgængerfelt</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.353482</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.695018</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.695018,55.353482,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>107493-201</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>107493-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.338299</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.715834</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.715834,55.338299,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150818</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.767819</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767819,55.230564,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150084</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150084</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Forsynes fra DSB Næ 001B</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.231051</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.767217</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767217,55.231051,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150175</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150175</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.764735</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.764735,55.234637,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150016-3408</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150016-3408</td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Uffesvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.228106</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.769308</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.769308,55.228106,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150170</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.764735</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.764735,55.234637,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150169</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150169</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.227547</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.771039</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.771039,55.227547,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150170</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.764735</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.764735,55.234637,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150818</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.767819</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767819,55.230564,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150818</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.767819</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767819,55.230564,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150046-1760</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150046-1760</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved ståltrappe</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.217646</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.790022</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.790022,55.217646,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150051-4506</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150051-4506</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.226566</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.773125</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.773125,55.226566,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>150170</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.764735</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.764735,55.234637,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100175-208</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100175-208</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før hytte</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.18629</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.836981</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.836981,55.18629,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104647-203</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104647-203</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.205364</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.796932</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.796932,55.205364,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100176-4023</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100176-4023</td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før indkørsel</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.162247000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.855316000</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.855316000,55.162247000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104058-107</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104058-107</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved TOB hytte</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 55.185150000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.837704000</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.837704000, 55.185150000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>133738</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>133738</td></tr><tr><td><b>Ledningsdimension</b></td><td>2X4X185 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.194434</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.820661</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.820661,55.194434,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104920-301</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104920-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.118008</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.863096</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.863096,55.118008,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100639-112</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100639-112</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved cykelparkering</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.1101</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.86998</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.86998,55.1101,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100639-112</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100639-112</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved cykelparkering</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.1101</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.86998</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.86998,55.1101,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100639-211</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100639-211</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved sti</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.110038</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.86932</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.86932,55.110038,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>100639-211</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>100639-211</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før p-plads</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.109554</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.869521</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.869521,55.109554,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104723-308</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104723-308</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved sti før GSMR</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.068958</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.872902</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.872902,55.068958,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104723-308</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104723-308</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved sti før GSMR</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.068958</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.872902</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.872902,55.068958,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>122052</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>122052</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Marienbergvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.008756</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.898486</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.898486,55.008756,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>109129-201</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>109129-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.02605</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.898503</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.898503,55.02605,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>132025-901</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>132025-901</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.000913</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.894849</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.894849,55.000913,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104132-101</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104132-101</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.994903</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.889187</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.889187,54.994903,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>132014-605</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>132014-605</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Biograf Caféen</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.011743</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.900232</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.900232,55.011743,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>104930-108</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>104930-108</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved pumpetavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.985066</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.893074</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.893074,54.985066,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>109128</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>109128</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer i bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938972</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.867502</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.867502,54.938972,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102750-109</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102750-109</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938955</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.867489</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.867489,54.938955,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102750-301</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102750-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.940356</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.867259</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.867259,54.940356,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130945</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130945</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.930817</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.871428</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.871428,54.930817,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102750-109</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102750-109</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938955</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.867489</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.867489,54.938955,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102408</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102408</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Ravnsevej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.89784</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885933</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885933,54.89784,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102486-107</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102486-107</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Nørre Alslev Boldklub</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.892981</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.883821</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.883821,54.892981,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102988-302</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102988-302</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, hjørnet ved Østergade 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.856117</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.8859</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.8859,54.856117,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102891-301</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102891-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.842213</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.883059</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.883059,54.842213,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102984-301</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102984-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.866484</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885792</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885792,54.866484,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>102988-202</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>102988-202</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Nørregade 19</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.858608</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886709</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.886709,54.858608,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130031-104</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130031-104</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Stubberupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.82161</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886247</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.886247,54.82161,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130252-102</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130252-102</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved indkørsel</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.784321</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885274</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885274,54.784321,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>108547</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>108547</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x185 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.877673,54.767728,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>108536-506</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>108536-506</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Søvej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.766284</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.878357</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.878357,54.766284,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130104</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130104</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770368</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.880594</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.880594,54.770368,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>108547</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>108547</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.877673,54.767728,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130098</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130098</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770284</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.881498</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.881498,54.770284,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130098</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130098</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770284</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.881498</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.881498,54.770284,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>108645</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>108645</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.7634</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.875151</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.875151,54.7634,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>130119-301</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Kabelskab</b></td><td>130119-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.779095000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.885054000</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.885054000, 54.779095000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
