@@ -18,10 +18,10 @@
   <!-- REGION gør at Google Earth kun loader når brugeren er i området -->
   <Region>
     <LatLonAltBox>
-      <north>56.2</north>
-      <south>55.0</south>
-      <east>12.8</east>
-      <west>10.5</west>
+    <north>55.70</north>
+    <south>55.60</south>
+    <east>12.35</east>
+    <west>12.00</west>
       <minAltitude>0</minAltitude>
       <maxAltitude>0</maxAltitude>
     </LatLonAltBox>
