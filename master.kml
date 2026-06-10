@@ -11,44 +11,19 @@
     <name>Bane 11b</name>
 
   <NetworkLink>
-  <name>Bane 11b - Hovedtavler</name>
-  <visibility>1</visibility>
-  <open>0</open>
-
-  <!-- REGION gør at Google Earth kun loader når brugeren er i området -->
-  <Region>
-    <LatLonAltBox>
-    <north>55.70</north>
-    <south>55.60</south>
-    <east>12.35</east>
-    <west>12.00</west>
-      <minAltitude>0</minAltitude>
-      <maxAltitude>0</maxAltitude>
-    </LatLonAltBox>
-
-    <Lod>
-      <!-- loader først når brugeren zoomer ind -->
-      <minLodPixels>128</minLodPixels>
-      <maxLodPixels>-1</maxLodPixels>
-    </Lod>
-  </Region>
-
-  <Link>
-    <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-
-    <!-- skifter fra tidsbaseret til view-baseret loading -->
-    <viewRefreshMode>onRegion</viewRefreshMode>
-    <viewRefreshTime>2</viewRefreshTime>
-
-    <!-- fallback caching -->
-    <refreshMode>onExpire</refreshMode>
-    <refreshInterval>300</refreshInterval>
-  </Link>
-</NetworkLink>
+    <name>Bane 11b - Hovedtavler</name>
+    <visibility>0</visibility>
+    <open>0</open>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
 
   <NetworkLink>
     <name>Bane 11b - Undertavler</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
@@ -59,7 +34,7 @@
 
   <NetworkLink>
     <name>Bane 11b - System 2000</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Undertavler_ESNI1_ESNI1.kml</href>
@@ -70,7 +45,7 @@
 
   <NetworkLink>
   <name>Bane 11b - Kabelskabe</name>
-  <visibility>1</visibility>
+  <visibility>0</visibility>
   <open>0</open>
   <Link>
     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
@@ -85,7 +60,7 @@
     <name>Bane 12</name>
 <NetworkLink>
     <name>Bane 12 - Hovedtavler</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
@@ -96,7 +71,7 @@
 
 <NetworkLink>
     <name>Bane 12 - Undertavler</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
@@ -107,7 +82,7 @@
 
 <NetworkLink>
     <name>Bane 12 - System 2000</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Undertavler_ESNI1_ESNI1.kml</href>
@@ -118,7 +93,7 @@
 
 <NetworkLink>
     <name>Bane 12 - Kabelskabe</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
@@ -133,7 +108,7 @@
     <name>Bane 13</name>
 <NetworkLink>
     <name>Bane 13 - Hovedtavler</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
@@ -144,7 +119,7 @@
 
 <NetworkLink>
     <name>Bane 13 - Undertavler</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
@@ -155,7 +130,7 @@
 
 <NetworkLink>
     <name>Bane 13 - System 2000</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_ESNI1_ESNI1.kml</href>
@@ -166,7 +141,7 @@
 
 <NetworkLink>
     <name>Bane 13 - Kabelskabe</name>
-    <visibility>1</visibility>
+    <visibility>0</visibility>
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
