@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Bane 22 - ESNI1</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/icons8-train-track-50.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>028.020.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Llm - Hby</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10860926</td></tr><tr><td><b>Tavlenummer</b></td><td>028.020.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.020.A</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>54.72435</td></tr><tr><td><b>GPS Øst</b></td><td>11.67047</td></tr><tr><td><b>Kilometrering</b></td><td>161.251</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.67047,54.72435,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>028.020.B1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Llm - Hby</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10860927</td></tr><tr><td><b>Tavlenummer</b></td><td>028.020.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.020.B</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>54.70561</td></tr><tr><td><b>GPS Øst</b></td><td>11.59663</td></tr><tr><td><b>Kilometrering</b></td><td>166.456</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.59663,54.70561,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>028.025.B1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nfv - Llm</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10524656</td></tr><tr><td><b>Tavlenummer</b></td><td>028.025.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>54.690448</td></tr><tr><td><b>GPS Øst</b></td><td>11.490344</td></tr><tr><td><b>Kilometrering</b></td><td>173.537</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.490344,54.690448,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>028.175.C1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hby</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10773471</td></tr><tr><td><b>Tavlenummer</b></td><td>028.175.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.175.C</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>54.68427</td></tr><tr><td><b>GPS Øst</b></td><td>11.44457</td></tr><tr><td><b>Kilometrering</b></td><td>177.79</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.44457,54.68427,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>028.175.D1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hby</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10773472</td></tr><tr><td><b>Tavlenummer</b></td><td>028.175.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.175.D</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>54.67852</td></tr><tr><td><b>GPS Øst</b></td><td>11.4231</td></tr><tr><td><b>Kilometrering</b></td><td>178.103</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.4231,54.67852,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>028.175.D2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hby</td></tr><tr><td><b>Uddybende placering</b></td><td>Sportskiftevarm</td></tr><tr><td><b>Equipment</b></td><td>10773473</td></tr><tr><td><b>Tavlenummer</b></td><td>028.175.D2</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.175.D</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>54.67711</td></tr><tr><td><b>GPS Øst</b></td><td>11.41755</td></tr><tr><td><b>Kilometrering</b></td><td>178.493</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.41755,54.67711,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
