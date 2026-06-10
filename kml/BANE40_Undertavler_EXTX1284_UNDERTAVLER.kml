@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Bane 40 - UNDERTAVLER</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Undertavler.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>042.034.B1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde - Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro-Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>På baneskråning</td></tr><tr><td><b>Equipment</b></td><td>10529697</td></tr><tr><td><b>Tavlenummer</b></td><td>042.034.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.034.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.622684000</td></tr><tr><td><b>GPS Øst</b></td><td>12.070440000</td></tr><tr><td><b>Kilometrering</b></td><td>33.602</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.070440000,55.622684000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.039.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 005</td></tr><tr><td><b>Equipment</b></td><td>10124660</td></tr><tr><td><b>Tavlenummer</b></td><td>042.039.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.039.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.569969000</td></tr><tr><td><b>GPS Øst</b></td><td>12.101280000</td></tr><tr><td><b>Kilometrering</b></td><td>39.776</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.101280000,55.569969000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.039.A1.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 007</td></tr><tr><td><b>Equipment</b></td><td>10124657</td></tr><tr><td><b>Tavlenummer</b></td><td>042.039.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.039.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.575626000</td></tr><tr><td><b>GPS Øst</b></td><td>12.097877000</td></tr><tr><td><b>Kilometrering</b></td><td>39.113</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.097877000,55.575626000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.039.A1.2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 005</td></tr><tr><td><b>Equipment</b></td><td>10124653</td></tr><tr><td><b>Tavlenummer</b></td><td>042.039.A1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.039.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.569988000</td></tr><tr><td><b>GPS Øst</b></td><td>12.101272000</td></tr><tr><td><b>Kilometrering</b></td><td>39.774</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.101272000,55.569988000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.043.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Havdrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hd</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 009</td></tr><tr><td><b>Equipment</b></td><td>10476627</td></tr><tr><td><b>Tavlenummer</b></td><td>042.043.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.043.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.541145000</td></tr><tr><td><b>GPS Øst</b></td><td>12.118776000</td></tr><tr><td><b>Kilometrering</b></td><td>43.174</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.118776000,55.541145000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.044.C2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Havdrup - Lille Skensved</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hd-Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Kirke Skensved</td></tr><tr><td><b>Equipment</b></td><td>10903368</td></tr><tr><td><b>Tavlenummer</b></td><td>042.044.C2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.044.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.527551880</td></tr><tr><td><b>GPS Øst</b></td><td>12.126946590</td></tr><tr><td><b>Kilometrering</b></td><td>44.768</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Ventilation</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.126946590,55.527551880,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.047.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Lille Skensved</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 006</td></tr><tr><td><b>Equipment</b></td><td>10468190</td></tr><tr><td><b>Tavlenummer</b></td><td>042.047.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.047.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.508601000</td></tr><tr><td><b>GPS Øst</b></td><td>12.144783000</td></tr><tr><td><b>Kilometrering</b></td><td>47.189</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.144783000,55.508601000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.048.A2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Lille Skensved - Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Lw-Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved OVK 101</td></tr><tr><td><b>Equipment</b></td><td>10124667</td></tr><tr><td><b>Tavlenummer</b></td><td>042.048.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.048.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.500286000</td></tr><tr><td><b>GPS Øst</b></td><td>12.156431000</td></tr><tr><td><b>Kilometrering</b></td><td>48.375</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.156431000,55.500286000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I værkstedsbygning 016</td></tr><tr><td><b>Equipment</b></td><td>10466043</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458980000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187581000</td></tr><tr><td><b>Kilometrering</b></td><td>53.336</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.187581000, 55.458980000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A5.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I værkstedsbygning 016</td></tr><tr><td><b>Equipment</b></td><td>10686118</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.458996195</td></tr><tr><td><b>GPS Øst</b></td><td>12.187584894</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187584894,55.458996195,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A5.2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I fyrrum, værkstedsbygning 016</td></tr><tr><td><b>Equipment</b></td><td>10702697</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458969000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187483000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.187483000, 55.458969000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A5.3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I veterantogsbygning 017</td></tr><tr><td><b>Equipment</b></td><td>10702698</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.458826945</td></tr><tr><td><b>GPS Øst</b></td><td>12.187667811</td></tr><tr><td><b>Kilometrering</b></td><td>53.508</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187667811,55.458826945,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A5.3.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I veterantogsbygning 018</td></tr><tr><td><b>Equipment</b></td><td>10702699</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.3.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.458683812</td></tr><tr><td><b>GPS Øst</b></td><td>12.187574759</td></tr><tr><td><b>Kilometrering</b></td><td>53.526</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187574759,55.458683812,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Rangerlys, ud for sporet</td></tr><tr><td><b>Equipment</b></td><td>10132539</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.461735000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187734000</td></tr><tr><td><b>Kilometrering</b></td><td>53.190</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187734000,55.461735000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132536</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.462055000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187525000</td></tr><tr><td><b>Kilometrering</b></td><td>53.156</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187525000,55.462055000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132533</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>20</td></tr><tr><td><b>GPS Nord</b></td><td>55.462379000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187398000</td></tr><tr><td><b>Kilometrering</b></td><td>53.119</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187398000,55.462379000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132527</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.462738000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187339000</td></tr><tr><td><b>Kilometrering</b></td><td>53.080</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187339000,55.462738000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132524</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.463070000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187226000</td></tr><tr><td><b>Kilometrering</b></td><td>53.043</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187226000,55.463070000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132520</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.5</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.463409000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187067000</td></tr><tr><td><b>Kilometrering</b></td><td>53.003</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187067000,55.463409000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132516</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.6</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.463760000</td></tr><tr><td><b>GPS Øst</b></td><td>12.186951000</td></tr><tr><td><b>Kilometrering</b></td><td>53.982</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.186951000,55.463760000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132513</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.7</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.464066000</td></tr><tr><td><b>GPS Øst</b></td><td>12.186785000</td></tr><tr><td><b>Kilometrering</b></td><td>52.929</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.186785000,55.464066000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A6.8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Imellem spor</td></tr><tr><td><b>Equipment</b></td><td>10132510</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A6.8</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.464405000</td></tr><tr><td><b>GPS Øst</b></td><td>12.186650000</td></tr><tr><td><b>Kilometrering</b></td><td>52.890</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Rangerlys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.186650000,55.464405000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Nødstrømshus 013</td></tr><tr><td><b>Equipment</b></td><td>10694255</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td> 55.460138000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187741000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.187741000, 55.460138000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A7.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Nødstrømshus 013</td></tr><tr><td><b>Equipment</b></td><td>10694256</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A7</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.460138000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187725000</td></tr><tr><td><b>Kilometrering</b></td><td>53.375</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187725000,55.460138000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A7.1.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 014</td></tr><tr><td><b>Equipment</b></td><td>10694258</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A7.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.459975000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187666000</td></tr><tr><td><b>Kilometrering</b></td><td>53.375</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>IT rack</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187666000,55.459975000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A7.2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 014</td></tr><tr><td><b>Equipment</b></td><td>10694257</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A7</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.459975000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187666000</td></tr><tr><td><b>Kilometrering</b></td><td>53.375</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS/BY</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187666000,55.459975000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-014</td></tr><tr><td><b>Equipment</b></td><td>10466044</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A8</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.459732000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187673000</td></tr><tr><td><b>Kilometrering</b></td><td>53.409</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187673000,55.459732000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.A11</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Teknikhytte v. spor 0</td></tr><tr><td><b>Equipment</b></td><td>10901673</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A11</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458733000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187387000</td></tr><tr><td><b>Kilometrering</b></td><td>53.515</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.187387000, 55.458733000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.E1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 053948</td></tr><tr><td><b>Equipment</b></td><td>10905264</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td> 55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.185795000, 55.454959000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.E1.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 053948</td></tr><tr><td><b>Equipment</b></td><td>10905326</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E1</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpeovervågning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.185795000, 55.454959000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.053.K1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I tunnel, rum Kj 055</td></tr><tr><td><b>Equipment</b></td><td>10466045</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.K1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.K</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.457485000</td></tr><tr><td><b>GPS Øst</b></td><td>12.186800000</td></tr><tr><td><b>Kilometrering</b></td><td>53.663</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.186800000,55.457485000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.056.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Køge - Herfølge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Kj-Hf</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte</td></tr><tr><td><b>Equipment</b></td><td>10905222</td></tr><tr><td><b>Tavlenummer</b></td><td>042.056.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.056.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>40</td></tr><tr><td><b>GPS Nord</b></td><td>55.443908000</td></tr><tr><td><b>GPS Øst</b></td><td>12.179177000</td></tr><tr><td><b>Kilometrering</b></td><td>55.250</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.179177000,55.443908000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.059.E1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Herfølge</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hf</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 008</td></tr><tr><td><b>Equipment</b></td><td>10468191</td></tr><tr><td><b>Tavlenummer</b></td><td>042.059.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.059.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.415833000</td></tr><tr><td><b>GPS Øst</b></td><td>12.134800000</td></tr><tr><td><b>Kilometrering</b></td><td>59.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.134800000,55.415833000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.065.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Tureby</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Th</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 006</td></tr><tr><td><b>Equipment</b></td><td>10468192</td></tr><tr><td><b>Tavlenummer</b></td><td>042.065.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.065.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.371422000</td></tr><tr><td><b>GPS Øst</b></td><td>12.072534000</td></tr><tr><td><b>Kilometrering</b></td><td>65.874</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.072534000,55.371422000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.068.C1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Tureby - Haslev</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Th - Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Tureby</td></tr><tr><td><b>Equipment</b></td><td>10905807</td></tr><tr><td><b>Tavlenummer</b></td><td>042.068.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.068.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.358283000</td></tr><tr><td><b>GPS Øst</b></td><td>12.040610000</td></tr><tr><td><b>Kilometrering</b></td><td>68.376</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Ventilation</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.040610000,55.358283000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.075.H1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Haslev</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Stationsbygning kælder </td></tr><tr><td><b>Equipment</b></td><td>10774120</td></tr><tr><td><b>Tavlenummer</b></td><td>042.075.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.329375000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.960986000</td></tr><tr><td><b>Kilometrering</b></td><td>74.367</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>BY</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.960986000, 55.329375000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.075.H4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Haslev</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 012</td></tr><tr><td><b>Equipment</b></td><td>10774330</td></tr><tr><td><b>Tavlenummer</b></td><td>042.075.H4</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.331360000</td></tr><tr><td><b>GPS Øst</b></td><td>11.965736000</td></tr><tr><td><b>Kilometrering</b></td><td>74.000</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>BY</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.965736000,55.331360000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.076.E2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Haslev - Holme-Olstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hz-Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Bråby Stationsby</td></tr><tr><td><b>Equipment</b></td><td>10903369</td></tr><tr><td><b>Tavlenummer</b></td><td>042.076.E2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td> 55.292948000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.907264000</td></tr><tr><td><b>Kilometrering</b></td><td>79.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Ventilation</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.907264000, 55.292948000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.085.A1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 004</td></tr><tr><td><b>Equipment</b></td><td>10122643</td></tr><tr><td><b>Tavlenummer</b></td><td>042.085.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.262825000</td></tr><tr><td><b>GPS Øst</b></td><td>11.855082000</td></tr><tr><td><b>Kilometrering</b></td><td>84.815</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.855082000,55.262825000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.085.A1.1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 003</td></tr><tr><td><b>Equipment</b></td><td>10122640</td></tr><tr><td><b>Tavlenummer</b></td><td>042.085.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.260374000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.847042000</td></tr><tr><td><b>Kilometrering</b></td><td>85.482</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.847042000, 55.260374000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>042.085.A1.2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 004</td></tr><tr><td><b>Equipment</b></td><td>10468193</td></tr><tr><td><b>Tavlenummer</b></td><td>042.085.A1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.262817000</td></tr><tr><td><b>GPS Øst</b></td><td>11.855055000</td></tr><tr><td><b>Kilometrering</b></td><td>84.816</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.855055000,55.262817000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>854.363.B1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ølby T</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Øl</td></tr><tr><td><b>Uddybende placering</b></td><td>Elevatortavle under perron</td></tr><tr><td><b>Equipment</b></td><td>10127685</td></tr><tr><td><b>Tavlenummer</b></td><td>854.363.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>854.363.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.479858000</td></tr><tr><td><b>GPS Øst</b></td><td>12.175797000</td></tr><tr><td><b>Kilometrering</b></td><td>51.039</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.175797000,55.479858000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
