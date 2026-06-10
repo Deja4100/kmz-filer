@@ -11,12 +11,12 @@
 </Style>
 
 <Placemark>
-  <name>Item 1</name>
+  <name>Ukendt</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Kabelskab</b></td><td></td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ukendt</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.622719000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.070493000</td></tr>
+<tr><td><b>Kabelskab</b></td><td>Ukendt</td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ukendt</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.622719000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.070493000</td></tr>
 </table>
 ]]>
 </description>
