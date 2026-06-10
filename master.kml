@@ -11,15 +11,40 @@
     <name>Bane 11b</name>
 
   <NetworkLink>
-    <name>Bane 11b - Hovedtavler</name>
-    <visibility>1</visibility>
-    <open>0</open>
-    <Link>
-      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
-    </Link>
-  </NetworkLink>
+  <name>Bane 11b - Hovedtavler</name>
+  <visibility>1</visibility>
+  <open>0</open>
+
+  <!-- REGION gør at Google Earth kun loader når brugeren er i området -->
+  <Region>
+    <LatLonAltBox>
+      <north>56.2</north>
+      <south>55.0</south>
+      <east>12.8</east>
+      <west>10.5</west>
+      <minAltitude>0</minAltitude>
+      <maxAltitude>0</maxAltitude>
+    </LatLonAltBox>
+
+    <Lod>
+      <!-- loader først når brugeren zoomer ind -->
+      <minLodPixels>128</minLodPixels>
+      <maxLodPixels>-1</maxLodPixels>
+    </Lod>
+  </Region>
+
+  <Link>
+    <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
+
+    <!-- skifter fra tidsbaseret til view-baseret loading -->
+    <viewRefreshMode>onRegion</viewRefreshMode>
+    <viewRefreshTime>2</viewRefreshTime>
+
+    <!-- fallback caching -->
+    <refreshMode>onExpire</refreshMode>
+    <refreshInterval>300</refreshInterval>
+  </Link>
+</NetworkLink>
 
   <NetworkLink>
     <name>Bane 11b - Undertavler</name>
