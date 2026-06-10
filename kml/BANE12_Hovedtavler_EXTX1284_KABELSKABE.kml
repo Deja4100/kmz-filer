@@ -41,12 +41,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mon Jul 01 4216 00:00:00 GMT+0200 (Central European Summer Time)</name>
+  <name>4216-7</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Kabelskab</b></td><td>Mon Jul 01 4216 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Højvangsvej 8a</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.590822</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.038146</td></tr>
+<tr><td><b>Kabelskab</b></td><td>4216-7</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Højvangsvej 8a</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.590822</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.038146</td></tr>
 </table>
 ]]>
 </description>
@@ -71,12 +71,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Wed Mar 01 3426 00:00:00 GMT+0100 (Central European Standard Time)</name>
+  <name>3426-3</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Kabelskab</b></td><td>Wed Mar 01 3426 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x120/60 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Viby Kro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.54931</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.024516</td></tr>
+<tr><td><b>Kabelskab</b></td><td>3426-3</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x120/60 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Viby Kro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.54931</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.024516</td></tr>
 </table>
 ]]>
 </description>
@@ -101,12 +101,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Wed Feb 01 4502 00:00:00 GMT+0100 (Central European Standard Time)</name>
+  <name>4502-2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Kabelskab</b></td><td>Wed Feb 01 4502 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x50 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Skovvejen 4</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.529965</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.995559</td></tr>
+<tr><td><b>Kabelskab</b></td><td>4502-2</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x50 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Skovvejen 4</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.529965</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.995559</td></tr>
 </table>
 ]]>
 </description>
