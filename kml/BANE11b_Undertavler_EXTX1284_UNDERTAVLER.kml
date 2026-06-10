@@ -16,12 +16,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Under stationen, nødstrømsrum</td></tr><tr><td><b>Equipment</b></td><td>10124000</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.648346000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269667000</td></tr><tr><td><b>Kilometrering</b></td><td>19.514</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg, sikkerhedsbelys.</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Under stationen, nødstrømsrum</td></tr><tr><td><b>Equipment</b></td><td>10124000</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.648372000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269424000</td></tr><tr><td><b>Kilometrering</b></td><td>19.514</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg, sikkerhedsbelys.</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
-    <coordinates>12.269667000,55.648346000,0</coordinates>
+    <coordinates> 12.269424000,55.648372000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -33,7 +33,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>UPS rum</td></tr><tr><td><b>Equipment</b></td><td>10860023</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.029.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.648378000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269664000</td></tr><tr><td><b>Kilometrering</b></td><td>19.514</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td>Bytavle</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.269664000,55.648378000,0</coordinates>
@@ -48,7 +48,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Kælder i stationsbygning</td></tr><tr><td><b>Equipment</b></td><td>10526585</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.648460000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269466000</td></tr><tr><td><b>Kilometrering</b></td><td>19.5</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.269466000,55.648460000,0</coordinates>
@@ -63,7 +63,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Spor 0, hytte 3</td></tr><tr><td><b>Equipment</b></td><td>10901399</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A1.1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A1.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.64729000</td></tr><tr><td><b>GPS Øst</b></td><td>12.258217000</td></tr><tr><td><b>Kilometrering</b></td><td>20.244</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.258217000,55.64729000,0</coordinates>
@@ -78,7 +78,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Spor 0, under gangbro</td></tr><tr><td><b>Equipment</b></td><td>10711539</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.648305000</td></tr><tr><td><b>GPS Øst</b></td><td>12.267467000</td></tr><tr><td><b>Kilometrering</b></td><td>19.7</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Perronbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.267467000,55.648305000,0</coordinates>
@@ -93,7 +93,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for spor 0</td></tr><tr><td><b>Equipment</b></td><td>10711540</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647868000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.263195000</td></tr><tr><td><b>Kilometrering</b></td><td>19.9</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.263195000, 55.647868000,0</coordinates>
@@ -108,7 +108,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for spor 0</td></tr><tr><td><b>Equipment</b></td><td>10711541</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A5.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647086000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.256146000</td></tr><tr><td><b>Kilometrering</b></td><td>20.4</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.256146000, 55.647086000,0</coordinates>
@@ -123,7 +123,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum spor 3 og 4</td></tr><tr><td><b>Equipment</b></td><td>10860916</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.648354000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269590000</td></tr><tr><td><b>Kilometrering</b></td><td>19.5</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.269590000,55.648354000,0</coordinates>
@@ -138,7 +138,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum spor 1 og 2</td></tr><tr><td><b>Equipment</b></td><td>10860917</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.648354000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269590000</td></tr><tr><td><b>Kilometrering</b></td><td>19.5</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.269590000,55.648354000,0</coordinates>
@@ -153,7 +153,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Pumpestyreskab spor 0</td></tr><tr><td><b>Equipment</b></td><td>10878865</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.A8</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648333000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.268465000</td></tr><tr><td><b>Kilometrering</b></td><td>19.689</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.268465000, 55.648333000,0</coordinates>
@@ -168,7 +168,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Equipment</b></td><td>10521564</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.646103000</td></tr><tr><td><b>GPS Øst</b></td><td>12.247398000</td></tr><tr><td><b>Kilometrering</b></td><td>20.946</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.247398000,55.646103000,0</coordinates>
@@ -181,9 +181,9 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 020</td></tr><tr><td><b>Equipment</b></td><td>10124067</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647816000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127692000</td></tr><tr><td><b>Kilometrering</b></td><td>28.580</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, FST blæser</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 020</td></tr><tr><td><b>Equipment</b></td><td>10124067</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647816000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127692000</td></tr><tr><td><b>Kilometrering</b></td><td>28.579</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, FST blæser</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.127692000,55.647816000,0</coordinates>
@@ -198,7 +198,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relehytte 021</td></tr><tr><td><b>Equipment</b></td><td>10124064</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647800000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127594000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS, køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.127594000,55.647800000,0</coordinates>
@@ -213,7 +213,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 020</td></tr><tr><td><b>Equipment</b></td><td>10922353</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647814000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127730000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.127730000, 55.647814000,0</coordinates>
@@ -228,7 +228,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 026900</td></tr><tr><td><b>Equipment</b></td><td>10124060</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.648834000</td></tr><tr><td><b>GPS Øst</b></td><td>12.154217000</td></tr><tr><td><b>Kilometrering</b></td><td>26.912</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.154217000,55.648834000,0</coordinates>
@@ -243,7 +243,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 025500</td></tr><tr><td><b>Equipment</b></td><td>10124057</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.650234000</td></tr><tr><td><b>GPS Øst</b></td><td>12.177182000</td></tr><tr><td><b>Kilometrering</b></td><td>25.454</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.177182000,55.650234000,0</coordinates>
@@ -258,7 +258,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 022300, Poppellunden</td></tr><tr><td><b>Equipment</b></td><td>10124048</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.644653000</td></tr><tr><td><b>GPS Øst</b></td><td>12.226533000</td></tr><tr><td><b>Kilometrering</b></td><td>22.264</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.226533000,55.644653000,0</coordinates>
@@ -273,7 +273,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Hedehusene T</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hh</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum elevator</td></tr><tr><td><b>Equipment</b></td><td>10128159</td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.648739000</td></tr><tr><td><b>GPS Øst</b></td><td>12.197806000</td></tr><tr><td><b>Kilometrering</b></td><td>24.137</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.197806000,55.648739000,0</coordinates>
@@ -288,7 +288,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 023700</td></tr><tr><td><b>Equipment</b></td><td>10124054</td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647564000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204611000</td></tr><tr><td><b>Kilometrering</b></td><td>23.689</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.204611000,55.647564000,0</coordinates>
@@ -303,7 +303,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 023710</td></tr><tr><td><b>Equipment</b></td><td>10124051</td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.B2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647587000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204505000</td></tr><tr><td><b>Kilometrering</b></td><td>23.696</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS, køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.204505000,55.647587000,0</coordinates>
@@ -318,7 +318,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Elevator rum</td></tr><tr><td><b>Equipment</b></td><td>10522193</td></tr><tr><td><b>Tavlenummer</b></td><td>012.029.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.029.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.647816000</td></tr><tr><td><b>GPS Øst</b></td><td>12.132432000</td></tr><tr><td><b>Kilometrering</b></td><td>28.290</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.132432000,55.647816000,0</coordinates>
@@ -333,7 +333,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Trekroner T</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Trk</td></tr><tr><td><b>Uddybende placering</b></td><td>Elevator rum</td></tr><tr><td><b>Equipment</b></td><td>10131896</td></tr><tr><td><b>Tavlenummer</b></td><td>012.029.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.029.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.647976000</td></tr><tr><td><b>GPS Øst</b></td><td>12.132406000</td></tr><tr><td><b>Kilometrering</b></td><td>28.285</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.132406000,55.647976000,0</coordinates>
@@ -348,7 +348,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE ved kranstop</td></tr><tr><td><b>Equipment</b></td><td>10459893</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.639152000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250637000</td></tr><tr><td><b>Kilometrering</b></td><td>21.484</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.250637000,55.639152000,0</coordinates>
@@ -363,7 +363,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Fremmednetstander ved spor 105</td></tr><tr><td><b>Equipment</b></td><td>10903342</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A10</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636071000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249859000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.249859000, 55.636071000,0</coordinates>
@@ -378,7 +378,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Terrænlys nord, 18m mast</td></tr><tr><td><b>Equipment</b></td><td>10868535</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.637308000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250802000</td></tr><tr><td><b>Kilometrering</b></td><td>21.253</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pladsbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.250802000,55.637308000,0</coordinates>
@@ -393,7 +393,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Terrænlys midt, 18m mast</td></tr><tr><td><b>Equipment</b></td><td>10868536</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A2</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.639163000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250857000</td></tr><tr><td><b>Kilometrering</b></td><td>21.679</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pladsbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.250857000, 55.639163000,0</coordinates>
@@ -408,7 +408,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Terrænlys øst, 18m mast</td></tr><tr><td><b>Equipment</b></td><td>10868537</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A2.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A2</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.641291000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250939000</td></tr><tr><td><b>Kilometrering</b></td><td>21.701</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pladsbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.250939000, 55.641291000,0</coordinates>
@@ -423,7 +423,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Bomhus</td></tr><tr><td><b>Equipment</b></td><td>10779583</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635164000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249805000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.249805000, 55.635164000,0</coordinates>
@@ -438,7 +438,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>I træbygning nord</td></tr><tr><td><b>Equipment</b></td><td>10696240</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td> 55.642921000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250723000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.250723000, 55.642921000,0</coordinates>
@@ -453,7 +453,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved gammel kran</td></tr><tr><td><b>Equipment</b></td><td>10903345</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.C1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C1</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.642001000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250767000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.250767000, 55.642001000,0</coordinates>
@@ -468,7 +468,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>På containerplads, CEE til køl</td></tr><tr><td><b>Equipment</b></td><td>10779579</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.636190000</td></tr><tr><td><b>GPS Øst</b></td><td>12.248817000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.248817000,55.636190000,0</coordinates>
@@ -483,7 +483,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved vaskeplads</td></tr><tr><td><b>Equipment</b></td><td>10779582</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.F2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.635475000</td></tr><tr><td><b>GPS Øst</b></td><td>12.249423000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.249423000,55.635475000,0</coordinates>
@@ -498,7 +498,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-024, indenfor hegn</td></tr><tr><td><b>Equipment</b></td><td>10862143</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.636167000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250993000</td></tr><tr><td><b>Kilometrering</b></td><td>20.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR-024</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.250993000,55.636167000,0</coordinates>
@@ -513,7 +513,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning - Triarca skab</td></tr><tr><td><b>Equipment</b></td><td>10864147</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638055000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.248146000</td></tr><tr><td><b>Kilometrering</b></td><td>20.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Belysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.248146000, 55.638055000,0</coordinates>
@@ -528,7 +528,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Skærvehal</td></tr><tr><td><b>Equipment</b></td><td>10864148</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.I2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td> 55.639525000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.248664000</td></tr><tr><td><b>Kilometrering</b></td><td>20.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lagerhal</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.248664000, 55.639525000,0</coordinates>
@@ -543,7 +543,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE tavle og sporskifter</td></tr><tr><td><b>Equipment</b></td><td>10864149</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.I3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636098000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.247717000</td></tr><tr><td><b>Kilometrering</b></td><td>20.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>CEE stik og spskv</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.247717000, 55.636098000,0</coordinates>
@@ -558,7 +558,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE tavle og sporskifter</td></tr><tr><td><b>Equipment</b></td><td>10864150</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.I4</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td> 55.639576000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.248189000</td></tr><tr><td><b>Kilometrering</b></td><td>20.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>CEE stik og spskv</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.248189000, 55.639576000,0</coordinates>
@@ -573,7 +573,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP, i kælder/3. sal</td></tr><tr><td><b>Equipment</b></td><td>10123055</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.637817000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084642000</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084642000,55.637817000,0</coordinates>
@@ -588,7 +588,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>UPS tavle i kælder</td></tr><tr><td><b>Equipment</b></td><td>10123052</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.637817000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084642000</td></tr><tr><td><b>Kilometrering</b></td><td>31.562</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084642000,55.637817000,0</coordinates>
@@ -603,7 +603,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP, 1 sal</td></tr><tr><td><b>Equipment</b></td><td>10779596</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637817000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084642000</td></tr><tr><td><b>Kilometrering</b></td><td>31.58</td></tr><tr><td><b>Sikringsstørrelse</b></td><td></td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084642000,55.637817000,0</coordinates>
@@ -618,7 +618,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relærum, 2. sal, ensretter 230v</td></tr><tr><td><b>Equipment</b></td><td>10123027</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.637817000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084642000</td></tr><tr><td><b>Kilometrering</b></td><td>31.561</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084642000,55.637817000,0</coordinates>
@@ -633,7 +633,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP stativ 890 2.sal</td></tr><tr><td><b>Equipment</b></td><td>10569323</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.637875000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084684000</td></tr><tr><td><b>Kilometrering</b></td><td>31.552</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084684000,55.637875000,0</coordinates>
@@ -646,9 +646,9 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, U hytte 2327</td></tr><tr><td><b>Equipment</b></td><td>10900553</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.630322000</td></tr><tr><td><b>GPS Øst</b></td><td>12.071470000</td></tr><tr><td><b>Kilometrering</b></td><td>32.737</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, U hytte 2327</td></tr><tr><td><b>Equipment</b></td><td>10900553</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.630322000</td></tr><tr><td><b>GPS Øst</b></td><td>12.071470000</td></tr><tr><td><b>Kilometrering</b></td><td>32.760</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.071470000,55.630322000,0</coordinates>
@@ -663,7 +663,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, I hytte 1329</td></tr><tr><td><b>Equipment</b></td><td>10900554</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.628933000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.069372000</td></tr><tr><td><b>Kilometrering</b></td><td>32.939</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.069372000, 55.628933000,0</coordinates>
@@ -678,7 +678,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, U hytte 4321</td></tr><tr><td><b>Equipment</b></td><td>10900555</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.630287000</td></tr><tr><td><b>GPS Øst</b></td><td>12.071429000</td></tr><tr><td><b>Kilometrering</b></td><td>32.7</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.071429000,55.630287000,0</coordinates>
@@ -693,7 +693,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, I hytte 3329</td></tr><tr><td><b>Equipment</b></td><td>10900556</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.628954000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.069417000</td></tr><tr><td><b>Kilometrering</b></td><td>32.3</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.069417000, 55.628954000,0</coordinates>
@@ -708,7 +708,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I hytte 3328</td></tr><tr><td><b>Equipment</b></td><td>10901689</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.633251000</td></tr><tr><td><b>GPS Øst</b></td><td>12.076047000</td></tr><tr><td><b>Kilometrering</b></td><td>32.306</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.076047000,55.633251000,0</coordinates>
@@ -723,7 +723,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 025, skab 4</td></tr><tr><td><b>Equipment</b></td><td>10903318</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637206000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.083359000</td></tr><tr><td><b>Kilometrering</b></td><td>31.662</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.083359000, 55.637206000,0</coordinates>
@@ -738,7 +738,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 015, skab 3</td></tr><tr><td><b>Equipment</b></td><td>10903317</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.3.5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2.3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636851000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.083755000</td></tr><tr><td><b>Kilometrering</b></td><td>31.662</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.083755000, 55.636851000,0</coordinates>
@@ -753,7 +753,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. Sal kopirum</td></tr><tr><td><b>Equipment</b></td><td>10569324</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637875000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084684000</td></tr><tr><td><b>Kilometrering</b></td><td>31.552</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084684000,55.637875000,0</coordinates>
@@ -768,7 +768,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP telerum 1. sal</td></tr><tr><td><b>Equipment</b></td><td>10569325</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.7</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637859000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084736000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>IT rack</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084736000,55.637859000,0</coordinates>
@@ -783,7 +783,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP telerum 1. sal</td></tr><tr><td><b>Equipment</b></td><td>10569327</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A1.2.8</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637856000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084775000</td></tr><tr><td><b>Kilometrering</b></td><td>31.548</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>IT rack/KC hytte</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084775000,55.637856000,0</coordinates>
@@ -798,7 +798,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP telerum 1. sal</td></tr><tr><td><b>Equipment</b></td><td>10569329</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637844000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084727000</td></tr><tr><td><b>Kilometrering</b></td><td>31.552</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Bynet 1</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084727000,55.637844000,0</coordinates>
@@ -813,7 +813,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP køleanlæg tag</td></tr><tr><td><b>Equipment</b></td><td>10569333</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A13</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.637844000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084749000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Serviceafbryder</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084749000,55.637844000,0</coordinates>
@@ -828,7 +828,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP køleanlæg tag</td></tr><tr><td><b>Equipment</b></td><td>10569334</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A14</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.637844000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084749000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Serviceafbryder</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084749000,55.637844000,0</coordinates>
@@ -843,7 +843,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Equipment</b></td><td>10569326</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A15</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637859000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084764000</td></tr><tr><td><b>Kilometrering</b></td><td>31.549</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084764000,55.637859000,0</coordinates>
@@ -858,7 +858,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP befugtningsanlæg tag</td></tr><tr><td><b>Equipment</b></td><td>10569335</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A16</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.637848000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084745000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Condair</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084745000,55.637848000,0</coordinates>
@@ -873,7 +873,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP befugtningsanlæg tag</td></tr><tr><td><b>Equipment</b></td><td>10569336</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A17</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.637852000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084732000</td></tr><tr><td><b>Kilometrering</b></td><td>31.551</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Condair</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084732000,55.637852000,0</coordinates>
@@ -888,7 +888,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relærum KMP. 2. sal</td></tr><tr><td><b>Equipment</b></td><td>10123049</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637783000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084579000</td></tr><tr><td><b>Kilometrering</b></td><td>31.563</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084579000,55.637783000,0</coordinates>
@@ -903,7 +903,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Hytte 5</td></tr><tr><td><b>Equipment</b></td><td>10529743</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A3.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.640366000</td></tr><tr><td><b>GPS Øst</b></td><td>12.092432000</td></tr><tr><td><b>Kilometrering</b></td><td>30.990</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.092432000,55.640366000,0</coordinates>
@@ -918,7 +918,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Hytte 6</td></tr><tr><td><b>Equipment</b></td><td>10529742</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A3.5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.641785000</td></tr><tr><td><b>GPS Øst</b></td><td>12.096327000</td></tr><tr><td><b>Kilometrering</b></td><td>30.699</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.096327000,55.641785000,0</coordinates>
@@ -933,7 +933,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP elevator 3.sal</td></tr><tr><td><b>Equipment</b></td><td>10569328</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.637844000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084699000</td></tr><tr><td><b>Kilometrering</b></td><td>31.553</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084699000,55.637844000,0</coordinates>
@@ -948,7 +948,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP køleanlæg tag, serviceafbryder</td></tr><tr><td><b>Equipment</b></td><td>10569330</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637856000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084745000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084745000,55.637856000,0</coordinates>
@@ -963,7 +963,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP CTS anlæg kælder</td></tr><tr><td><b>Equipment</b></td><td>10569331</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>20</td></tr><tr><td><b>GPS Nord</b></td><td>55.637829000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084780000</td></tr><tr><td><b>Kilometrering</b></td><td>31.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084780000,55.637829000,0</coordinates>
@@ -978,7 +978,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum i kælder u. KMP/FC-Ro</td></tr><tr><td><b>Equipment</b></td><td>10520969</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A8</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.637754500</td></tr><tr><td><b>GPS Øst</b></td><td>12.084749000</td></tr><tr><td><b>Kilometrering</b></td><td>32.125</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084749000,55.637754500,0</coordinates>
@@ -993,7 +993,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP telerum 1.sal</td></tr><tr><td><b>Equipment</b></td><td>10569332</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.A9</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637840000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084772000</td></tr><tr><td><b>Kilometrering</b></td><td>31.549</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Bynet 2</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084772000,55.637840000,0</coordinates>
@@ -1008,7 +1008,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum perron 1, elevator 1</td></tr><tr><td><b>Equipment</b></td><td>10122945</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.638271000</td></tr><tr><td><b>GPS Øst</b></td><td>12.086520000</td></tr><tr><td><b>Kilometrering</b></td><td>31.430</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.086520000,55.638271000,0</coordinates>
@@ -1023,7 +1023,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum perron 2, elevator 2</td></tr><tr><td><b>Equipment</b></td><td>10122942</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.C2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.638209637</td></tr><tr><td><b>GPS Øst</b></td><td>12.086987000</td></tr><tr><td><b>Kilometrering</b></td><td>31.409</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.086987000,55.638209637,0</coordinates>
@@ -1038,7 +1038,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum perron 3, elevator 3</td></tr><tr><td><b>Equipment</b></td><td>10122939</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.C3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638138000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.087052000</td></tr><tr><td><b>Kilometrering</b></td><td>31.414</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.087052000, 55.638138000,0</coordinates>
@@ -1053,7 +1053,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum perron 4, elevator 4</td></tr><tr><td><b>Equipment</b></td><td>10122936</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.C4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638006000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.087210000</td></tr><tr><td><b>Kilometrering</b></td><td>31.403</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.087210000, 55.638006000,0</coordinates>
@@ -1068,7 +1068,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Maskinrum, elevator 5</td></tr><tr><td><b>Equipment</b></td><td>10123058</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.C5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.637722000</td></tr><tr><td><b>GPS Øst</b></td><td>12.087667000</td></tr><tr><td><b>Kilometrering</b></td><td>31.400</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Elevator</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.087667000,55.637722000,0</coordinates>
@@ -1083,7 +1083,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavle i kompressorrum</td></tr><tr><td><b>Equipment</b></td><td>10123970</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634634000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079680000</td></tr><tr><td><b>Kilometrering</b></td><td>32.028</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079680000,55.634634000,0</coordinates>
@@ -1098,7 +1098,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På siden af industrivaskemaskine</td></tr><tr><td><b>Equipment</b></td><td>10667930</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.635154000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080278000</td></tr><tr><td><b>Kilometrering</b></td><td>31.959</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080278000,55.635154000,0</coordinates>
@@ -1113,7 +1113,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Slangerum i barrak</td></tr><tr><td><b>Equipment</b></td><td>10667931</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F11</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.635509000</td></tr><tr><td><b>GPS Øst</b></td><td>12.081212000</td></tr><tr><td><b>Kilometrering</b></td><td>31.889</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.081212000,55.635509000,0</coordinates>
@@ -1128,7 +1128,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tømrerværksted</td></tr><tr><td><b>Equipment</b></td><td>10667954</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F11.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F11</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.635389000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080883000</td></tr><tr><td><b>Kilometrering</b></td><td>31.913</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080883000,55.635389000,0</coordinates>
@@ -1143,7 +1143,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tømrerværksted</td></tr><tr><td><b>Equipment</b></td><td>10667955</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F11.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F11</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.635389000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080883000</td></tr><tr><td><b>Kilometrering</b></td><td>31.913</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080883000,55.635389000,0</coordinates>
@@ -1158,7 +1158,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavle på mast</td></tr><tr><td><b>Equipment</b></td><td>10667956</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F11.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F11</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.635762000</td></tr><tr><td><b>GPS Øst</b></td><td>12.081134000</td></tr><tr><td><b>Kilometrering</b></td><td>31.871</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.081134000,55.635762000,0</coordinates>
@@ -1173,7 +1173,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Gartnerlager</td></tr><tr><td><b>Equipment</b></td><td>10667957</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F11.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F11</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.635349000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080802000</td></tr><tr><td><b>Kilometrering</b></td><td>31.920</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080802000,55.635349000,0</coordinates>
@@ -1188,7 +1188,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I koldlager</td></tr><tr><td><b>Equipment</b></td><td>10667932</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F12</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.634375000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078429000</td></tr><tr><td><b>Kilometrering</b></td><td>32.105</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.078429000,55.634375000,0</coordinates>
@@ -1203,7 +1203,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I koldlager</td></tr><tr><td><b>Equipment</b></td><td>10667959</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F12.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F12</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.634393000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078428000</td></tr><tr><td><b>Kilometrering</b></td><td>32.104</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.078428000,55.634393000,0</coordinates>
@@ -1218,7 +1218,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Ventilation på tag</td></tr><tr><td><b>Equipment</b></td><td>10667933</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F13</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634986000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080349000</td></tr><tr><td><b>Kilometrering</b></td><td>31.969</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080349000,55.634986000,0</coordinates>
@@ -1233,7 +1233,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavler i terræn bag værkstedshal</td></tr><tr><td><b>Equipment</b></td><td>10667934</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F14</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.635196000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079857000</td></tr><tr><td><b>Kilometrering</b></td><td>31.975</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079857000,55.635196000,0</coordinates>
@@ -1248,7 +1248,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavler i terræn bag værkstedshal</td></tr><tr><td><b>Equipment</b></td><td>10667935</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F15</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634939000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079277000</td></tr><tr><td><b>Kilometrering</b></td><td>32.022</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079277000,55.634939000,0</coordinates>
@@ -1263,7 +1263,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag skydevæg i værkstedshal</td></tr><tr><td><b>Equipment</b></td><td>10667923</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.634736000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079732000</td></tr><tr><td><b>Kilometrering</b></td><td>32.017</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Varmeanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079732000,55.634736000,0</coordinates>
@@ -1278,7 +1278,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag skydevæg i værkstedshal</td></tr><tr><td><b>Equipment</b></td><td>10667924</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634747000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079760000</td></tr><tr><td><b>Kilometrering</b></td><td>32.015</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Fordelingstavle</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079760000,55.634747000,0</coordinates>
@@ -1293,7 +1293,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667937</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.634743000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079718000</td></tr><tr><td><b>Kilometrering</b></td><td>32.017</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079718000,55.634743000,0</coordinates>
@@ -1308,7 +1308,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667938</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.634743000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079718000</td></tr><tr><td><b>Kilometrering</b></td><td>32.017</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079718000,55.634743000,0</coordinates>
@@ -1323,7 +1323,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667941</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.634931000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080051000</td></tr><tr><td><b>Kilometrering</b></td><td>31.987</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080051000,55.634931000,0</coordinates>
@@ -1338,7 +1338,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667942</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.1.1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3.1.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.635019000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080226000</td></tr><tr><td><b>Kilometrering</b></td><td>31.972</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080226000,55.635019000,0</coordinates>
@@ -1353,7 +1353,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667940</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.634838000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079893000</td></tr><tr><td><b>Kilometrering</b></td><td>32.002</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079893000,55.634838000,0</coordinates>
@@ -1368,7 +1368,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal syd</td></tr><tr><td><b>Equipment</b></td><td>10667939</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F3.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F3</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.634838000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079893000</td></tr><tr><td><b>Kilometrering</b></td><td>32.002</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079893000,55.634838000,0</coordinates>
@@ -1383,7 +1383,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag skydevæg i værkstedshal</td></tr><tr><td><b>Equipment</b></td><td>10667925</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634747000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079760000</td></tr><tr><td><b>Kilometrering</b></td><td>32.015</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td>Fordelingstavle</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079760000,55.634747000,0</coordinates>
@@ -1398,7 +1398,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667943</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.634841000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079512000</td></tr><tr><td><b>Kilometrering</b></td><td>32.019</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079512000,55.634841000,0</coordinates>
@@ -1413,7 +1413,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667944</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.634841000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079512000</td></tr><tr><td><b>Kilometrering</b></td><td>32.019</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079512000,55.634841000,0</coordinates>
@@ -1428,7 +1428,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667947</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.635031000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079843000</td></tr><tr><td><b>Kilometrering</b></td><td>31.989</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079843000,55.635031000,0</coordinates>
@@ -1443,7 +1443,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667948</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.1.1.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4.1.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.635118000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080002000</td></tr><tr><td><b>Kilometrering</b></td><td>31.975</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080002000,55.635118000,0</coordinates>
@@ -1458,7 +1458,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667949</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.1.1.1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4.1.1.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.635118000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080002000</td></tr><tr><td><b>Kilometrering</b></td><td>31.795</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080002000,55.635118000,0</coordinates>
@@ -1473,7 +1473,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>CEE-stik hal nord</td></tr><tr><td><b>Equipment</b></td><td>10667946</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F4.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F4</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.634938000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079675000</td></tr><tr><td><b>Kilometrering</b></td><td>32</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079675000,55.634938000,0</coordinates>
@@ -1488,7 +1488,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På Kran, 8m højde</td></tr><tr><td><b>Equipment</b></td><td>10667926</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079558000,55.634660000,0</coordinates>
@@ -1503,7 +1503,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På Kran, 8m højde</td></tr><tr><td><b>Equipment</b></td><td>10667951</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F5</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079558000,55.634660000,0</coordinates>
@@ -1518,7 +1518,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Printerrum i barrak, i skab</td></tr><tr><td><b>Equipment</b></td><td>10667927</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.635202000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080611000</td></tr><tr><td><b>Kilometrering</b></td><td>31.940</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080611000,55.635202000,0</coordinates>
@@ -1533,7 +1533,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Koldlager hal, til venstre</td></tr><tr><td><b>Equipment</b></td><td>10667928</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F7</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634150000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078832000</td></tr><tr><td><b>Kilometrering</b></td><td>32.104</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.078832000,55.634150000,0</coordinates>
@@ -1548,7 +1548,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Småmaskine værksted</td></tr><tr><td><b>Equipment</b></td><td>10667929</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F8</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.634904000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080078000</td></tr><tr><td><b>Kilometrering</b></td><td>31.988</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080078000,55.634904000,0</coordinates>
@@ -1563,7 +1563,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Smedje</td></tr><tr><td><b>Equipment</b></td><td>10667952</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F8.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F8</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.635162000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080297000</td></tr><tr><td><b>Kilometrering</b></td><td>31.958</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080297000,55.635162000,0</coordinates>
@@ -1578,7 +1578,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Smedje</td></tr><tr><td><b>Equipment</b></td><td>10667953</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F8.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F8.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.635191000</td></tr><tr><td><b>GPS Øst</b></td><td>12.080354000</td></tr><tr><td><b>Kilometrering</b></td><td>31.953</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.080354000,55.635191000,0</coordinates>
@@ -1593,7 +1593,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Stenvænget adm. under trappe</td></tr><tr><td><b>Equipment</b></td><td>10569256</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F9</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634569000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079707000</td></tr><tr><td><b>Kilometrering</b></td><td>32.018</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.079707000,55.634569000,0</coordinates>
@@ -1608,7 +1608,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for sporet ved GSMR</td></tr><tr><td><b>Equipment</b></td><td>10123967</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.636841000</td></tr><tr><td><b>GPS Øst</b></td><td>12.083733000</td></tr><tr><td><b>Kilometrering</b></td><td>31.662</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.083733000,55.636841000,0</coordinates>
@@ -1623,7 +1623,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for sporet</td></tr><tr><td><b>Equipment</b></td><td>10678172</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.637527000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084272000</td></tr><tr><td><b>Kilometrering</b></td><td>31.594</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Fremmednetstander, lys</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084272000,55.637527000,0</coordinates>
@@ -1638,7 +1638,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.483</td></tr><tr><td><b>Equipment</b></td><td>10856443</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.638026000</td></tr><tr><td><b>GPS Øst</b></td><td>12.085870000</td></tr><tr><td><b>Kilometrering</b></td><td>31.483</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.085870000,55.638026000,0</coordinates>
@@ -1653,7 +1653,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.806</td></tr><tr><td><b>Equipment</b></td><td>10856444</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.636492000</td></tr><tr><td><b>GPS Øst</b></td><td>12.081442000</td></tr><tr><td><b>Kilometrering</b></td><td>31.806</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.081442000,55.636492000,0</coordinates>
@@ -1668,7 +1668,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.515</td></tr><tr><td><b>Equipment</b></td><td>10856445</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637906000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.085399000</td></tr><tr><td><b>Kilometrering</b></td><td>31.515</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.085399000, 55.637906000,0</coordinates>
@@ -1683,7 +1683,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.551</td></tr><tr><td><b>Equipment</b></td><td>10856446</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.637709000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084875000</td></tr><tr><td><b>Kilometrering</b></td><td>31.551</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084875000,55.637709000,0</coordinates>
@@ -1698,7 +1698,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.586</td></tr><tr><td><b>Equipment</b></td><td>10856525</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.637578000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084427000</td></tr><tr><td><b>Kilometrering</b></td><td>31.586</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.084427000,55.637578000,0</coordinates>
@@ -1713,7 +1713,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.631</td></tr><tr><td><b>Equipment</b></td><td>10856526</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.637351000</td></tr><tr><td><b>GPS Øst</b></td><td>12.083858000</td></tr><tr><td><b>Kilometrering</b></td><td>31.631</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.083858000,55.637351000,0</coordinates>
@@ -1728,7 +1728,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.660</td></tr><tr><td><b>Equipment</b></td><td>10856527</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.637221000</td></tr><tr><td><b>GPS Øst</b></td><td>12.083420000</td></tr><tr><td><b>Kilometrering</b></td><td>31.660</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.083420000,55.637221000,0</coordinates>
@@ -1743,7 +1743,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.702</td></tr><tr><td><b>Equipment</b></td><td>10856528</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.7</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.637024000</td></tr><tr><td><b>GPS Øst</b></td><td>12.082854000</td></tr><tr><td><b>Kilometrering</b></td><td>31.702</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.082854000,55.637024000,0</coordinates>
@@ -1758,7 +1758,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.732</td></tr><tr><td><b>Equipment</b></td><td>10856529</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.8</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.636915000</td></tr><tr><td><b>GPS Øst</b></td><td>12.082451000</td></tr><tr><td><b>Kilometrering</b></td><td>31.732</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.082451000,55.636915000,0</coordinates>
@@ -1773,7 +1773,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Belysning 31.763</td></tr><tr><td><b>Equipment</b></td><td>10856530</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G2.9</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.636739000</td></tr><tr><td><b>GPS Øst</b></td><td>12.082055000</td></tr><tr><td><b>Kilometrering</b></td><td>31.763</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Terrænbelysning</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.082055000,55.636739000,0</coordinates>
@@ -1788,7 +1788,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-003</td></tr><tr><td><b>Equipment</b></td><td>10569253</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.G3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.636814000</td></tr><tr><td><b>GPS Øst</b></td><td>12.083613000</td></tr><tr><td><b>Kilometrering</b></td><td>31.670</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GMSR</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.083613000,55.636814000,0</coordinates>
@@ -1803,7 +1803,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Gammelt værksted</td></tr><tr><td><b>Equipment</b></td><td>10122951</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.630659000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.072142000</td></tr><tr><td><b>Kilometrering</b></td><td>32.679</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Varmepumper</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates> 12.072142000, 55.630659000,0</coordinates>
@@ -1818,7 +1818,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Gammelt værksted</td></tr><tr><td><b>Equipment</b></td><td>10122948</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.H2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.630585000</td></tr><tr><td><b>GPS Øst</b></td><td>12.072035000</td></tr><tr><td><b>Kilometrering</b></td><td>32.692</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.072035000,55.630585000,0</coordinates>
@@ -1833,7 +1833,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Garage</td></tr><tr><td><b>Equipment</b></td><td>10905181</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.H2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H2</td></tr><tr><td><b>Forsikring (A)</b></td><td>20</td></tr><tr><td><b>GPS Nord</b></td><td>55.630783000</td></tr><tr><td><b>GPS Øst</b></td><td>12.072388000</td></tr><tr><td><b>Kilometrering</b></td><td>32.659</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.072388000,55.630783000,0</coordinates>
@@ -1848,7 +1848,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet </td></tr><tr><td><b>Equipment</b></td><td>10819112</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.H3</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.628855000</td></tr><tr><td><b>GPS Øst</b></td><td>12.07005000</td></tr><tr><td><b>Kilometrering</b></td><td>32.9</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.07005000,55.628855000,0</coordinates>
@@ -1863,7 +1863,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Bakkeleddet, administrationsbygning</td></tr><tr><td><b>Equipment</b></td><td>10908680</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.H4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.630355000</td></tr><tr><td><b>GPS Øst</b></td><td>12.071844000</td></tr><tr><td><b>Kilometrering</b></td><td>32.9</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.071844000, 55.630355000,0</coordinates>
@@ -1878,7 +1878,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 030170</td></tr><tr><td><b>Equipment</b></td><td>10856531</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.O1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.O </td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.644306000</td></tr><tr><td><b>GPS Øst</b></td><td>12.103468000</td></tr><tr><td><b>Kilometrering</b></td><td>30.172</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.103468000,55.644306000,0</coordinates>
@@ -1893,7 +1893,7 @@
 <table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I terræn, CEE-stik stander</td></tr><tr><td><b>Equipment</b></td><td>10667754</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.P1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.P</td></tr><tr><td><b>Forsikring (A)</b></td><td>40</td></tr><tr><td><b>GPS Nord</b></td><td>55.634166000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078563000</td></tr><tr><td><b>Kilometrering</b></td><td>32.1</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
-]]
+]]>
 </description>
   <Point>
     <coordinates>12.078563000,55.634166000,0</coordinates>
