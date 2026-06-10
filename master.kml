@@ -106,6 +106,49 @@
 
   <Folder>
     <name>Bane 13</name>
+<NetworkLink>
+    <name>Bane 13 - Hovedtavler</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+<NetworkLink>
+    <name>Bane 13 - Undertavler</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+<NetworkLink>
+    <name>Bane 13 - System 2000</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_ESNI1_ESNI1.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+<NetworkLink>
+    <name>Bane 13 - Kabelskabe</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Link>
+      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
   </Folder>
 
   <Folder>
