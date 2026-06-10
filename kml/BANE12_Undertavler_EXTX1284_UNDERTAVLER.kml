@@ -361,7 +361,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Borup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 0033</td></tr><tr><td><b>Equipment</b></td><td>10456003</td></tr><tr><td><b>Tavlenummer</b></td><td>014.049.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.495102000</td></tr><tr><td><b>GPS Øst</b></td><td>11.972478000</td></tr><tr><td><b>Kilometrering</b></td><td>49.668</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Borup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 003</td></tr><tr><td><b>Equipment</b></td><td>10456003</td></tr><tr><td><b>Tavlenummer</b></td><td>014.049.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.495102000</td></tr><tr><td><b>GPS Øst</b></td><td>11.972478000</td></tr><tr><td><b>Kilometrering</b></td><td>49.668</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
 ]]>
 </description>
