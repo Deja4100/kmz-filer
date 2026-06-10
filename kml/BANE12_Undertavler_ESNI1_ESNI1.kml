@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Bane 12 - ESNI1</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/icons8-train-track-50.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>014.043.A6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Viby Sjælland</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10522175</td></tr><tr><td><b>Tavlenummer</b></td><td>014.043.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.043.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.546890000</td></tr><tr><td><b>GPS Øst</b></td><td>12.019918000</td></tr><tr><td><b>Kilometrering</b></td><td>43.122</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S1 3001_100</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.019918000,55.546890000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>014.043.A7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Viby Sjælland</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10522174</td></tr><tr><td><b>Tavlenummer</b></td><td>014.043.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.043.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.551843000</td></tr><tr><td><b>GPS Øst</b></td><td>12.027584000</td></tr><tr><td><b>Kilometrering</b></td><td>42.165</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3001</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.027584000,55.551843000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>014.049.C2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Borup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10529701</td></tr><tr><td><b>Tavlenummer</b></td><td>014.049.C2</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.491051000</td></tr><tr><td><b>GPS Øst</b></td><td>11.971006000</td></tr><tr><td><b>Kilometrering</b></td><td>50.131</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S1 3004_100</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.971006000,55.491051000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>014.049.D4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Borup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10529700</td></tr><tr><td><b>Tavlenummer</b></td><td>014.049.D4</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td> 55.499549000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.973038000</td></tr><tr><td><b>Kilometrering</b></td><td>49.180</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3004</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.973038000, 55.499549000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>014.057.A6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Kværkeby</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ky</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10529787</td></tr><tr><td><b>Tavlenummer</b></td><td>014.057.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.057.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.452033000</td></tr><tr><td><b>GPS Øst</b></td><td>11.902941000</td></tr><tr><td><b>Kilometrering</b></td><td>56.356</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3005</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.902941000,55.452033000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>014.057.A7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Kværkeby</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ky</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10569347</td></tr><tr><td><b>Tavlenummer</b></td><td>014.057.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.057.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.449258000</td></tr><tr><td><b>GPS Øst</b></td><td>11.887529000</td></tr><tr><td><b>Kilometrering</b></td><td>57.380</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S1 3005_100</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.887529000,55.449258000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.C1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10707009</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td> 55.438244000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.794478000</td></tr><tr><td><b>Kilometrering</b></td><td>63.122</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S1 3202_100</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.794478000, 55.438244000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.C2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10128313</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.C2</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td> 55.438282000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.792995000</td></tr><tr><td><b>Kilometrering</b></td><td>63.491</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S2 3111_200</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.792995000, 55.438282000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.C3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10128300</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.C3</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.438171000</td></tr><tr><td><b>GPS Øst</b></td><td>11.790882000</td></tr><tr><td><b>Kilometrering</b></td><td>64.349</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3111</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.790882000,55.438171000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.D1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10128269</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td> 55.437626000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.778748000</td></tr><tr><td><b>Kilometrering</b></td><td>64.384</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S3 3111_300</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.778748000, 55.437626000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.D2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10128257</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.D2</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td> 55.437729000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.778649000</td></tr><tr><td><b>Kilometrering</b></td><td>64.429</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S4 3111_400</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.778649000, 55.437729000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.D3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10128244</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.D3</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.437424400</td></tr><tr><td><b>GPS Øst</b></td><td>11.772596200</td></tr><tr><td><b>Kilometrering</b></td><td>64.795</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>3</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S5 3111_500</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.772596200,55.437424400,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.H1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10668839</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td> 55.427059000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.759509000</td></tr><tr><td><b>Kilometrering</b></td><td>63.387</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3203</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.759509000, 55.427059000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.J1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10668784</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.J1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.J</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.438768000</td></tr><tr><td><b>GPS Øst</b></td><td>11.805648000</td></tr><tr><td><b>Kilometrering</b></td><td>62.699</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S3 3202_300</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.805648000,55.438768000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.J2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10668785</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.J2</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.J</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.438768000</td></tr><tr><td><b>GPS Øst</b></td><td>11.805648000</td></tr><tr><td><b>Kilometrering</b></td><td>62.699</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-M 3202</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.805648000,55.438768000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.J3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10707010</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.J3</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.J</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.438768000</td></tr><tr><td><b>GPS Øst</b></td><td>11.805648000</td></tr><tr><td><b>Kilometrering</b></td><td>62.699</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S2 3202_200</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.805648000,55.438768000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.K1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10668786</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.K1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.K</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.438981000</td></tr><tr><td><b>GPS Øst</b></td><td>11.811305000</td></tr><tr><td><b>Kilometrering</b></td><td>62.341</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S4 3202_400</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.811305000,55.438981000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.K2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10668787</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.K2</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.K</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>55.439106000</td></tr><tr><td><b>GPS Øst</b></td><td>11.811373000</td></tr><tr><td><b>Kilometrering</b></td><td>62.336</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S5 3202_500</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.811373000,55.439106000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.L1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10735473</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.L1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.L</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.4374539000</td></tr><tr><td><b>GPS Øst</b></td><td>11.7808316000</td></tr><tr><td><b>Kilometrering</b></td><td>64.279</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>SPSKV-S4</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.7808316000,55.4374539000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>015.000.M1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Equipment</b></td><td>10860910</td></tr><tr><td><b>Tavlenummer</b></td><td>015.000.M1</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.M</td></tr><tr><td><b>Forsikring (A)</b></td><td>255</td></tr><tr><td><b>GPS Nord</b></td><td> 55.436889000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.771844000</td></tr><tr><td><b>Kilometrering</b></td><td>64.853</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td>Ikke aktiv</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.771844000, 55.436889000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
