@@ -241,12 +241,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Viby Sjælland</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 008</td></tr><tr><td><b>Equipment</b></td><td>10456004</td></tr><tr><td><b>Tavlenummer</b></td><td>014.043.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.043.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.549992000</td></tr><tr><td><b>GPS Øst</b></td><td>12.025015000</td></tr><tr><td><b>Kilometrering</b></td><td>42.424</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Viby Sjælland</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 008</td></tr><tr><td><b>Equipment</b></td><td>10456004</td></tr><tr><td><b>Tavlenummer</b></td><td>014.043.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.043.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>GPS Nord</b></td><td>55.550011000</td></tr><tr><td><b>GPS Øst</b></td><td>12.025044000</td></tr><tr><td><b>Kilometrering</b></td><td>42.424</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.025015000,55.549992000,0</coordinates>
+    <coordinates>12.025044000,55.550011000,0</coordinates>
   </Point>
 </Placemark>
 
