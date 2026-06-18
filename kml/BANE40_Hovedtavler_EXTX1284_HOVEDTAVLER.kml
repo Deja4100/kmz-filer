@@ -16,12 +16,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækining</b></td><td></td></tr><tr><td><b>Station/stækning/sted</b></td><td>Roskilde - Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro-Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-269</td></tr><tr><td><b>Equipment</b></td><td>10227683</td></tr><tr><td><b>Tavlenummer</b></td><td>042.034.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>1036845</td></tr><tr><td><b>Aftagernummer</b></td><td>75200022865</td></tr><tr><td><b>GPS Nord</b></td><td>55.622719000</td></tr><tr><td><b>GPS Øst</b></td><td>12.070493000</td></tr><tr><td><b>Kilometrering</b></td><td>33.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB Strækining</b></td><td></td></tr><tr><td><b>Station/stækning/sted</b></td><td>Roskilde - Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ro-Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-269</td></tr><tr><td><b>Equipment</b></td><td>10227683</td></tr><tr><td><b>Tavlenummer</b></td><td>042.034.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>1036845</td></tr><tr><td><b>Aftagernummer</b></td><td>75200022865</td></tr><tr><td><b>GPS Nord</b></td><td> 55.622688000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.070493000</td></tr><tr><td><b>Kilometrering</b></td><td>33.600</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.070493000,55.622719000,0</coordinates>
+    <coordinates> 12.070493000, 55.622688000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækining</b></td><td></td></tr><tr><td><b>Station/stækning/sted</b></td><td>Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB 42, Gt 013</td></tr><tr><td><b>Equipment</b></td><td>10469747</td></tr><tr><td><b>Tavlenummer</b></td><td>042.039.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>21500871</td></tr><tr><td><b>Aftagernummer</b></td><td>74116061678</td></tr><tr><td><b>GPS Nord</b></td><td>55.572319000</td></tr><tr><td><b>GPS Øst</b></td><td>12.099819000</td></tr><tr><td><b>Kilometrering</b></td><td>39.501</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB Strækining</b></td><td></td></tr><tr><td><b>Station/stækning/sted</b></td><td>Gadstrup</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB 42, 013</td></tr><tr><td><b>Equipment</b></td><td>10469747</td></tr><tr><td><b>Tavlenummer</b></td><td>042.039.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>21500871</td></tr><tr><td><b>Aftagernummer</b></td><td>74116061678</td></tr><tr><td><b>GPS Nord</b></td><td>55.572319000</td></tr><tr><td><b>GPS Øst</b></td><td>12.099819000</td></tr><tr><td><b>Kilometrering</b></td><td>39.501</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
