@@ -931,7 +931,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Kmp</td></tr><tr><td><b>Equipment</b></td><td>10781106</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A8</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.666973000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738799000</td></tr><tr><td><b>Kilometrering</b></td><td>61.161</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød </td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP</td></tr><tr><td><b>Equipment</b></td><td>10781106</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A8</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.666973000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738799000</td></tr><tr><td><b>Kilometrering</b></td><td>61.161</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
 ]]>
 </description>
