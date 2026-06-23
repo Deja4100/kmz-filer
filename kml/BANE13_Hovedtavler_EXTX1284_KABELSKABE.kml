@@ -326,12 +326,12 @@
 </Placemark>
 
 <Placemark>
-  <name>KS Sdr. Stationsvej</name>
+  <name>4569</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Kabelskab</b></td><td>KS Sdr. Stationsvej</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Foran stationsindgang</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.40716</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.349005</td></tr>
+<tr><td><b>Kabelskab</b></td><td>4569</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.40716</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.349005</td></tr>
 </table>
 ]]>
 </description>
