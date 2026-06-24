@@ -511,7 +511,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Hvalsø</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte Hv 015</td></tr><tr><td><b>Equipment</b></td><td>10529706</td></tr><tr><td><b>Tavlenummer</b></td><td>052.049.A9</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.049.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>20</td></tr><tr><td><b>GPS Nord</b></td><td>55.595322000</td></tr><tr><td><b>GPS Øst</b></td><td>11.860662000</td></tr><tr><td><b>Kilometrering</b></td><td>48.262</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Køl, lys</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Hvalsø</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte 015</td></tr><tr><td><b>Equipment</b></td><td>10529706</td></tr><tr><td><b>Tavlenummer</b></td><td>052.049.A9</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.049.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>20</td></tr><tr><td><b>GPS Nord</b></td><td>55.595322000</td></tr><tr><td><b>GPS Øst</b></td><td>11.860662000</td></tr><tr><td><b>Kilometrering</b></td><td>48.262</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Køl, lys</td></tr>
 </table>
 ]]>
 </description>
@@ -811,7 +811,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte Pe 005, lys og køl</td></tr><tr><td><b>Equipment</b></td><td>10132882</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A1.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.666610000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738903000</td></tr><tr><td><b>Kilometrering</b></td><td>61.126</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køl</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 005, lys og køl</td></tr><tr><td><b>Equipment</b></td><td>10132882</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A1.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.666610000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738903000</td></tr><tr><td><b>Kilometrering</b></td><td>61.126</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køl</td></tr>
 </table>
 ]]>
 </description>
@@ -871,7 +871,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte Pe 012</td></tr><tr><td><b>Equipment</b></td><td>10741158</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.666578000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738880000</td></tr><tr><td><b>Kilometrering</b></td><td>61.121</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Bytavle</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 012</td></tr><tr><td><b>Equipment</b></td><td>10741158</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.666578000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738880000</td></tr><tr><td><b>Kilometrering</b></td><td>61.121</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Bytavle</td></tr>
 </table>
 ]]>
 </description>
@@ -886,7 +886,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte Pe 012</td></tr><tr><td><b>Equipment</b></td><td>10741159</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.666578000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738880000</td></tr><tr><td><b>Kilometrering</b></td><td>61.121</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Vipperød</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 012</td></tr><tr><td><b>Equipment</b></td><td>10741159</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.666578000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738880000</td></tr><tr><td><b>Kilometrering</b></td><td>61.121</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
 ]]>
 </description>
@@ -976,7 +976,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus Hk 033</td></tr><tr><td><b>Equipment</b></td><td>10133194</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.715580000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707439000</td></tr><tr><td><b>Kilometrering</b></td><td>67.042</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 033</td></tr><tr><td><b>Equipment</b></td><td>10133194</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>GPS Nord</b></td><td>55.715580000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707439000</td></tr><tr><td><b>Kilometrering</b></td><td>67.042</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr>
 </table>
 ]]>
 </description>
@@ -991,7 +991,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus Hk 011</td></tr><tr><td><b>Equipment</b></td><td>10133191</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.715500000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707672000</td></tr><tr><td><b>Kilometrering</b></td><td>67.025</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, stikk., varme</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 011</td></tr><tr><td><b>Equipment</b></td><td>10133191</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.715500000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707672000</td></tr><tr><td><b>Kilometrering</b></td><td>67.025</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, stikk., varme</td></tr>
 </table>
 ]]>
 </description>
@@ -1006,7 +1006,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus Hk 033</td></tr><tr><td><b>Equipment</b></td><td>10435475</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.715504000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707675000</td></tr><tr><td><b>Kilometrering</b></td><td>67.026</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 033</td></tr><tr><td><b>Equipment</b></td><td>10435475</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.715504000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707675000</td></tr><tr><td><b>Kilometrering</b></td><td>67.026</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr>
 </table>
 ]]>
 </description>
@@ -1021,7 +1021,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus Hk 010</td></tr><tr><td><b>Equipment</b></td><td>10452586</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.715481000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707726000</td></tr><tr><td><b>Kilometrering</b></td><td>67.021</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg, lys</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 010</td></tr><tr><td><b>Equipment</b></td><td>10452586</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.715481000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707726000</td></tr><tr><td><b>Kilometrering</b></td><td>67.021</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg, lys</td></tr>
 </table>
 ]]>
 </description>
@@ -1036,7 +1036,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus Hk 010</td></tr><tr><td><b>Equipment</b></td><td>10520956</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.715441800</td></tr><tr><td><b>GPS Øst</b></td><td>11.707819200</td></tr><tr><td><b>Kilometrering</b></td><td>67.042</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Signalanlæg</td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 010</td></tr><tr><td><b>Equipment</b></td><td>10520956</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.4</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.715441800</td></tr><tr><td><b>GPS Øst</b></td><td>11.707819200</td></tr><tr><td><b>Kilometrering</b></td><td>67.042</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td>Signalanlæg</td></tr>
 </table>
 ]]>
 </description>
@@ -1081,7 +1081,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte Hk 036</td></tr><tr><td><b>Equipment</b></td><td>10529716</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.4.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1.4</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.716400000</td></tr><tr><td><b>GPS Øst</b></td><td>11.705186000</td></tr><tr><td><b>Kilometrering</b></td><td>67.211</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
+<tr><td><b>TIB Strækning</b></td><td>5</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Holbæk</td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte 036</td></tr><tr><td><b>Equipment</b></td><td>10529716</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B1.4.3</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1.4</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.716400000</td></tr><tr><td><b>GPS Øst</b></td><td>11.705186000</td></tr><tr><td><b>Kilometrering</b></td><td>67.211</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Indendørs/udendørs</b></td><td></td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr>
 </table>
 ]]>
 </description>
