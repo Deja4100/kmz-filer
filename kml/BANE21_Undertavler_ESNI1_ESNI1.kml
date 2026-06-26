@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.235914000</td></tr><tr><td><b>GPS Øst</b></td><td>11.762934000</td></tr><tr><td><b>Kilometrering</b></td><td>90.292</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.235914000</td></tr><tr><td><b>GPS Øst</b></td><td>11.762934000</td></tr><tr><td><b>Kilometrering</b></td><td>90.292</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -31,7 +31,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.G2</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.234570000</td></tr><tr><td><b>GPS Øst</b></td><td>11.764068000</td></tr><tr><td><b>Kilometrering</b></td><td>90.124</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.G2</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td>55.234570000</td></tr><tr><td><b>GPS Øst</b></td><td>11.764068000</td></tr><tr><td><b>Kilometrering</b></td><td>90.124</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td> 55.228550000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.769993000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>GPS Nord</b></td><td> 55.228550000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.769993000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H2</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.228550000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.769993000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H2</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.228550000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.769993000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -76,7 +76,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H3</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.225056000</td></tr><tr><td><b>GPS Øst</b></td><td>11.776028000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.H3</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.225056000</td></tr><tr><td><b>GPS Øst</b></td><td>11.776028000</td></tr><tr><td><b>Kilometrering</b></td><td>91.207</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -91,7 +91,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.J1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.J</td></tr><tr><td><b>Forsikring (A)</b></td><td>88</td></tr><tr><td><b>GPS Nord</b></td><td> 55.233940000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.765535000</td></tr><tr><td><b>Kilometrering</b></td><td>90.502</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.J1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.J</td></tr><tr><td><b>Forsikring (A)</b></td><td>88</td></tr><tr><td><b>GPS Nord</b></td><td> 55.233940000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.765535000</td></tr><tr><td><b>Kilometrering</b></td><td>90.502</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.J2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.J2</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td> 55.232278000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767636000</td></tr><tr><td><b>Kilometrering</b></td><td>90.820</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.J2.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.J2</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td> 55.232278000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767636000</td></tr><tr><td><b>Kilometrering</b></td><td>90.820</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -121,7 +121,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.K1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.230705000</td></tr><tr><td><b>GPS Øst</b></td><td>11.769212000</td></tr><tr><td><b>Kilometrering</b></td><td>90.820</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved </td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>023.000.K1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.230705000</td></tr><tr><td><b>GPS Øst</b></td><td>11.769212000</td></tr><tr><td><b>Kilometrering</b></td><td>90.820</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Placering JBS</b></td><td>2</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Næ - Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.096.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.096.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>70</td></tr><tr><td><b>GPS Nord</b></td><td> 55.194380000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.820335000</td></tr><tr><td><b>Kilometrering</b></td><td>96.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved - Mogenstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Næ - Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.096.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.096.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>70</td></tr><tr><td><b>GPS Nord</b></td><td> 55.194380000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.820335000</td></tr><tr><td><b>Kilometrering</b></td><td>96.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.109.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.109.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.117941000</td></tr><tr><td><b>GPS Øst</b></td><td>11.862991000</td></tr><tr><td><b>Kilometrering</b></td><td>105.637</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Lundby</td></tr><tr><td><b>Forkortelse</b></td><td>Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.109.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.109.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.117941000</td></tr><tr><td><b>GPS Øst</b></td><td>11.862991000</td></tr><tr><td><b>Kilometrering</b></td><td>105.637</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.109.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.109.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.109695000</td></tr><tr><td><b>GPS Øst</b></td><td>11.869826000</td></tr><tr><td><b>Kilometrering</b></td><td>106.656</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Lundby</td></tr><tr><td><b>Forkortelse</b></td><td>Lu</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.109.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.109.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.109695000</td></tr><tr><td><b>GPS Øst</b></td><td>11.869826000</td></tr><tr><td><b>Kilometrering</b></td><td>106.656</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.007859000</td></tr><tr><td><b>GPS Øst</b></td><td>11.897519000</td></tr><tr><td><b>Kilometrering</b></td><td>118.630</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg </td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.007859000</td></tr><tr><td><b>GPS Øst</b></td><td>11.897519000</td></tr><tr><td><b>Kilometrering</b></td><td>118.630</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -196,7 +196,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Not Found</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.026101000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.898488000</td></tr><tr><td><b>Kilometrering</b></td><td>121.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Not Found</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.026101000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.898488000</td></tr><tr><td><b>Kilometrering</b></td><td>121.550</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -211,7 +211,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.003003000</td></tr><tr><td><b>GPS Øst</b></td><td>11.895242000</td></tr><tr><td><b>Kilometrering</b></td><td>119.191</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg </td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.003003000</td></tr><tr><td><b>GPS Øst</b></td><td>11.895242000</td></tr><tr><td><b>Kilometrering</b></td><td>119.191</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -226,7 +226,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>54.994678000</td></tr><tr><td><b>GPS Øst</b></td><td>11.887968000</td></tr><tr><td><b>Kilometrering</b></td><td>120.232</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg </td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>54.994678000</td></tr><tr><td><b>GPS Øst</b></td><td>11.887968000</td></tr><tr><td><b>Kilometrering</b></td><td>120.232</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -241,7 +241,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.015638000</td></tr><tr><td><b>GPS Øst</b></td><td>11.901706000</td></tr><tr><td><b>Kilometrering</b></td><td>117.721</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg </td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme </td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>024.121.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.015638000</td></tr><tr><td><b>GPS Øst</b></td><td>11.901706000</td></tr><tr><td><b>Kilometrering</b></td><td>117.721</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -256,7 +256,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Oh</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.003.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.003.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td> 54.929396000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.872558000</td></tr><tr><td><b>Kilometrering</b></td><td>128.442</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Orehoved</td></tr><tr><td><b>Forkortelse</b></td><td>Oh</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.003.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.003.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td> 54.929396000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.872558000</td></tr><tr><td><b>Kilometrering</b></td><td>128.442</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -271,7 +271,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Oh</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.003.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.940540000</td></tr><tr><td><b>GPS Øst</b></td><td>11.867368000</td></tr><tr><td><b>Kilometrering</b></td><td>127.147</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Orehoved</td></tr><tr><td><b>Forkortelse</b></td><td>Oh</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.003.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.940540000</td></tr><tr><td><b>GPS Øst</b></td><td>11.867368000</td></tr><tr><td><b>Kilometrering</b></td><td>127.147</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -286,7 +286,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ek</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.011.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.011.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>54.842271000</td></tr><tr><td><b>GPS Øst</b></td><td>11.883071000</td></tr><tr><td><b>Kilometrering</b></td><td>138.330</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Eskilstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ek</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.011.D1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.011.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>54.842271000</td></tr><tr><td><b>GPS Øst</b></td><td>11.883071000</td></tr><tr><td><b>Kilometrering</b></td><td>138.330</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -301,7 +301,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Ek</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.011.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.011.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>54.866522300</td></tr><tr><td><b>GPS Øst</b></td><td>11.885760300</td></tr><tr><td><b>Kilometrering</b></td><td>135.607</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Eskilstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ek</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>026.011.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.011.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>54.866522300</td></tr><tr><td><b>GPS Øst</b></td><td>11.885760300</td></tr><tr><td><b>Kilometrering</b></td><td>135.607</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -316,7 +316,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.C6</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769187000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879778000</td></tr><tr><td><b>Kilometrering</b></td><td>146.546</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.C6</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769187000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879778000</td></tr><tr><td><b>Kilometrering</b></td><td>146.546</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -331,7 +331,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.C7</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769161000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879754000</td></tr><tr><td><b>Kilometrering</b></td><td>146.546</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.C7</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769161000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879754000</td></tr><tr><td><b>Kilometrering</b></td><td>146.546</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -346,7 +346,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.774051500</td></tr><tr><td><b>GPS Øst</b></td><td>11.884026600</td></tr><tr><td><b>Kilometrering</b></td><td>145.945</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.774051500</td></tr><tr><td><b>GPS Øst</b></td><td>11.884026600</td></tr><tr><td><b>Kilometrering</b></td><td>145.945</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -361,7 +361,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.770374500</td></tr><tr><td><b>GPS Øst</b></td><td>11.881514400</td></tr><tr><td><b>Kilometrering</b></td><td>146.379</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.770374500</td></tr><tr><td><b>GPS Øst</b></td><td>11.881514400</td></tr><tr><td><b>Kilometrering</b></td><td>146.379</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -376,7 +376,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F3</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>54.769550000</td></tr><tr><td><b>GPS Øst</b></td><td>11.880699700</td></tr><tr><td><b>Kilometrering</b></td><td>146.487</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F3</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>GPS Nord</b></td><td>54.769550000</td></tr><tr><td><b>GPS Øst</b></td><td>11.880699700</td></tr><tr><td><b>Kilometrering</b></td><td>146.487</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -391,7 +391,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769550000</td></tr><tr><td><b>GPS Øst</b></td><td>11.880699700</td></tr><tr><td><b>Kilometrering</b></td><td>146.487</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.F4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.769550000</td></tr><tr><td><b>GPS Øst</b></td><td>11.880699700</td></tr><tr><td><b>Kilometrering</b></td><td>146.487</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -406,7 +406,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.763773800</td></tr><tr><td><b>GPS Øst</b></td><td>11.874759600</td></tr><tr><td><b>Kilometrering</b></td><td>147.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Flaster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.G1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.763773800</td></tr><tr><td><b>GPS Øst</b></td><td>11.874759600</td></tr><tr><td><b>Kilometrering</b></td><td>147.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -421,7 +421,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.G2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.763773800</td></tr><tr><td><b>GPS Øst</b></td><td>11.874759600</td></tr><tr><td><b>Kilometrering</b></td><td>147.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster </td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.G2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>GPS Nord</b></td><td>54.763773800</td></tr><tr><td><b>GPS Øst</b></td><td>11.874759600</td></tr><tr><td><b>Kilometrering</b></td><td>147.248</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -436,7 +436,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.779181000</td></tr><tr><td><b>GPS Øst</b></td><td>11.885080000</td></tr><tr><td><b>Kilometrering</b></td><td>145.370</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.779181000</td></tr><tr><td><b>GPS Øst</b></td><td>11.885080000</td></tr><tr><td><b>Kilometrering</b></td><td>145.370</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -451,7 +451,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB Strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td></td></tr><tr><td><b>Strækningsforkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.H2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.777216000</td></tr><tr><td><b>GPS Øst</b></td><td>11.884758000</td></tr><tr><td><b>Kilometrering</b></td><td>145.583</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>027.000.H2</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>54.777216000</td></tr><tr><td><b>GPS Øst</b></td><td>11.884758000</td></tr><tr><td><b>Kilometrering</b></td><td>145.583</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Placering JBS</b></td><td>1</td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
