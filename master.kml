@@ -386,13 +386,14 @@
    </NetworkLink>
   </Folder>
 
-
   </Folder>
 
   <Folder>
   <name>Fremmednet</name>
-    <visibility>0</visibility>
-    <open>0</open>
+      <NetworkLink>
+      <name>APO-Kasser</name>
+        <visibility>0</visibility>
+        <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/APO-KASSER_Fremmednet_APO-KASSER_APO-KASSER.kml</href>
       <refreshMode>onInterval</refreshMode>
