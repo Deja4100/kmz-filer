@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Andet - APO-KASSER</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Fremmednet%20-%20APO.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>10138956</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.635704</td></tr><tr><td><b>GPS Øst</b></td><td>12.081235</td></tr><tr><td><b>Placering</b></td><td>km 31.860</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>31.7</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1980 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F11</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>4</td></tr><tr><td><b>Sporgruppe</b></td><td>92</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081235,55.635704,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536863</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231808</td></tr><tr><td><b>GPS Øst</b></td><td>11.76762</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.68</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Mar 26 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76762,55.231808,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536864</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231812</td></tr><tr><td><b>GPS Øst</b></td><td>11.767632</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.68</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Mar 27 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767632,55.231812,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536865</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231831</td></tr><tr><td><b>GPS Øst</b></td><td>11.767591</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.65</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Mar 28 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767591,55.231831,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536866</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231838</td></tr><tr><td><b>GPS Øst</b></td><td>11.767612</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.65</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Mar 29 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767612,55.231838,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536867</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232159</td></tr><tr><td><b>GPS Øst</b></td><td>11.767273</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.61</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Mar 30 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767273,55.232159,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536868</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232162</td></tr><tr><td><b>GPS Øst</b></td><td>11.767286</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.61</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Mar 31 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767286,55.232162,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536869</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232204</td></tr><tr><td><b>GPS Øst</b></td><td>11.767242</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.6</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Apr 01 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767242,55.232204,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536870</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232197</td></tr><tr><td><b>GPS Øst</b></td><td>11.767226</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.6</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Apr 02 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767226,55.232197,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536871</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232506</td></tr><tr><td><b>GPS Øst</b></td><td>11.766972</td></tr><tr><td><b>Placering</b></td><td>Under stibro</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.585</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Apr 03 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766972,55.232506,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10536872</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232498</td></tr><tr><td><b>GPS Øst</b></td><td>11.766951</td></tr><tr><td><b>Placering</b></td><td>Under stibro</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.585</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Apr 04 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td>RCD tester sidder i A5 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766951,55.232498,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568711</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.230827</td></tr><tr><td><b>GPS Øst</b></td><td>11.768574</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.795</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Apr 18 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.3</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768574,55.230827,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568712</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.23082</td></tr><tr><td><b>GPS Øst</b></td><td>11.76855</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.795</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Apr 19 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.2</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76855,55.23082,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568713</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231117</td></tr><tr><td><b>GPS Øst</b></td><td>11.768286</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.75</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Apr 20 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.3</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768286,55.231117,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568714</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231113</td></tr><tr><td><b>GPS Øst</b></td><td>11.76827</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.75</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Apr 21 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.1</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76827,55.231113,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568715</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231152</td></tr><tr><td><b>GPS Øst</b></td><td>11.768263</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.72</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Apr 22 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.3</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768263,55.231152,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568716</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231144</td></tr><tr><td><b>GPS Øst</b></td><td>11.76824</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.72</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Apr 23 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.3</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76824,55.231144,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568717</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231457</td></tr><tr><td><b>GPS Øst</b></td><td>11.767977</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.7</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Apr 24 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.1</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767977,55.231457,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568718</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231453</td></tr><tr><td><b>GPS Øst</b></td><td>11.767948</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.7</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Apr 25 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.2</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767948,55.231453,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568719</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231499</td></tr><tr><td><b>GPS Øst</b></td><td>11.767937</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.7</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Apr 26 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.2</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767937,55.231499,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568720</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td></td></tr><tr><td><b>TIB strækning</b></td><td></td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231491</td></tr><tr><td><b>GPS Øst</b></td><td>11.767913</td></tr><tr><td><b>Placering</b></td><td>Risteperron</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.7</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Apr 27 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.4</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>32-33</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Andet</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.767913,55.231491,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
