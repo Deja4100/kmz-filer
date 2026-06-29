@@ -391,8 +391,6 @@
 
   <Folder>
   <name>Fremmednet</name>
-  <Folder>
-  <name>APO-kasser</name>
     <visibility>0</visibility>
     <open>0</open>
     <Link>
