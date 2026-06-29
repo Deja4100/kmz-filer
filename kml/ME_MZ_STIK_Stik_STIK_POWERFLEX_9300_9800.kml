@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>ME/MZ-stik - POWERFLEX_9300_9800</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Fremmednet%20-%20Powerflex.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>10868242</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>11b</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Ro</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.637130000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084396000</td></tr><tr><td><b>Placering</b></td><td>Spor 7/56</td></tr><tr><td><b>Stander</b></td><td>Stik nr. 1</td></tr><tr><td><b>Kilometrering</b></td><td>31.61</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Mar 22 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G1.1</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>7-56</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td>Testes fra G1 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084396000,55.637130000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10868243</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>11b</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Ro</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.637314000</td></tr><tr><td><b>GPS Øst</b></td><td>12.085092000</td></tr><tr><td><b>Placering</b></td><td>Spor 7/56</td></tr><tr><td><b>Stander</b></td><td>Stik nr. 2</td></tr><tr><td><b>Kilometrering</b></td><td>31.563</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Mar 23 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G1.2</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>7-56</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td>Testes fra G1 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.085092000,55.637314000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10868244</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>11b</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Ro</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.637347000</td></tr><tr><td><b>GPS Øst</b></td><td>12.085221000</td></tr><tr><td><b>Placering</b></td><td>Spor 7/56</td></tr><tr><td><b>Stander</b></td><td>Stik nr. 3</td></tr><tr><td><b>Kilometrering</b></td><td>31.554</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Mar 24 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G1.3</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>7-56</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td>Testes fra G1 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.085221000,55.637347000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10868245</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>11b</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Roskilde</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Ro</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.637454000</td></tr><tr><td><b>GPS Øst</b></td><td>12.085811000</td></tr><tr><td><b>Placering</b></td><td>Spor 7/56</td></tr><tr><td><b>Stander</b></td><td>Stik nr. 4</td></tr><tr><td><b>Kilometrering</b></td><td>31.516</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Mar 25 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G1.4</td></tr><tr><td><b>Antal spor</b></td><td>2</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>7-56</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td>Testes fra G1 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.085811000,55.637454000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568791</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>12</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Rg</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.438011000</td></tr><tr><td><b>GPS Øst</b></td><td>11.791164000</td></tr><tr><td><b>Placering</b></td><td>KM 63.000, Spor 13</td></tr><tr><td><b>Stander</b></td><td>FN B</td></tr><tr><td><b>Kilometrering</b></td><td>63</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue May 09 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>13</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.791164000,55.438011000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568792</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>12</td></tr><tr><td><b>TIB strækning</b></td><td>1</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Ringsted</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Rg</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.437984000</td></tr><tr><td><b>GPS Øst</b></td><td>11.790784000</td></tr><tr><td><b>Placering</b></td><td>KM 63.650, Spor 13</td></tr><tr><td><b>Stander</b></td><td>FN A</td></tr><tr><td><b>Kilometrering</b></td><td>63.65</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed May 10 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>13</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.790784000,55.437984000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10524746</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>21</td></tr><tr><td><b>TIB strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Næ</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.232567000</td></tr><tr><td><b>GPS Øst</b></td><td>11.766705000</td></tr><tr><td><b>Placering</b></td><td>Spor 3</td></tr><tr><td><b>Stander</b></td><td>Stander 1</td></tr><tr><td><b>Kilometrering</b></td><td>90.565</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Mar 22 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>3</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766705000,55.232567000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10524747</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>21</td></tr><tr><td><b>TIB strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Næ</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.230717000</td></tr><tr><td><b>GPS Øst</b></td><td>11.768216000</td></tr><tr><td><b>Placering</b></td><td>Spor 3</td></tr><tr><td><b>Stander</b></td><td>Stander 3</td></tr><tr><td><b>Kilometrering</b></td><td>90.795</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Mar 23 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>3</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768216000,55.230717000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10524748</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>21</td></tr><tr><td><b>TIB strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Næ</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.230724000</td></tr><tr><td><b>GPS Øst</b></td><td>11.768238000</td></tr><tr><td><b>Placering</b></td><td>Spor 4</td></tr><tr><td><b>Stander</b></td><td>Stander 2</td></tr><tr><td><b>Kilometrering</b></td><td>90.795</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Mar 24 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>4</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768238000,55.230724000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10524749</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>21</td></tr><tr><td><b>TIB strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Næ</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.230801000</td></tr><tr><td><b>GPS Øst</b></td><td>11.768414000</td></tr><tr><td><b>Placering</b></td><td>Spor 5</td></tr><tr><td><b>Stander</b></td><td>Stander 4</td></tr><tr><td><b>Kilometrering</b></td><td>90.79</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Mar 25 2013 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>5</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768414000,55.230801000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10568721</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane strækning</b></td><td>21</td></tr><tr><td><b>TIB strækning</b></td><td>2</td></tr><tr><td><b>Station/strækning/sted</b></td><td>Næstved</td></tr><tr><td><b>Strækningforkortelse</b></td><td>Næ</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231197000</td></tr><tr><td><b>GPS Øst</b></td><td>11.768025000</td></tr><tr><td><b>Placering</b></td><td>Ved tankanlæg</td></tr><tr><td><b>Stander</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.75</td></tr><tr><td><b>Tilgængelighed</b></td><td>Frit tilgængelig</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Apr 28 2013 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A6.1</td></tr><tr><td><b>Antal spor</b></td><td>1</td></tr><tr><td><b>Antal stik</b></td><td>1</td></tr><tr><td><b>Sporgruppe</b></td><td>5</td></tr><tr><td><b>Fremmednetstik type</b></td><td>Type ME/MZ-stik</td></tr><tr><td><b>Note</b></td><td>Testes fra A6.1 tavlen</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.768025000,55.231197000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
