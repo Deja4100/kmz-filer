@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>ME/MZ-stik - ME_MZ_STIK</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Fremmednet%20-%20Andet.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+</Document></kml>
