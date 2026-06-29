@@ -400,7 +400,42 @@
       <refreshInterval>300</refreshInterval>
     </Link>
    </NetworkLink>
+
+    <NetworkLink>
+    <name>Andet</name>
+<visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/ANDET_Fremmednet_ANDET_ANDET.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+   <NetworkLink>
+    <name>ME/MZ-stik</name>
+<visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/ME_MZ_STIK_Fremmednet_ME_MZ_STIK_ME_MZ_STIK.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+   <NetworkLink>
+    <name>9300/9800 Powerflex</name>
+<visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/POWERFLEX_9300_9800_Fremmednet_POWERFLEX_9300_9800_POWERFLEX_9300_9800.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
   </Folder>
-  
+
+  </Folder>
+
 </Document>
 </kml>
