@@ -388,5 +388,20 @@
 
 
   </Folder>
+
+  <Folder>
+  <name>Fremmednet</name>
+  <Folder>
+  <name>APO-kasser</name>
+    <visibility>0</visibility>
+    <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/APO-KASSER_Fremmednet_APO-KASSER_APO-KASSER.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+  </Folder>
+  
 </Document>
 </kml>
