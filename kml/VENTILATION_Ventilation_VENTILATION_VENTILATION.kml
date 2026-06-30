@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Ventilation - VENTILATION</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Køleanlæg%20-%20Internet%20i%20tog.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Borup - Kværkeby</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Borup - Kværkeby</td></tr><tr><td><b>Forkortelse</b></td><td>Bo - Ky</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Borup</td></tr><tr><td><b>Bygningsnummer</b></td><td>Bo-Ky 054512</td></tr><tr><td><b>Uddybende lokation</b></td><td>Kimmerslev</td></tr><tr><td><b>Equipment</b></td><td>10735530</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.461749000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.926191000</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.052.C1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>15-03-2021</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.926191000, 55.461749000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Viby Sjælland - Borup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Viby Sjælland - Borup</td></tr><tr><td><b>Forkortelse</b></td><td>Vy - Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Viby Sjælland</td></tr><tr><td><b>Bygningsnummer</b></td><td>Vy-Bo 044606</td></tr><tr><td><b>Uddybende lokation</b></td><td>Viby</td></tr><tr><td><b>Equipment</b></td><td>10735523</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.535420000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.002089000</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.044.E1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.002089000, 55.535420000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lundby - Vordingborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Lundby - Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Lu - Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Vordingborg</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lu-Vo 111277</td></tr><tr><td><b>Uddybende lokation</b></td><td>Klarskov</td></tr><tr><td><b>Equipment</b></td><td>10735529</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.068784000</td></tr><tr><td><b>GPS Øst</b></td><td>11.872986000</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.110.F1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>17-06-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.872986000, 55.068784000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted - Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Ringsted - Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Ringsted</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg-Gz 068218</td></tr><tr><td><b>Uddybende lokation</b></td><td>Englerupvej</td></tr><tr><td><b>Equipment</b></td><td>10735521</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.410714000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.747797000</td></tr><tr><td><b>Forsyningstavle</b></td><td>022.002.E1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>08-10-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.747797000, 55.410714000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tingsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Tingsted</td></tr><tr><td><b>Forkortelse</b></td><td>Tn</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Nykøbing Falster</td></tr><tr><td><b>Bygningsnummer</b></td><td>Tn 601</td></tr><tr><td><b>Uddybende lokation</b></td><td>Tingsted</td></tr><tr><td><b>Equipment</b></td><td>10735502</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.821472000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.885427000</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.015.B2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>17-06-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.885427000, 54.821472000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Holeby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 169670</td></tr><tr><td><b>Uddybende lokation</b></td><td>Flaarupvej</td></tr><tr><td><b>Equipment</b></td><td>10735487</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.696431000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.549575000</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.C1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>27-02-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.549575000, 54.696431000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Sakskøbing</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 155700</td></tr><tr><td><b>Uddybende lokation</b></td><td>Ved Teglskoven</td></tr><tr><td><b>Equipment</b></td><td>10735490</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.739900000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.751910000</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.E1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>17-06-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.751910000, 54.739900000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Rødby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 178100</td></tr><tr><td><b>Uddybende lokation</b></td><td>Darketvej</td></tr><tr><td><b>Equipment</b></td><td>10735491</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.678598000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.423442000</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.B1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>27-02-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.423442000, 54.678598000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Haslev - Holme Olstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev - Holme Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hz - Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Holme Olstrup</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz-Ol 079780</td></tr><tr><td><b>Uddybende lokation</b></td><td>Bråby Stationsby</td></tr><tr><td><b>Equipment</b></td><td>10735513</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.292999000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.907257000</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.E2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.907257000, 55.292999000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Havdrup - Lille Skensved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Havdrup - Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Hd - Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Havdrup</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hd-Lw 044772</td></tr><tr><td><b>Uddybende lokation</b></td><td>Kirke Skensved</td></tr><tr><td><b>Equipment</b></td><td>10735503</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.527553000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127012000</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.044.C2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.127012000,55.527553000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tureby - Haslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Tureby - Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Th - Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Tureby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Th-Hz 068370</td></tr><tr><td><b>Uddybende lokation</b></td><td>Tureby</td></tr><tr><td><b>Equipment</b></td><td>10735492</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.358174000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.040427000</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.068.C1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>08-10-2019</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.040427000, 55.358174000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup - Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup - Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Jy - Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Jyderup</td></tr><tr><td><b>Bygningsnummer</b></td><td>Jy-Se 093101</td></tr><tr><td><b>Uddybende lokation</b></td><td>Skarresø A</td></tr><tr><td><b>Equipment</b></td><td>10905879</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.650806000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352654000</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.092.D2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.352654000, 55.650806000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup - Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup - Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Jy - Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Jyderup</td></tr><tr><td><b>Bygningsnummer</b></td><td>Jy-Se 091878</td></tr><tr><td><b>Uddybende lokation</b></td><td>Skarresø C</td></tr><tr><td><b>Equipment</b></td><td>10735504</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.660125000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.361974000</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.092.E2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.361974000, 55.660125000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hvalsø - Tølløse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø - Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Hv - Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Tølløse</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv-Tø 051945</td></tr><tr><td><b>Uddybende lokation</b></td><td>Soderup Vest</td></tr><tr><td><b>Equipment</b></td><td>10735505</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.598678000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.807216000</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.050.A2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18-08-2020</td></tr><tr><td><b>Producent</b></td><td>Dantherm</td></tr><tr><td><b>Model</b></td><td>DCF 450</td></tr><tr><td><b>Køleventilationsanlæg</b></td><td>Ventilator udsugning</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.807216000, 55.598678000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
