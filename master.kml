@@ -436,5 +436,18 @@
 
   </Folder>
 
+  <Folder>
+  <name>Generator</name>
+    <NetworkLink>
+    <name>Generator</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/GENERATOR_Generator_GENERATOR_GENERATOR.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+</Folder>
 </Document>
 </kml>
