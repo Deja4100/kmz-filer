@@ -518,7 +518,7 @@
     <visibility>0</visibility>
         <open>0</open>
     <Link>
-     <href>https://github.com/Deja4100/kmz-filer/edit/main/kml/SIKKERHEDSBELYSNING_Sikkerhedsbelysning_SIKKERHEDSBELYSNING_SIKKERHEDSBELYSNING.kml</href>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/SIKKERHEDSBELYSNING_Sikkerhedsbelysning_SIKKERHEDSBELYSNING_SIKKERHEDSBELYSNING.kml</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
     </Link>
