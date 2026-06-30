@@ -447,5 +447,16 @@
     </Link>
    </NetworkLink>
 
+      <NetworkLink>
+    <name>Køleanlæg</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/K%C3%98LEANL%C3%86G_K%C3%B8leanl%C3%A6g_K%C3%98LEANL%C3%86G_K%C3%98LEANL%C3%86G.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
