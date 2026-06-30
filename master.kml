@@ -480,5 +480,16 @@
     </Link>
    </NetworkLink>
 
+<NetworkLink>
+    <name>Ventilation - Internet i tog</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/VENTILATION_Ventilation_VENTILATION_VENTILATION.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
