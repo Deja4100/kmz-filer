@@ -436,7 +436,6 @@
 
   </Folder>
 
-  <Folder>
   <name>Generator</name>
     <NetworkLink>
     <name>Generator</name>
@@ -448,6 +447,6 @@
       <refreshInterval>300</refreshInterval>
     </Link>
    </NetworkLink>
-</Folder>
+
 </Document>
 </kml>
