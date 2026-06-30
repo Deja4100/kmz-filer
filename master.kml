@@ -458,5 +458,16 @@
     </Link>
    </NetworkLink>
 
+<NetworkLink>
+    <name>Pumpeanlæg</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/PUMPEANL%C3%86G_Pumpeanl%C3%A6g_PUMPEANL%C3%86G_PUMPEANL%C3%86G.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
