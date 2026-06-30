@@ -11,7 +11,7 @@
 </Style>
 
 <Placemark>
-  <name>Borup</name>
+  <name>Teknikrum i perrontunnel</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -26,7 +26,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P1 - Under Næstvedvejbroen</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -41,7 +41,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P2 - Under Næstvedvejbroen</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -56,7 +56,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>Perron 2, trappeopgang vest - kabelbrønd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -71,7 +71,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>Perron 3, trappeopgang vest - kabelbrønd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -86,7 +86,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P1 - Ved GSM-R mast - Godsbanevej 2 i P-Plads</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -101,7 +101,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P2 - Ved GSM-R mast - Godsbanevej 2 i P-Plads</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -116,7 +116,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P1 - Ud for Dyssegårdsvej 17 - 5m fra spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -131,7 +131,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P2 - Ud for Dyssegårdsvej 17 - 5m fra spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -146,7 +146,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P1 - Nedenfor Mellem Broerne 10</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -161,7 +161,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Ringsted</name>
+  <name>P2 - Nedenfor Mellem Broerne 10</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -176,7 +176,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Viby Sjælland</name>
+  <name>Pumpebrønd i fortorv</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -191,7 +191,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P1 - 33.2 m, ved parkering, kolonnehus</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -206,7 +206,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P2 - 33.2 m, ved parkering, kolonnehus</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -221,7 +221,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P1 - 33.4 m, under jernbanegadebroen</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -236,7 +236,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P2 - 33.4 m, under jernbanegadebroen</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -251,7 +251,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P1 - Rosenkildevej ved spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -266,7 +266,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>P2 - Rosenkildevej ved spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -281,7 +281,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Slagelse</name>
+  <name>Kabelbrønd kolonnehus</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -296,7 +296,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Sorø</name>
+  <name>Teknikrum i perrontunnel</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -311,7 +311,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Sorø</name>
+  <name>P1 - Syd for sporet i terræn</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -326,7 +326,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Sorø</name>
+  <name>P2 - Syd for sporet i terræn</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -341,7 +341,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Masnedø</name>
+  <name>P1 - På mark ved Masnedøvej - øst for banedæmning</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -356,7 +356,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Masnedø</name>
+  <name>P2 - På mark ved Masnedøvej - øst for banedæmning</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -371,7 +371,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Næstved</name>
+  <name>I perrontunnel bag endevæg</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -386,7 +386,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Næstved</name>
+  <name>P1 - Ved fækalieanlæg</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -401,7 +401,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Næstved</name>
+  <name>P2 - For enden af perron</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -416,7 +416,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P2 - I sporet, nord for Vesterskovvej</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -431,7 +431,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P5 - Vest for DSB depot - pumpe 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -446,7 +446,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P5 - Vest for DSB depot - pumpe 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -461,7 +461,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P1 - Kohaven, ved indhegning - pumpe 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -476,7 +476,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P1 - Kohaven, ved indhegning - pumpe 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -491,7 +491,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P6 - nær rensningsanlæg</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -506,7 +506,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P4 - For enden af perron 3 - syd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -521,7 +521,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P3 - Km 147.120, syd for perron 1 - pumpe 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -536,7 +536,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Nykøbing F</name>
+  <name>P3 - Km 147.120, syd for perron 1 - pumpe 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -551,7 +551,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Vordingborg</name>
+  <name>I perron 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -566,7 +566,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P4 - Ved GSM-R Mast</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -581,7 +581,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P2 - Hegnet område ved relæhytte</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -596,7 +596,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P3 - Hegnet område bag relæhytte</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -611,7 +611,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>Ved overkørsel 115 i spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -626,7 +626,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P1 - Trappe ved relæhytte</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -641,7 +641,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>Syd for tømrerværksted</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -656,7 +656,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P5 - Ved vejebod under spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -671,7 +671,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P1 - Fortov ved Lucky Star Restaurant</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -686,7 +686,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Køge</name>
+  <name>P2 - Fortov ved Lucky Star Restaurant</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -701,7 +701,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Holbæk</name>
+  <name>Pumpe 1, 25.3 m</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -716,7 +716,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Holbæk</name>
+  <name>Pumpe 2, 25.3 m</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -731,7 +731,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Hvalsø</name>
+  <name>P1 - Ved indgang til perrontunnel</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -746,7 +746,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Hvalsø</name>
+  <name>P2 - Ved indgang til perrontunnel</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -761,7 +761,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Hvalsø</name>
+  <name>P1 - For enden af perron 2 - i terræn 6 meter fra spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -776,7 +776,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Hvalsø</name>
+  <name>P2 - For enden af perron 2 - i terræn 6 meter fra spor</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -791,7 +791,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Hvalsø</name>
+  <name>Pumpebrønd km 47.950 - Nordside af sporet</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -806,7 +806,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde - Lejre</name>
+  <name>P1 - Darup Mosevej 5 - 5m fra sporet (stor)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -821,7 +821,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde - Lejre</name>
+  <name>P2 - Darup Mosevej 5 - 5m fra sporet (stor)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -836,7 +836,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde - Lejre</name>
+  <name>P1 - Gammelgårdsvej - 5m fra sporet (lille)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -851,7 +851,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde - Lejre</name>
+  <name>P2 - Gammelgårdsvej - 5m fra sporet (lille)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -866,7 +866,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Tølløse</name>
+  <name>P1 - Ved rampe til tunnel - sydvest side</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -881,7 +881,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Tølløse</name>
+  <name>P2 - Ved rampe til tunnel - sydvest side</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -896,7 +896,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Vipperød</name>
+  <name>P1 - På rampe til tunnel i indhak</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -911,7 +911,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Vipperød</name>
+  <name>P2 - På rampe til tunnel i indhak</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -926,7 +926,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Vipperød</name>
+  <name>P1 - I gang- & cykeltunnel - Asmindrupvej</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -941,7 +941,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Vipperød</name>
+  <name>P2 - I gang- & cykeltunnel - Asmindrupvej</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -956,7 +956,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Høje Taastrup</name>
+  <name>P1 - I baneskråning syd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -971,7 +971,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Høje Taastrup</name>
+  <name>P2 - I baneskråning syd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -986,7 +986,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Høje Taastrup</name>
+  <name>I kabelbrønd spor 0</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -1001,7 +1001,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde</name>
+  <name>Stor tunnel (hvid) i midten - teknikrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -1016,7 +1016,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde</name>
+  <name>Lille tunnel (gul), nord-ende - teknikrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -1031,7 +1031,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Roskilde</name>
+  <name>Kommandopost RFC Roskilde, tavlerum i kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
