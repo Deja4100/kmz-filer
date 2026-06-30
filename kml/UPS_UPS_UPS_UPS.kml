@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>UPS - UPS</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/UPS.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Borup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Borup</td></tr><tr><td><b>Forkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Bo 003</td></tr><tr><td><b>Equipment</b></td><td>10786133</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.495087000</td></tr><tr><td><b>GPS Øst</b></td><td>11.972473000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Sep 28 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294888</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 25/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>49.674</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.972473000,55.495087000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Borup - Kværkeby</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Borup - Kværkeby</td></tr><tr><td><b>Forkortelse</b></td><td>Bo - Ky</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Kimmerslev</td></tr><tr><td><b>Bygningsnummer</b></td><td>Bo-Ky 054512</td></tr><tr><td><b>Equipment</b></td><td>10904016</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.461749000</td></tr><tr><td><b>GPS Øst</b></td><td>11.926201000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Nov 06 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS2526255856</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>54.521</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>014.052.C1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.926201000,55.461749000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum indgang fra perron</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg 022</td></tr><tr><td><b>Equipment</b></td><td>10878677</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.438277000</td></tr><tr><td><b>GPS Øst</b></td><td>11.786096000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Oct 10 2024 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>80</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>ID2238008412</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>63.944</td></tr><tr><td><b>Batteritype</b></td><td>Åben</td></tr><tr><td><b>Antal batteri</b></td><td>76</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.A1.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.786096000,55.438277000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Telehus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg 038</td></tr><tr><td><b>Equipment</b></td><td>10692642</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.436682000</td></tr><tr><td><b>GPS Øst</b></td><td>11.784770000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jan 01 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Easy UPS 3S</td></tr><tr><td><b>Serienummer</b></td><td>9E1924T11168</td></tr><tr><td><b>Firmware opdatering</b></td><td>20/09-2023</td></tr><tr><td><b>Kilometrering</b></td><td>64.036</td></tr><tr><td><b>Batteritype</b></td><td>Åben</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.P1.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.784770000,55.436682000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Transmissionshytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg 603</td></tr><tr><td><b>Equipment</b></td><td>10738521</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.437622000</td></tr><tr><td><b>GPS Øst</b></td><td>11.789139000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jan 01 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>BD1907001736</td></tr><tr><td><b>Firmware opdatering</b></td><td>25/09-2023</td></tr><tr><td><b>Kilometrering</b></td><td>63.752</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td>Litium-ion</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.N1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.789139000,55.437622000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Englerupvej</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg-Gz 068218</td></tr><tr><td><b>Equipment</b></td><td>10735567</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.410746000</td></tr><tr><td><b>GPS Øst</b></td><td>11.747824000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Oct 08 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1819260116</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>68.217</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>022.002.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.747824000,55.410746000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Viby Sjælland</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Viby Sjælland</td></tr><tr><td><b>Forkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Vy 008</td></tr><tr><td><b>Equipment</b></td><td>10786139</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.550019000</td></tr><tr><td><b>GPS Øst</b></td><td>12.025068000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Apr 08 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205994889</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 25/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>42.416</td></tr><tr><td><b>Batteritype</b></td><td></td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>014.043.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.025068000,55.550019000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Viby Sjælland - Borup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Viby Sjælland - Borup</td></tr><tr><td><b>Forkortelse</b></td><td>Vy - Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Viby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Vy-Bo 044606</td></tr><tr><td><b>Equipment</b></td><td>10735569</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.535437000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.002155000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Aug 18 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1917260107</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>44.596</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>014.044.E1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.002155000, 55.535437000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Slagelse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Slagelse</td></tr><tr><td><b>Forkortelse</b></td><td>Sg</td></tr><tr><td><b>Uddybende placering</b></td><td>UPS-rum indgang fra p-plads</td></tr><tr><td><b>Bygningsnummer</b></td><td>Sg 008</td></tr><tr><td><b>Equipment</b></td><td>10734056</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.408172000</td></tr><tr><td><b>GPS Øst</b></td><td>11.350106000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Oct 01 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Easy UPS 3S</td></tr><tr><td><b>Serienummer</b></td><td>9E1925T12793</td></tr><tr><td><b>Firmware opdatering</b></td><td>20/09-2023</td></tr><tr><td><b>Kilometrering</b></td><td>92.83</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.A2.2.1 </td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.350106000,55.408172000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sorø</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Sorø</td></tr><tr><td><b>Forkortelse</b></td><td>So</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>So 010</td></tr><tr><td><b>Equipment</b></td><td>10786137</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.419114000</td></tr><tr><td><b>GPS Øst</b></td><td>11.568437000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Apr 18 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC</td></tr><tr><td><b>Serienummer</b></td><td>AS2217392633</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 26/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>78.387</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>016.079.A3</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.568437000,55.419114000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Glumsø</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Glumsø</td></tr><tr><td><b>Forkortelse</b></td><td>Gz</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Gz 004</td></tr><tr><td><b>Equipment</b></td><td>10618081</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.353221000</td></tr><tr><td><b>GPS Øst</b></td><td>11.695660000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Aug 11 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2251392077</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 07/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>57.678</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>022.011.A6</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.695660000,55.353221000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum under 7-eleven</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 001</td></tr><tr><td><b>Equipment</b></td><td>10845856</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.767400000</td></tr><tr><td><b>GPS Øst</b></td><td>11.877528000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu May 25 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>Eaton 9PX 3000</td></tr><tr><td><b>Serienummer</b></td><td>GA15N47286</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>146.798</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>6</td></tr><tr><td><b>Batteridata</b></td><td>12v</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.877528000,54.767400000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 016</td></tr><tr><td><b>Equipment</b></td><td>10860024</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.768904000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.880508000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Aug 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>ID2118006024</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>146.569</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>32</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E3.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.880508000, 54.768904000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Næ 009</td></tr><tr><td><b>Equipment</b></td><td>10734055</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.234500000</td></tr><tr><td><b>GPS Øst</b></td><td>11.765354000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Jun 04 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>50</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>BD1945003223</td></tr><tr><td><b>Firmware opdatering</b></td><td>18/08-2023</td></tr><tr><td><b>Kilometrering</b></td><td>90.332</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td>Litium-ion</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.C5.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765354000,55.234500000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>I kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Næ 004</td></tr><tr><td><b>Equipment</b></td><td>10847030</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.231685000</td></tr><tr><td><b>GPS Øst</b></td><td>11.766636000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu May 11 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>Eaton 9130 UPS</td></tr><tr><td><b>Serienummer</b></td><td>GH121A0765</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>90.649</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A3.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766636000,55.231685000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tingsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Tingsted</td></tr><tr><td><b>Forkortelse</b></td><td>Tn</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Tingsted</td></tr><tr><td><b>Bygningsnummer</b></td><td>Tn 601</td></tr><tr><td><b>Equipment</b></td><td>10735548</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.821474080</td></tr><tr><td><b>GPS Øst</b></td><td>11.885429500</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Feb 14 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS2414154474</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>140.646</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>026.015.B2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885429500,54.821474080,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vordingborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Lu - Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Klarskov</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lu-Vo 111277</td></tr><tr><td><b>Equipment</b></td><td>10735575</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.068813000</td></tr><tr><td><b>GPS Øst</b></td><td>11.872985000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jun 17 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1806264895</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>111.284</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>024.110.F1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.872985000,55.068813000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vordingborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus 009</td></tr><tr><td><b>Bygningsnummer</b></td><td>Vo 009</td></tr><tr><td><b>Equipment</b></td><td>10760436</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.012363000</td></tr><tr><td><b>GPS Øst</b></td><td>11.899870000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>18/11-2025</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XI-LI</td></tr><tr><td><b>Serienummer</b></td><td>AS2210194968</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>118.103</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td>Litium-ion</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.F3.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.899870000,55.012363000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing F Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Holeby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 169670</td></tr><tr><td><b>Equipment</b></td><td>10735533</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.696450000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.549582000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Feb 27 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1740350731</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>169.66</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.C1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.549582000, 54.696450000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing F Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Sakskøbing</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 155700</td></tr><tr><td><b>Equipment</b></td><td>10735536</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 54.739919000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.751952000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jun 17 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1740350747</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>155.726</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.E1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.751952000, 54.739919000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F Vest - Rødby Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing F Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Rødby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 178100</td></tr><tr><td><b>Equipment</b></td><td>10735537</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.678558000</td></tr><tr><td><b>GPS Øst</b></td><td>11.423470000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Feb 27 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1731243078</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>178.077</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>028.004.B1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.423470000,54.678558000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Rødby Færge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Uddybende placering</b></td><td>Scandlines teknikhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Scandlines</td></tr><tr><td><b>Equipment</b></td><td>10760435</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.654388000</td></tr><tr><td><b>GPS Øst</b></td><td>11.352550000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Sep 26 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>ID1946002736</td></tr><tr><td><b>Firmware opdatering</b></td><td>15/09-2023</td></tr><tr><td><b>Kilometrering</b></td><td>183.41</td></tr><tr><td><b>Batteritype</b></td><td></td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td>Sprinter P12V600 01/2020 (10 års levetid)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>029.000.A1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.352550000,54.654388000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gadstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Gadstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Gt 005</td></tr><tr><td><b>Equipment</b></td><td>10355869</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.569978000</td></tr><tr><td><b>GPS Øst</b></td><td>12.101252000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue May 25 2021 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>Socomoc ITY2-TW030LB</td></tr><tr><td><b>Serienummer</b></td><td>Intet serienr. SOcome</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>39.775</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>8</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.039.A1.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.101252000,55.569978000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Haslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz 012</td></tr><tr><td><b>Equipment</b></td><td>10831363</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.331367000</td></tr><tr><td><b>GPS Øst</b></td><td>11.965746000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Feb 09 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2217392627</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 07/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>74</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.H4</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.965746000,55.331367000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Haslev - Holme-Olstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev - Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hz - Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Bråby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz-Ol 079780</td></tr><tr><td><b>Equipment</b></td><td>10735552</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.293227000</td></tr><tr><td><b>GPS Øst</b></td><td>11.907414000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Aug 18 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1740350745</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>79.779</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.907414000,55.293227000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Havdrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Havdrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hd</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hd 009</td></tr><tr><td><b>Equipment</b></td><td>10786134</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.541161000</td></tr><tr><td><b>GPS Øst</b></td><td>12.118756000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Sep 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294837</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 05/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>43.227</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.043.A1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.118756000,55.541161000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Havdrup - Lille Skensved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Havdrup - Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Hd - Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Kirke Skensved</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hd-Lw 044772</td></tr><tr><td><b>Equipment</b></td><td>10735549</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.527578000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127042000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Mar 01 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294884</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 05/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>44.758</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.044.C2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.127042000,55.527578000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Herfølge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Herfølge</td></tr><tr><td><b>Forkortelse</b></td><td>Hf</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hf 008</td></tr><tr><td><b>Equipment</b></td><td>10355873</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.415813000</td></tr><tr><td><b>GPS Øst</b></td><td>12.134771000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Apr 20 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC Smart UPS RT</td></tr><tr><td><b>Serienummer</b></td><td>AS2110194607</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 05/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>59.498</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.059.E1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.134771000,55.415813000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Holme Olstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Holme Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ol 004</td></tr><tr><td><b>Equipment</b></td><td>10901678</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.262817000</td></tr><tr><td><b>GPS Øst</b></td><td>11.855067000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Aug 21 2025 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294836</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>84.815</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A1.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.855067000,55.262817000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Nødstrømshus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 013</td></tr><tr><td><b>Equipment</b></td><td>10696245</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.460150000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187719000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Apr 28 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>60</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>BD1928007579</td></tr><tr><td><b>Firmware opdatering</b></td><td>18/08-2023</td></tr><tr><td><b>Kilometrering</b></td><td>53.359</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>32</td></tr><tr><td><b>Batteridata</b></td><td>Sprinter P12V875 06/2019 (10 års levetid)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A7.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187719000,55.460150000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lille Skensved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lw 006</td></tr><tr><td><b>Equipment</b></td><td>10786136</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.508602000</td></tr><tr><td><b>GPS Øst</b></td><td>12.144732000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Sep 28 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294887</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 04/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>47.188</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.047.A1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.144732000,55.508602000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tureby</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Tureby</td></tr><tr><td><b>Forkortelse</b></td><td>Th</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Th 006</td></tr><tr><td><b>Equipment</b></td><td>10834383</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.371419000</td></tr><tr><td><b>GPS Øst</b></td><td>12.072478000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Mar 13 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2233391562</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 05/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>65.874</td></tr><tr><td><b>Batteritype</b></td><td></td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.065.A1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.072478000,55.371419000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tureby - Haslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Tureby - Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Th - Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Haslev</td></tr><tr><td><b>Bygningsnummer</b></td><td>Th-Hz 068370</td></tr><tr><td><b>Equipment</b></td><td>10735538</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.358179000</td></tr><tr><td><b>GPS Øst</b></td><td>12.040408000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Oct 08 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1807160158</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>68.394</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>042.068.C1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.040408000,55.358179000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup</td></tr><tr><td><b>Forkortelse</b></td><td>Jy</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Jy 002</td></tr><tr><td><b>Equipment</b></td><td>10809890</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.660465000</td></tr><tr><td><b>GPS Øst</b></td><td>11.397440000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Aug 22 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294838</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 11/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>89.557</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.089.A1.3.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.397440000,55.660465000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup - Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup - Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Jy - Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Skarresø C</td></tr><tr><td><b>Bygningsnummer</b></td><td>Jy-Se 091878</td></tr><tr><td><b>Equipment</b></td><td>10735550</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.660128000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.361977000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Aug 18 2020 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1846131398</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>91.884</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.092.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.361977000, 55.660128000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup - Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup - Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Jy - Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Skarresø A</td></tr><tr><td><b>Bygningsnummer</b></td><td>Jy-Se 093101</td></tr><tr><td><b>Equipment</b></td><td>10905877</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.650753000</td></tr><tr><td><b>GPS Øst</b></td><td>11.352679000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Nov 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS1846131419</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>93.074</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>1</td></tr><tr><td><b>Batteridata</b></td><td>RBC55</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.092.D2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.352679000,55.650753000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Rum stueplan</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kb 001</td></tr><tr><td><b>Equipment</b></td><td>10505504</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.677998000</td></tr><tr><td><b>GPS Øst</b></td><td>11.089093000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jun 09 2015 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>30</td></tr><tr><td><b>UPS Type</b></td><td>APC MGE Galaxy  3500</td></tr><tr><td><b>Serienummer</b></td><td>PS1525330858</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>110.584</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>10</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.A1.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.089093000,55.677998000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg Øst</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Kbø</td></tr><tr><td><b>Uddybende placering</b></td><td>Duelco Hytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kb 601</td></tr><tr><td><b>Equipment</b></td><td>10846155</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.676249000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.122964000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Jun 02 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS2251192242</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 08/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>108.457</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td></td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.109.A1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.122964000, 55.676249000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mørkøv</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Mørkøv</td></tr><tr><td><b>Forkortelse</b></td><td>Mø</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Mø 004</td></tr><tr><td><b>Equipment</b></td><td>10758998</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.654522000</td></tr><tr><td><b>GPS Øst</b></td><td>11.502594000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Aug 26 2021 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>1.5</td></tr><tr><td><b>UPS Type</b></td><td>Liebert Vertiv GXT5-1500IRT2UXLE</td></tr><tr><td><b>Serienummer</b></td><td>1921700224AFMC3</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>82.874</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.083.A1.3.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.502594000,55.654522000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Regstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Regstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Rt</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rt 007</td></tr><tr><td><b>Equipment</b></td><td>10844362</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.677692000</td></tr><tr><td><b>GPS Øst</b></td><td>11.612945000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu May 11 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2251192239</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 14/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>75.158</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.075.A1.3.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.612945000,55.677692000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Regstrup - Mørkøv</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Regstrup - Mørkøv</td></tr><tr><td><b>Forkortelse</b></td><td>Rt - Mø</td></tr><tr><td><b>Uddybende placering</b></td><td>IT hytte, Knabstrup 079595</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rt-Mø 079600</td></tr><tr><td><b>Equipment</b></td><td>10603442</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.664752000</td></tr><tr><td><b>GPS Øst</b></td><td>11.550123000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Jun 15 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2251192241</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 11/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>79.657</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.076.B1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.550123000,55.664752000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Se 006</td></tr><tr><td><b>Equipment</b></td><td>10603444</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.652102000</td></tr><tr><td><b>GPS Øst</b></td><td>11.292444000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Apr 13 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205294835</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 08/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>97.174</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.097.A2.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.292444000,55.652102000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Værslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Væ 002</td></tr><tr><td><b>Equipment</b></td><td>10786141</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.669930000</td></tr><tr><td><b>GPS Øst</b></td><td>11.207393000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Oct 04 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2205195186</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 08/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>102.918</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.A5.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.207393000,55.669930000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Værslev - Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev - Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Væ - Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Transmissionshytte 107371</td></tr><tr><td><b>Bygningsnummer</b></td><td>Væ-Kb 107731</td></tr><tr><td><b>Equipment</b></td><td>10706982</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.674611000</td></tr><tr><td><b>GPS Øst</b></td><td>11.134133000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon May 27 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>50</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>BD1846001176</td></tr><tr><td><b>Firmware opdatering</b></td><td>13/07-2023</td></tr><tr><td><b>Kilometrering</b></td><td>107.73</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>16</td></tr><tr><td><b>Batteridata</b></td><td>Litium-ion</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.104.C1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.134133000,55.674611000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Holbæk</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hk 033</td></tr><tr><td><b>Equipment</b></td><td>10291714</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.715607000</td></tr><tr><td><b>GPS Øst</b></td><td>11.707407000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Oct 13 2024 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>20</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>QD2148181302</td></tr><tr><td><b>Firmware opdatering</b></td><td>21/09-2023</td></tr><tr><td><b>Kilometrering</b></td><td>67.046</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>72</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.B1.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.707407000,55.715607000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hvalsø</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv 015</td></tr><tr><td><b>Equipment</b></td><td>10355878</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.595315000</td></tr><tr><td><b>GPS Øst</b></td><td>11.860624000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Jul 24 2024 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC Smart UPS On-line SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2251192266</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>48.264</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td>APC Smart-UPS SRT 72V</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.049.A10</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.860624000,55.595315000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hvalsø - Tølløse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø - Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Hv - Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Soderup Vest</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv-Tø 051945</td></tr><tr><td><b>Equipment</b></td><td>10904013</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.598697000</td></tr><tr><td><b>GPS Øst</b></td><td>11.807229000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Nov 06 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SMT2200IC</td></tr><tr><td><b>Serienummer</b></td><td>AS2526255844</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>51.939</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.050.A2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.807229000,55.598697000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lejre</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lj 007</td></tr><tr><td><b>Equipment</b></td><td>10786135</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.604496000</td></tr><tr><td><b>GPS Øst</b></td><td>11.970780000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Jan 05 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2217392667</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 14/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>40.804</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.041.A4.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.970780000,55.604496000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tølløse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Tø 002</td></tr><tr><td><b>Equipment</b></td><td>10886445</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.612654600</td></tr><tr><td><b>GPS Øst</b></td><td>11.772354200</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Mar 06 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2402293080</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>54.681</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>APC SRT72BP</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>052.055.A1.3.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.772354200,55.612654600,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vipperød</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Pe 005</td></tr><tr><td><b>Equipment</b></td><td>10786140</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.666636000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738852000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Nov 28 2022 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2217392664</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 14/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>61.126</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>1 intern + 2 eksternt (APC SRT72BP)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td>Tue Mar 17 2026 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A5.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.738852000,55.666636000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hedehusene</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11b</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Hedehusene</td></tr><tr><td><b>Forkortelse</b></td><td>Hh</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 023710</td></tr><tr><td><b>Equipment</b></td><td>10738522</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.647562000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204507000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Apr 21 2021 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>1.5</td></tr><tr><td><b>UPS Type</b></td><td>Liebert Vertiv GXT5-1500IRT2UXLE</td></tr><tr><td><b>Serienummer</b></td><td>1921700374AFMC3</td></tr><tr><td><b>Firmware opdatering</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>23.696</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>2</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.204507000,55.647562000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hedehusene</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11b</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Hedehusene</td></tr><tr><td><b>Forkortelse</b></td><td>Hh</td></tr><tr><td><b>Uddybende placering</b></td><td>I kælder under cykelparkering</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hh 002</td></tr><tr><td><b>Equipment</b></td><td>10870185</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.648996000</td></tr><tr><td><b>GPS Øst</b></td><td>12.196880000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jul 08 2024 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>3</td></tr><tr><td><b>UPS Type</b></td><td>Eaton 9PX - 3000i RT 3U</td></tr><tr><td><b>Serienummer</b></td><td>GA15R04189</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 1.0.3 - 08/07-2024</td></tr><tr><td><b>Kilometrering</b></td><td>24.201</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>6</td></tr><tr><td><b>Batteridata</b></td><td></td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.196880000,55.648996000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11b</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>UPS-rum under station</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Equipment</b></td><td>10810003</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.648380000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269628000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jan 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>60</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>ID2131003726</td></tr><tr><td><b>Firmware opdatering</b></td><td>18/08-2023</td></tr><tr><td><b>Kilometrering</b></td><td>19.515</td></tr><tr><td><b>Batteritype</b></td><td>Åben</td></tr><tr><td><b>Antal batteri</b></td><td>32</td></tr><tr><td><b>Batteridata</b></td><td>Marathon M12V50FT 10/2018 (12 års levetid)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A1.1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.269628000,55.648380000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11b</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Kommandopost - kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Equipment</b></td><td>10687026</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.637790000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084765000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Aug 21 2024 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>80</td></tr><tr><td><b>UPS Type</b></td><td>Schneider Electric Galaxy VS</td></tr><tr><td><b>Serienummer</b></td><td>ID2238007737</td></tr><tr><td><b>Firmware opdatering</b></td><td>6.101.3.151</td></tr><tr><td><b>Kilometrering</b></td><td>31.553</td></tr><tr><td><b>Batteritype</b></td><td>Åben</td></tr><tr><td><b>Antal batteri</b></td><td>48</td></tr><tr><td><b>Batteridata</b></td><td>Hoppecke HC 122000 05/18 (12 års levetid)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A1.2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084765000,55.637790000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Trekroner</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11b</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Trekroner</td></tr><tr><td><b>Forkortelse</b></td><td>Trk</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Trk 021</td></tr><tr><td><b>Equipment</b></td><td>10786138</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.647804000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127591000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Thu Dec 15 2022 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>230</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>2.2</td></tr><tr><td><b>UPS Type</b></td><td>APC SRT2200XLI</td></tr><tr><td><b>Serienummer</b></td><td>AS2221192982</td></tr><tr><td><b>Firmware opdatering</b></td><td>UPS FW 15.5 - 20/03-2024</td></tr><tr><td><b>Kilometrering</b></td><td>28.588</td></tr><tr><td><b>Batteritype</b></td><td>Lukket</td></tr><tr><td><b>Antal batteri</b></td><td>3</td></tr><tr><td><b>Batteridata</b></td><td>1 intern + 2 eksternt (APC SRT72BP)</td></tr><tr><td><b>Batteri udskiftningsdato</b></td><td>Tue Mar 17 2026 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.127591000,55.647804000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
