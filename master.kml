@@ -491,5 +491,16 @@
     </Link>
    </NetworkLink>
 
+<NetworkLink>
+    <name>Terrænbelysning</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/TERR%C3%86NBELYSNING_Terr%C3%A6nbelysning_TERR%C3%86NBELYSNING_TERR%C3%86NBELYSNING.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
