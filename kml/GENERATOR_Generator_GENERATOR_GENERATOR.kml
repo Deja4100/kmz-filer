@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Generator - GENERATOR</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Generator.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Vipperød</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146149</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.666626000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.738756000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Jul 01 1967 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1995</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.738756000,55.666626000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mobil generator</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Mobil generator</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Mobilgen. Nr 2: 7841-CU 88 85</td></tr><tr><td><b>Equipment</b></td><td>10693708</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.438606000</td></tr><tr><td><b>GPS Øst</b></td><td>11.816952000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Dec 09 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>30</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>1260</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>1350</td></tr><tr><td><b>Agg. nr.</b></td><td>7841</td></tr><tr><td><b>Styretavle</b></td><td></td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.816952000, 55.438606000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mobil generator</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Mobil generator</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Mobilgen. Nr 4: 8445-EE 37 07</td></tr><tr><td><b>Equipment</b></td><td>10826769</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.438512000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.816838000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Jan 18 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>400v AC</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>45</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>1820</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>2700</td></tr><tr><td><b>Agg. nr.</b></td><td>8445</td></tr><tr><td><b>Styretavle</b></td><td></td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.816838000, 55.438512000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kværkeby</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Kværkeby</td></tr><tr><td><b>Forkortelse</b></td><td>Ky</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhus bag støjhegn</td></tr><tr><td><b>Equipment</b></td><td>10146411</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.450801000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.898407000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1975 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>8.9</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3407</td></tr><tr><td><b>Styretavle</b></td><td>014.057.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.898407000, 55.450801000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Borup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Borup</td></tr><tr><td><b>Forkortelse</b></td><td>Bo</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146408</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.495201000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.972501000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Jul 01 2015 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>10.1</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>F50985</td></tr><tr><td><b>Styretavle</b></td><td>DIEF</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.972501000, 55.495201000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Viby Sjælland</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Viby Sjælland</td></tr><tr><td><b>Forkortelse</b></td><td>Vy</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146403</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.550098000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.025177000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1975 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>8.9</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3338</td></tr><tr><td><b>Styretavle</b></td><td>014.043.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.025177000, 55.550098000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved telehytte 20m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10693710</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.436703000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.784704000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Nov 08 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7679</td></tr><tr><td><b>Styretavle</b></td><td>015.000.P1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.784704000, 55.436703000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved transmissionshytte</td></tr><tr><td><b>Equipment</b></td><td>10754794</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.437641000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.789014000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Jun 08 2018 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7763</td></tr><tr><td><b>Styretavle</b></td><td>DIEF</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.789014000, 55.437641000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Fjenneslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Fjenneslev</td></tr><tr><td><b>Forkortelse</b></td><td>Fj</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag støjhegn ved relæhytte</td></tr><tr><td><b>Equipment</b></td><td>10146414</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.441981000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.668795000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1986 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>8.9</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3641</td></tr><tr><td><b>Styretavle</b></td><td>016.071.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.668795000, 55.441981000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Forlev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Forlev</td></tr><tr><td><b>Forkortelse</b></td><td>Fo</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag støjhegn ved relæhytte</td></tr><tr><td><b>Equipment</b></td><td>10146420</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.375262000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.258867000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1986 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>8.9</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3602</td></tr><tr><td><b>Styretavle</b></td><td>016.101.A2</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.258867000, 55.375262000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Slagelse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Slagelse</td></tr><tr><td><b>Forkortelse</b></td><td>Sg</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 20m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10759339</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.408218000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.350338000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Jul 01 2018 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7535</td></tr><tr><td><b>Styretavle</b></td><td>016.093.A2.2</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.350338000, 55.408218000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sorø</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>13</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Sorø</td></tr><tr><td><b>Forkortelse</b></td><td>So</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146162</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.419062000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.568212000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Sep 29 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>6696</td></tr><tr><td><b>Styretavle</b></td><td>DIEF</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.568212000, 55.419062000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>Under station 5m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10844552</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648488000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269699000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon May 15 2023 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>100</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>8349</td></tr><tr><td><b>Styretavle</b></td><td>DIEF</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269699000, 55.648488000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved KMP - 10m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10693596</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637726000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.084740000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Jul 01 2018 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>100</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7614</td></tr><tr><td><b>Styretavle</b></td><td>013.000.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.084740000, 55.637726000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing Falster</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved KMP </td></tr><tr><td><b>Equipment</b></td><td>10831368</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.768795000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.880423000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Mar 10 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>400v AC</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>60</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7740</td></tr><tr><td><b>Styretavle</b></td><td>027.000.E3</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.880423000,54.768795000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vordingborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte - indhegnet</td></tr><tr><td><b>Equipment</b></td><td>10694260</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>55.011947000</td></tr><tr><td><b>GPS Øst</b></td><td>11.899691000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Jan 16 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>15</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7585</td></tr><tr><td><b>Styretavle</b></td><td>024.121.F3</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.899691000,55.011947000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved telehytte - 15m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10734057</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.234419000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.765385000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sun Nov 01 2020 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>60</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7940</td></tr><tr><td><b>Styretavle</b></td><td>023.000.C</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.765385000, 55.234419000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Rødby Færge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Uddybende placering</b></td><td>I Scandlines teknikbygning</td></tr><tr><td><b>Equipment</b></td><td>10235411</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td>54.654448000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352515000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Nov 24 2003 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>F50764</td></tr><tr><td><b>Styretavle</b></td><td>DIEF</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.352515000,54.654448000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Holme-Olstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag relæhytte væk fra spor</td></tr><tr><td><b>Equipment</b></td><td>10146518</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.262800000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.855100000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1975 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>13.8</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3616</td></tr><tr><td><b>Styretavle</b></td><td>042.085.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.855100000, 55.262800000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gadstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Gadstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Gt</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved DK-hytte nær spor</td></tr><tr><td><b>Equipment</b></td><td>10146498</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.569930000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.101294000</td></tr><tr><td><b>Anlæggets placering</b></td><td>2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1986 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>13.8</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3615</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.101294000, 55.569930000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>40</td></tr><tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved UPS rum indhegnet</td></tr><tr><td><b>Equipment</b></td><td>10693709</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.460167000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187659000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Oct 01 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>80</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7695</td></tr><tr><td><b>Styretavle</b></td><td>042.053.A7</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187659000, 55.460167000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>I kælderen</td></tr><tr><td><b>Equipment</b></td><td>10146467</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.677976000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.089282000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>40</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>6860</td></tr><tr><td><b>Styretavle</b></td><td>053.000.A1.1.1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.089282000, 55.677976000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Værslev</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 002, 4m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10693711</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.669932000</td></tr><tr><td><b>GPS Øst</b></td><td>11.207461000</td></tr><tr><td><b>Anlæggets placering</b></td><td>2</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jul 08 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>15</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>7663</td></tr><tr><td><b>Styretavle</b></td><td>052.103.A9</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.207461000, 55.669932000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Jyderup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Jyderup</td></tr><tr><td><b>Forkortelse</b></td><td>Jy</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 003, på perron</td></tr><tr><td><b>Equipment</b></td><td>10146540</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.660367000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.397136000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Jul 01 1966 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1665</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.397136000, 55.660367000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mørkøv</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Mørkøv</td></tr><tr><td><b>Forkortelse</b></td><td>Mø</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 004, på perron</td></tr><tr><td><b>Equipment</b></td><td>10146537</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.654557000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.502759000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Fri Jul 01 1966 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1667</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.502759000, 55.654557000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Regstrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Regstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Rt</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 007, på perron</td></tr><tr><td><b>Equipment</b></td><td>10146534</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.677782000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.612982000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Jul 01 1967 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1819</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.612982000, 55.677782000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Svebølle</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>51</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Svebølle</td></tr><tr><td><b>Forkortelse</b></td><td>Se</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146544</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.652079000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.292544000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Jul 01 1967 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>7.5</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>3222</td></tr><tr><td><b>Styretavle</b></td><td>052.097.A1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.292544000, 55.652079000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Tølløse</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte 6m fra spor</td></tr><tr><td><b>Equipment</b></td><td>10146528</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.612568000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.772468000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Wed Jul 01 1970 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x380</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>2143</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.772468000, 55.612568000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hvalsø</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146524</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.595317000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.860783000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Sat Jul 01 1967 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1822</td></tr><tr><td><b>Styretavle</b></td><td>Gammel styring/del af sikringsanlæg</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.860783000, 55.595317000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lejre</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte på perron</td></tr><tr><td><b>Equipment</b></td><td>10146521</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.604498000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.970677000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Tue Jul 01 1969 00:00:00 GMT+0100 (Central European Summer Time)</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>220</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>4</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>1999</td></tr><tr><td><b>Styretavle</b></td><td>052.041.A3</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.970677000, 55.604498000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Holbæk</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>79</td></tr><tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved telehytte 033</td></tr><tr><td><b>Equipment</b></td><td>10257019</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.715546000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.707390000</td></tr><tr><td><b>Anlæggets placering</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>17-01-2013</td></tr><tr><td><b>Udgangsspænding (V AC)</b></td><td>3x400</td></tr><tr><td><b>Nominel effekt (kVA)</b></td><td>80</td></tr><tr><td><b>Køreklar vægt (kg)</b></td><td>IR</td></tr><tr><td><b>Teknisk totalvægt (kg)</b></td><td>IR</td></tr><tr><td><b>Agg. nr.</b></td><td>6343</td></tr><tr><td><b>Styretavle</b></td><td>052.067.B1</td></tr><tr><td><b>Bemærkning</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.707390000, 55.715546000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
