@@ -11,7 +11,7 @@
 </Style>
 
 <Placemark>
-  <name>Item 1</name>
+  <name>Tavlerum i kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -26,7 +26,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 2</name>
+  <name>Indgang til Tavlerum i kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -41,7 +41,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 3</name>
+  <name>Ved elevator i kældergang</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -56,7 +56,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 4</name>
+  <name>Batterirum i kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -71,7 +71,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 5</name>
+  <name>1. sal ved elevator</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -86,7 +86,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 6</name>
+  <name>1. sal telerum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -101,7 +101,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 7</name>
+  <name>1. sal mellemgang</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -116,7 +116,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 8</name>
+  <name>1. sal relærum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -131,7 +131,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 9</name>
+  <name>2. sal ved elevator</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -146,7 +146,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 10</name>
+  <name>2. sal i relærum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -161,7 +161,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 11</name>
+  <name>3. sal hovedgarderobe</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -176,7 +176,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 12</name>
+  <name>3. sal hovedgarderobe indgang</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -191,7 +191,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 13</name>
+  <name>3. sal ved trafikstyring</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -206,7 +206,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 14</name>
+  <name>3. sal lille garderobe indgang</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -221,7 +221,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 15</name>
+  <name>3. sal lille garderobe</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -236,7 +236,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 16</name>
+  <name>KMP 3. sal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -251,7 +251,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 17</name>
+  <name>KMP 3. sal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -266,7 +266,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 18</name>
+  <name>KMP 3. sal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -281,7 +281,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 19</name>
+  <name>KMP 3. sal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -296,7 +296,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 20</name>
+  <name>Relæhus stueplan</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -311,7 +311,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 21</name>
+  <name>Relæhus stueplan</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -326,7 +326,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 22</name>
+  <name>Relæhus stueplan forrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -341,7 +341,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 23</name>
+  <name>Relæhus kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -356,7 +356,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 24</name>
+  <name>Relæhus kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -371,7 +371,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 25</name>
+  <name>Indgang</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -386,7 +386,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 26</name>
+  <name>Gang v. relærum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -401,7 +401,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 27</name>
+  <name>Relærum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -416,7 +416,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 28</name>
+  <name>Telerum kælder</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -431,7 +431,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 29</name>
+  <name>Nødstrømsrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -446,7 +446,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 30</name>
+  <name>Lavspændingsrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -461,7 +461,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 31</name>
+  <name>Nødstrømsrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -476,7 +476,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 32</name>
+  <name>Nødstrømsrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -491,7 +491,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 33</name>
+  <name>Relærum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -506,7 +506,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 34</name>
+  <name>Nødstrømsrum</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
