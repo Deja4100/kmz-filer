@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Brandsikring_aba - BRANDSIKRING_ABA</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/ABA%20Brandsikring.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Item 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum indgang fra perron</td></tr><tr><td><b>Equipment</b></td><td>10346970</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>GPS Nord</b></td><td> 55.438265000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.785937000</td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Idriftsættelsesdato</b></td><td>Mon Jan 01 2007 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Brandsikringsanlægstype</b></td><td>ABA - Brandmelde</td></tr><tr><td><b>Dækningsområde - Kvadratmeter (m2)</b></td><td>173</td></tr><tr><td><b>Fabrikat central</b></td><td>ASI Manager - Dansikring/Stanley</td></tr><tr><td><b>modelnummer central</b></td><td>EBL 512</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.785937000, 55.438265000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
