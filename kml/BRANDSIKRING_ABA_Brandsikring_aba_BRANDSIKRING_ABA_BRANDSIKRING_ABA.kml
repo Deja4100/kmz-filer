@@ -5,13 +5,13 @@
   <IconStyle>
     <scale>1.1</scale>
     <Icon>
-      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/ABA%20Brandsikring.png</href>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/ABA%20brandsikring.png</href>
     </Icon>
   </IconStyle>
 </Style>
 
 <Placemark>
-  <name>Item 1</name>
+  <name>Ringsted</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
