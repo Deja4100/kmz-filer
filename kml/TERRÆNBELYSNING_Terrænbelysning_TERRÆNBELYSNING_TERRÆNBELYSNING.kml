@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Terrænbelysning - TERRÆNBELYSNING</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/Spotlight.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10135404</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>5</td></tr><tr><td><b>Fra kilometer</b></td><td>19,828 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.648339350</td></tr><tr><td><b>GPS Øst</b></td><td>12.264590020</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Øst</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>80</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>80</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.C</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.264590020,55.648339350,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10135406</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>5</td></tr><tr><td><b>Fra kilometer</b></td><td>19,828 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.648339350</td></tr><tr><td><b>GPS Øst</b></td><td>12.264590020</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Øst</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>25</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>25</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.C</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.264590020,55.648339350,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137289</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger øst 1</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>11</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>11</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137292</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger øst 1</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>0</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>0</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137310</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Vest</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>11</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>11</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137314</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Vest</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>30</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>30</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137317</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Overgang vest</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>3</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10137320</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>20,766 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.646534140</td></tr><tr><td><b>GPS Øst</b></td><td>12.250018270</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Overgang vest</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>80</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>80</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250018270,55.646534140,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup Kombiterminal</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Equipment</b></td><td>10466768</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Oprettet den</b></td><td>Tue Oct 14 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>ZZ</td></tr><tr><td><b>Fra kilometer</b></td><td>21,600 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.638100130</td></tr><tr><td><b>GPS Øst</b></td><td>12.249563640</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Nye master</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>2</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>19</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.249563640,55.638100130,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup Kombiterminal</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Equipment</b></td><td>10466769</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Oprettet den</b></td><td>Tue Oct 14 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>ZZ</td></tr><tr><td><b>Fra kilometer</b></td><td>21,230 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.641425240</td></tr><tr><td><b>GPS Øst</b></td><td>12.249779820</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Gl. master</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>1</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>22</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.249779820,55.641425240,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup Kombiterminal</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Equipment</b></td><td>10466770</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Oprettet den</b></td><td>Tue Oct 14 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>21,100 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.642579000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250065640</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>LED lys master</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips S9502</td></tr><tr><td><b>Antal armaturer</b></td><td>22</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>22</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250065640,55.642579000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup Kombiterminal</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Equipment</b></td><td>10466771</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Oprettet den</b></td><td>Tue Oct 14 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>21,100 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.642579000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250065640</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>RØR master</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>1</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>7</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250065640,55.642579000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Høje Taastrup Kombiterminal</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Equipment</b></td><td>10466773</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Oprettet den</b></td><td>Tue Oct 14 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>103</td></tr><tr><td><b>Fra kilometer</b></td><td>21,000 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.643468640</td></tr><tr><td><b>GPS Øst</b></td><td>12.250307040</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Sti mod Htå</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>1</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td></td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250307040,55.643468640,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137323</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702790</td></tr><tr><td><b>GPS Øst</b></td><td>12.081235070</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Bakkeleddet vej</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>10</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081235070,55.635702790,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137326</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702790</td></tr><tr><td><b>GPS Øst</b></td><td>12.081235070</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Bakkeleddet vej</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>0</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>0</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081235070,55.635702790,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137328</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702790</td></tr><tr><td><b>GPS Øst</b></td><td>12.081235070</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Bakkeleddet 2</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Solar EP</td></tr><tr><td><b>Antal armaturer</b></td><td>3</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081235070,55.635702790,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137331</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702790</td></tr><tr><td><b>GPS Øst</b></td><td>12.081235070</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Bakkeleddet 2</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Solar EP</td></tr><tr><td><b>Antal armaturer</b></td><td>1</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>2</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.H</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081235070,55.635702790,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137334</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>31,000 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.640255800</td></tr><tr><td><b>GPS Øst</b></td><td>12.092362020</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Værksted</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips SDS</td></tr><tr><td><b>Antal armaturer</b></td><td>14</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>14</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.092362020,55.640255800,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137337</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>31,000 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.640255800</td></tr><tr><td><b>GPS Øst</b></td><td>12.092362020</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Værksted</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>6</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>6</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.092362020,55.640255800,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137340</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>98</td></tr><tr><td><b>Fra kilometer</b></td><td>32,106 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.634315850</td></tr><tr><td><b>GPS Øst</b></td><td>12.078521950</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Sti mod værksted</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>8</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>8</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.078521950,55.634315850,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137343</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>98</td></tr><tr><td><b>Fra kilometer</b></td><td>32,106 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.634315850</td></tr><tr><td><b>GPS Øst</b></td><td>12.078521950</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Sti mod værksted</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>0</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>0</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.078521950,55.634315850,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137413</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702520</td></tr><tr><td><b>GPS Øst</b></td><td>12.081234710</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>4</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081234710,55.635702520,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10137415</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>94</td></tr><tr><td><b>Fra kilometer</b></td><td>31,872 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.635702520</td></tr><tr><td><b>GPS Øst</b></td><td>12.081234710</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>5</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.A</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081234710,55.635702520,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10678176</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Mar 22 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Wed Aug 21 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jun 28 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>45</td></tr><tr><td><b>Fra kilometer</b></td><td>31,576 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.637574000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084553000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Mellem spor 45-46</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>10</td></tr><tr><td><b>Lyskilde type</b></td><td>PHILIPS KØBENHAVNER LED</td></tr><tr><td><b>Antal lyskilder</b></td><td>10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084553000,55.637574000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Roskilde</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10678186</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Mar 22 2019 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Wed Aug 21 2019 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jun 28 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>31,449 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.638177000</td></tr><tr><td><b>GPS Øst</b></td><td>12.086275000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Sti mod spor 45-46</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>10</td></tr><tr><td><b>Lyskilde type</b></td><td>PHILIPS KØBENHAVNER LED</td></tr><tr><td><b>Antal lyskilder</b></td><td>10</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.086275000,55.638177000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Equipment</b></td><td>10136382</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Mon Jan 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>10</td></tr><tr><td><b>Fra kilometer</b></td><td>64,000 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.437593580</td></tr><tr><td><b>GPS Øst</b></td><td>11.785194790</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips S9502</td></tr><tr><td><b>Antal armaturer</b></td><td>105</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>105</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.785194790,55.437593580,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Equipment</b></td><td>10136448</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Mon Jan 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td>6</td></tr><tr><td><b>Fra kilometer</b></td><td>63,550 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.438614000</td></tr><tr><td><b>GPS Øst</b></td><td>11.802265000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger under bro</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>4</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.802265000,55.438614000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Equipment</b></td><td>10735450</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Mon Jan 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Mon Mar 29 2021 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>63.56 km</td></tr><tr><td><b>GPS Nord</b></td><td>55.438177000</td></tr><tr><td><b>GPS Øst</b></td><td>11.792043000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>18</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>18</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.792043000,55.438177000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Ringsted</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Equipment</b></td><td>10735451</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Mon Jan 01 2018 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Mon Mar 29 2021 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Ændret den</b></td><td>Wed May 25 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>62.15 km</td></tr><tr><td><b>GPS Nord</b></td><td>55.439315000</td></tr><tr><td><b>GPS Øst</b></td><td>11.816346000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Iguzzini</td></tr><tr><td><b>Antal armaturer</b></td><td>27</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>27</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.816346000,55.439315000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td>10137683</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>90,706 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.239936</td></tr><tr><td><b>GPS Øst</b></td><td>11.761878</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Spor 33-41</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips HGS - 201</td></tr><tr><td><b>Antal armaturer</b></td><td>17</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>17</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.761878,55.239936,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td>10137686</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>90,706 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.239936</td></tr><tr><td><b>GPS Øst</b></td><td>11.761878</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Spor 33-41</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>1</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>1</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.761878,55.239936,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td>10137689</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>90,706 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.225515</td></tr><tr><td><b>GPS Øst</b></td><td>11.775263</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Spor 32-33</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips GR</td></tr><tr><td><b>Antal armaturer</b></td><td>11</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>22</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.775263,55.225515,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td>10137692</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td></td></tr><tr><td><b>Fra kilometer</b></td><td>90,706 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.225515</td></tr><tr><td><b>GPS Øst</b></td><td>11.775263</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Spor 32-33</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>2</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.775263,55.225515,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Næstved</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td>10137695</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>90,706 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.225515</td></tr><tr><td><b>GPS Øst</b></td><td>11.775263</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips S9502</td></tr><tr><td><b>Antal armaturer</b></td><td>51</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>51</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.775263,55.225515,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135016</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.774617000</td></tr><tr><td><b>GPS Øst</b></td><td>11.884119000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Nord</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>25</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>25</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.884119000,54.774617000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135019</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.774617000</td></tr><tr><td><b>GPS Øst</b></td><td>11.884119000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger Nord</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>41</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>41</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.884119000,54.774617000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135021</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.768485000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879654000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger syd</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>13</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>13</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.879654000,54.768485000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135025</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.768485000</td></tr><tr><td><b>GPS Øst</b></td><td>11.879654000</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger syd</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>17</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>17</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.879654000,54.768485000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135028</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.767728210</td></tr><tr><td><b>GPS Øst</b></td><td>11.878501810</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>61</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>61</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.878501810,54.767728210,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Nykøbing F</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Nykøbing F</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Equipment</b></td><td>10135031</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Jul 01 2000 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>1</td></tr><tr><td><b>Fra kilometer</b></td><td>146,731 Km</td></tr><tr><td><b>GPS Nord</b></td><td>54.767728210</td></tr><tr><td><b>GPS Øst</b></td><td>11.878501810</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>LK skotlampe</td></tr><tr><td><b>Antal armaturer</b></td><td>10</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>10</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.878501810,54.767728210,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Equipment</b></td><td>10135456</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>53,600 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.463166180</td></tr><tr><td><b>GPS Øst</b></td><td>12.187058810</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips S9502</td></tr><tr><td><b>Antal armaturer</b></td><td>88</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>88</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187058810,55.463166180,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Equipment</b></td><td>10135459</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>53,600 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.463166180</td></tr><tr><td><b>GPS Øst</b></td><td>12.187058810</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td></td></tr><tr><td><b>Antal armaturer</b></td><td>4</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187058810,55.463166180,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Equipment</b></td><td>10135461</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>2</td></tr><tr><td><b>Fra kilometer</b></td><td>53,600 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.463166180</td></tr><tr><td><b>GPS Øst</b></td><td>12.187058810</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>1</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>35</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>35</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187058810,55.463166180,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Køge</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Equipment</b></td><td>10136810</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>4</td></tr><tr><td><b>Fra kilometer</b></td><td>52,480 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.467720300</td></tr><tr><td><b>GPS Øst</b></td><td>12.185129300</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>S-tog, P-rist</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>33</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>33</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.F</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.185129300,55.467720300,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Equipment</b></td><td>10135127</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2014 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>110,055 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.677645970</td></tr><tr><td><b>GPS Øst</b></td><td>11.097746010</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Ranger</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>96</td></tr><tr><td><b>Lyskilde type</b></td><td>LEDGINE E2X, 48-740</td></tr><tr><td><b>Antal lyskilder</b></td><td>96</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.097746010,55.677645970,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Equipment</b></td><td>10135130</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>110,055 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.677645970</td></tr><tr><td><b>GPS Øst</b></td><td>11.097746010</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Sti BS hus og vaskehal</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>14</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>14</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.097746010,55.677645970,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Equipment</b></td><td>10135133</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>110,055 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.677645970</td></tr><tr><td><b>GPS Øst</b></td><td>11.097746010</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Mellem sporene</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>15</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>15</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.097746010,55.677645970,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Equipment</b></td><td>10135136</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 01 2003 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Oprettet den</b></td><td>Sat Mar 13 2010 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Ændret den</b></td><td>Tue Jan 19 2021 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Spornummer</b></td><td>113</td></tr><tr><td><b>Fra kilometer</b></td><td>110,055 Km</td></tr><tr><td><b>GPS Nord</b></td><td>55.677645970</td></tr><tr><td><b>GPS Øst</b></td><td>11.097746010</td></tr><tr><td><b>Placeringsbeskrivelse</b></td><td>Mellem sporene</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Armatur type</b></td><td>Philips Københavnerarmatur</td></tr><tr><td><b>Antal armaturer</b></td><td>28</td></tr><tr><td><b>Lyskilde type</b></td><td></td></tr><tr><td><b>Antal lyskilder</b></td><td>28</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.097746010,55.677645970,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
