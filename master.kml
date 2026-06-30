@@ -502,5 +502,16 @@
     </Link>
    </NetworkLink>
 
+<NetworkLink>
+    <name>Håndildslukkere</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/H%C3%85NDILDSLUKKERE_H%C3%A5ndildslukkere_H%C3%85NDILDSLUKKERE_H%C3%85NDILDSLUKKERE.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
