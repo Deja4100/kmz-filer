@@ -458,17 +458,6 @@
     </Link>
    </NetworkLink>
 
-    <NetworkLink>
-    <name>Pumpeanlæg</name>
-    <visibility>0</visibility>
-        <open>0</open>
-    <Link>
-     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/PUMPER_Pumper_PUMPER_PUMPER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
-    </Link>
-   </NetworkLink>
-
 <NetworkLink>
     <name>UPS- og Batterianlæg</name>
     <visibility>0</visibility>
