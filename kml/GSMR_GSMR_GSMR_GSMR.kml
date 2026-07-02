@@ -11,7 +11,7 @@
 </Style>
 
 <Placemark>
-  <name>Item 1</name>
+  <name>Taastrup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -26,7 +26,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 2</name>
+  <name>Fløng</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -41,7 +41,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 3</name>
+  <name>Roskilde Vest</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -56,7 +56,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 4</name>
+  <name>Viby Sjælland</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -71,7 +71,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 5</name>
+  <name>Sorø Vest</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -86,7 +86,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 6</name>
+  <name>Tølløse</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -101,7 +101,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 7</name>
+  <name>Hvalsø Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -116,7 +116,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 8</name>
+  <name>Lejre Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -131,7 +131,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 9</name>
+  <name>Kirke Syv</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -146,7 +146,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 10</name>
+  <name>Lille Skensved</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -161,7 +161,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 11</name>
+  <name>Køge Station (Relæhus)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -176,7 +176,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 12</name>
+  <name>Borup Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -191,7 +191,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 13</name>
+  <name>Adamshøj (Kværkeby)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -206,7 +206,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 14</name>
+  <name>Ringsted Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -221,7 +221,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 15</name>
+  <name>Sorø Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -236,7 +236,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 16</name>
+  <name>Slagelse</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -251,7 +251,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 17</name>
+  <name>Glumsø Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -266,7 +266,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 18</name>
+  <name>Høje Taastrup ved container terminal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -281,7 +281,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 19</name>
+  <name>Næstved Syd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -296,7 +296,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 20</name>
+  <name>Vordingborg Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -311,7 +311,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 21</name>
+  <name>Nykøbing Falster Nord</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -326,7 +326,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 22</name>
+  <name>Lolland Midt</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -341,7 +341,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 23</name>
+  <name>Gelsted Sjælland</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -356,7 +356,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 24</name>
+  <name>Mogenstrup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -371,7 +371,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 25</name>
+  <name>Tureby Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -386,7 +386,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 26</name>
+  <name>Haslev Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -401,7 +401,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 27</name>
+  <name>Holme Olstrup Station STR mast</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -416,7 +416,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 28</name>
+  <name>Klarskov</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -431,7 +431,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 29</name>
+  <name>Nørre Alslev</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -446,7 +446,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 30</name>
+  <name>Vipperød Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -461,7 +461,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 31</name>
+  <name>Herlufholm</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -476,7 +476,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 32</name>
+  <name>Allerup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -491,7 +491,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 33</name>
+  <name>Mørkøv Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -506,7 +506,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 34</name>
+  <name>Astrup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -521,7 +521,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 35</name>
+  <name>Værslev (Birkendegård)</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -536,7 +536,22 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 36</name>
+  <name>Værslev (Birkendegård)</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td></td></tr><tr><td><b>Placering</b></td><td>Værslev (Birkendegård)</td></tr><tr><td><b>Lokation</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.D</td></tr><tr><td><b>Adresse</b></td><td>Aldersrovej</td></tr><tr><td><b>Postnr.</b></td><td>4400</td></tr><tr><td><b>GPS Nord</b></td><td>55.667776000</td></tr><tr><td><b>GPS Øst</b></td><td>11.218137000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>102.200</td></tr><tr><td><b>Mast højde</b></td><td></td></tr><tr><td><b>Antenne højde</b></td><td></td></tr><tr><td><b>Miljøforhold</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.218137000,55.667776000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalundborg Vogndepot</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -551,7 +566,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 37</name>
+  <name>Holbæk</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -566,7 +581,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 38</name>
+  <name>Forlev Stationsby</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -581,7 +596,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 39</name>
+  <name>Rødby Øst</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -596,7 +611,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 40</name>
+  <name>Korsør Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -611,7 +626,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 41</name>
+  <name>Rødby Havn</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -626,7 +641,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 42</name>
+  <name>Sundby</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -641,7 +656,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 43</name>
+  <name>Haslev Nord</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -656,7 +671,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 44</name>
+  <name>Haslev Syd</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -671,7 +686,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 45</name>
+  <name>Herfølge</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -686,7 +701,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 46</name>
+  <name>Havdrup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
