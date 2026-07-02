@@ -546,5 +546,27 @@
     </Link>
    </NetworkLink>
 
+<NetworkLink>
+    <name>GSMR</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/GSMR_GSMR_GSMR_GSMR.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
+<NetworkLink>
+    <name>Stationer</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/STATIONER_Stationer_STATIONER_STATIONER.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+   </NetworkLink>
+
 </Document>
 </kml>
