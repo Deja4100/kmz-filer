@@ -16,8 +16,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
   </NetworkLink>
 
@@ -27,8 +26,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
   </NetworkLink>
 
@@ -38,8 +36,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
   </NetworkLink>
 
@@ -49,8 +46,7 @@
   <open>0</open>
   <Link>
     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE11b_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-    <refreshMode>onInterval</refreshMode>
-    <refreshInterval>300</refreshInterval>
+    <refreshMode>onChange</refreshMode>
   </Link>
 </NetworkLink>
 
@@ -64,8 +60,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -75,8 +70,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -86,8 +80,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -97,8 +90,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE12_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -112,8 +104,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -123,8 +114,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -134,8 +124,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -145,8 +134,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE13_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -159,8 +147,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE21_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -170,8 +157,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE21_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -181,8 +167,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE21_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -192,8 +177,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE21_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -206,8 +190,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE22_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -217,8 +200,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE22_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -228,8 +210,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE22_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -239,8 +220,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE22_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -253,8 +233,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE40_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -264,8 +243,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE40_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -275,8 +253,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE40_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -286,8 +263,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE40_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -300,8 +276,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE51_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -311,8 +286,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE51_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -322,8 +296,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE51_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -333,8 +306,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE51_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -347,8 +319,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE79_Hovedtavler_EXTX1284_HOVEDTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -358,8 +329,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE79_Undertavler_EXTX1284_UNDERTAVLER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -369,8 +339,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE79_Undertavler_ESNI1_ESNI1.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -380,8 +349,7 @@
     <open>0</open>
     <Link>
       <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BANE79_Hovedtavler_EXTX1284_KABELSKABE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
   </Folder>
@@ -396,8 +364,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/APO-KASSER_Fremmednet_APO-KASSER_APO-KASSER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -407,8 +374,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/ANDET_Fremmednet_ANDET_ANDET.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -418,8 +384,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/ME_MZ_STIK_Fremmednet_ME_MZ_STIK_ME_MZ_STIK.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -429,8 +394,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/POWERFLEX_9300_9800_Fremmednet_POWERFLEX_9300_9800_POWERFLEX_9300_9800.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -442,8 +406,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/GENERATOR_Generator_GENERATOR_GENERATOR.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -453,8 +416,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/K%C3%98LEANL%C3%86G_K%C3%B8leanl%C3%A6g_K%C3%98LEANL%C3%86G_K%C3%98LEANL%C3%86G.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -464,8 +426,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/PUMPER_Pumper_PUMPER_PUMPER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -475,8 +436,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/UPS_UPS_UPS_UPS.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -486,8 +446,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/VENTILATION_Ventilation_VENTILATION_VENTILATION.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -497,8 +456,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/TERR%C3%86NBELYSNING_Terr%C3%A6nbelysning_TERR%C3%86NBELYSNING_TERR%C3%86NBELYSNING.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -508,8 +466,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/H%C3%85NDILDSLUKKERE_H%C3%A5ndildslukkere_H%C3%85NDILDSLUKKERE_H%C3%85NDILDSLUKKERE.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -519,8 +476,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/SIKKERHEDSBELYSNING_Sikkerhedsbelysning_SIKKERHEDSBELYSNING_SIKKERHEDSBELYSNING.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -530,8 +486,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BRANDSIKRING_Brandsikring_BRANDSIKRING_BRANDSIKRING.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -541,8 +496,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/BRANDSIKRING_ABA_Brandsikring_aba_BRANDSIKRING_ABA_BRANDSIKRING_ABA.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -552,8 +506,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/GSMR_GSMR_GSMR_GSMR.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -563,8 +516,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/refs/heads/main/kml/STATIONER_Stationer_STATIONER_STATIONER.kml</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
@@ -574,8 +526,7 @@
         <open>0</open>
     <Link>
      <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/Bygninger.kmz</href>
-      <refreshMode>onInterval</refreshMode>
-      <refreshInterval>300</refreshInterval>
+      <refreshMode>onChange</refreshMode>
     </Link>
    </NetworkLink>
 
