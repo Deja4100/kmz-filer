@@ -573,7 +573,7 @@
     <visibility>0</visibility>
         <open>0</open>
     <Link>
-     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/kmz/Bygninger.kmz</href>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/kml/Bygninger.kmz</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
     </Link>
