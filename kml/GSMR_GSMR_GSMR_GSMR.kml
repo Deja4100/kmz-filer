@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>GSMR - GSMR</name>
+
+<Style id="s">
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>https://raw.githubusercontent.com/Deja4100/Ikoner/main/GSMR.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Item 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>001</td></tr><tr><td><b>Placering</b></td><td>Taastrup</td></tr><tr><td><b>Lokation</b></td><td>Høje-Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.014.A</td></tr><tr><td><b>Adresse</b></td><td>Ahornvej 1</td></tr><tr><td><b>Postnr.</b></td><td>2630</td></tr><tr><td><b>GPS Nord</b></td><td>55.651569000</td></tr><tr><td><b>GPS Øst</b></td><td>12.298088000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>17.681</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.298088000,55.651569000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>002</td></tr><tr><td><b>Placering</b></td><td>Fløng</td></tr><tr><td><b>Lokation</b></td><td>Hedehusene</td></tr><tr><td><b>Forkortelse</b></td><td>Hh</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.F</td></tr><tr><td><b>Adresse</b></td><td>Hedesvinget 4</td></tr><tr><td><b>Postnr.</b></td><td>2640</td></tr><tr><td><b>GPS Nord</b></td><td>55.648182000</td></tr><tr><td><b>GPS Øst</b></td><td>12.199179000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>24.036</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.199179000,55.648182000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>003</td></tr><tr><td><b>Placering</b></td><td>Roskilde Vest</td></tr><tr><td><b>Lokation</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G3</td></tr><tr><td><b>Adresse</b></td><td>Jernbanegade 1</td></tr><tr><td><b>Postnr.</b></td><td>4000</td></tr><tr><td><b>GPS Nord</b></td><td>55.636828000</td></tr><tr><td><b>GPS Øst</b></td><td>12.083678000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>31.15</td></tr><tr><td><b>Mast højde</b></td><td></td></tr><tr><td><b>Antenne højde</b></td><td>32.2</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.083678000,55.636828000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>004</td></tr><tr><td><b>Placering</b></td><td>Viby Sjælland</td></tr><tr><td><b>Lokation</b></td><td>Viby Sj.</td></tr><tr><td><b>Forkortelse</b></td><td>Vy</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.044.C</td></tr><tr><td><b>Adresse</b></td><td>Møllevej 16</td></tr><tr><td><b>Postnr.</b></td><td>4130</td></tr><tr><td><b>GPS Nord</b></td><td>55.535400000</td></tr><tr><td><b>GPS Øst</b></td><td>12.002095000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>44.803</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.002095000,55.535400000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>006</td></tr><tr><td><b>Placering</b></td><td>Sorø Vest</td></tr><tr><td><b>Lokation</b></td><td>Sorø</td></tr><tr><td><b>Forkortelse</b></td><td>So</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.080.G</td></tr><tr><td><b>Adresse</b></td><td>Sidevej til Grøftevej</td></tr><tr><td><b>Postnr.</b></td><td>4180</td></tr><tr><td><b>GPS Nord</b></td><td>55.406332000</td></tr><tr><td><b>GPS Øst</b></td><td>11.490064000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>83.679</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.490064000,55.406332000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>009</td></tr><tr><td><b>Placering</b></td><td>Tølløse</td></tr><tr><td><b>Lokation</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.055.F</td></tr><tr><td><b>Adresse</b></td><td>Højvangsvej 14</td></tr><tr><td><b>Postnr.</b></td><td>4340</td></tr><tr><td><b>GPS Nord</b></td><td>55.621191000</td></tr><tr><td><b>GPS Øst</b></td><td>11.762324000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>55.857</td></tr><tr><td><b>Mast højde</b></td><td></td></tr><tr><td><b>Antenne højde</b></td><td>32.1</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.762324000,55.621191000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>010</td></tr><tr><td><b>Placering</b></td><td>Hvalsø Station</td></tr><tr><td><b>Lokation</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.049.C</td></tr><tr><td><b>Adresse</b></td><td>Tølløsevej</td></tr><tr><td><b>Postnr.</b></td><td>4330</td></tr><tr><td><b>GPS Nord</b></td><td>55.595276000</td></tr><tr><td><b>GPS Øst</b></td><td>11.861347000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>48.219</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>23.8</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.861347000,55.595276000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>011</td></tr><tr><td><b>Placering</b></td><td>Lejre Station</td></tr><tr><td><b>Lokation</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.041.C</td></tr><tr><td><b>Adresse</b></td><td>Ved tunnel, Lejre st.</td></tr><tr><td><b>Postnr.</b></td><td>4320</td></tr><tr><td><b>GPS Nord</b></td><td>55.604449000</td></tr><tr><td><b>GPS Øst</b></td><td>11.970412000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>40.828</td></tr><tr><td><b>Mast højde</b></td><td>(45)/36</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.970412000,55.604449000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 9</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>012</td></tr><tr><td><b>Placering</b></td><td>Kirke Syv</td></tr><tr><td><b>Lokation</b></td><td>Viby Sj.</td></tr><tr><td><b>Forkortelse</b></td><td>Vy</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.034.D</td></tr><tr><td><b>Adresse</b></td><td>Syvvejen</td></tr><tr><td><b>Postnr.</b></td><td>4130</td></tr><tr><td><b>GPS Nord</b></td><td>55.573303000</td></tr><tr><td><b>GPS Øst</b></td><td>12.035174000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>39.689</td></tr><tr><td><b>Mast højde</b></td><td>(45)/36</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.035174000,55.573303000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 10</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>013</td></tr><tr><td><b>Placering</b></td><td>Lille Skensved</td></tr><tr><td><b>Lokation</b></td><td>Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Lw</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.047.B</td></tr><tr><td><b>Adresse</b></td><td>Ved Banen</td></tr><tr><td><b>Postnr.</b></td><td>4623</td></tr><tr><td><b>GPS Nord</b></td><td>55.511190000</td></tr><tr><td><b>GPS Øst</b></td><td>12.140593000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>46.800</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.140593000,55.511190000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 11</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>014</td></tr><tr><td><b>Placering</b></td><td>Køge Station (Relæhus)</td></tr><tr><td><b>Lokation</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A8</td></tr><tr><td><b>Adresse</b></td><td>Værftsvej</td></tr><tr><td><b>Postnr.</b></td><td>4600</td></tr><tr><td><b>GPS Nord</b></td><td>55.459773000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187617000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>53.406</td></tr><tr><td><b>Mast højde</b></td><td>(15)/33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187617000,55.459773000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 12</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>015</td></tr><tr><td><b>Placering</b></td><td>Borup Station</td></tr><tr><td><b>Lokation</b></td><td>Borup</td></tr><tr><td><b>Forkortelse</b></td><td>Bo</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.049.B</td></tr><tr><td><b>Adresse</b></td><td>Borupvej</td></tr><tr><td><b>Postnr.</b></td><td>4140</td></tr><tr><td><b>GPS Nord</b></td><td>55.491606000</td></tr><tr><td><b>GPS Øst</b></td><td>11.971681000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>50.065</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.971681000,55.491606000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 13</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>016</td></tr><tr><td><b>Placering</b></td><td>Adamshøj (Kværkeby)</td></tr><tr><td><b>Lokation</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.058.A</td></tr><tr><td><b>Adresse</b></td><td>Adamshøjvej</td></tr><tr><td><b>Postnr.</b></td><td>4100</td></tr><tr><td><b>GPS Nord</b></td><td>55.443989000</td></tr><tr><td><b>GPS Øst</b></td><td>11.850760000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>59.778</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.850760000,55.443989000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 14</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>017</td></tr><tr><td><b>Placering</b></td><td>Ringsted Station</td></tr><tr><td><b>Lokation</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B6</td></tr><tr><td><b>Adresse</b></td><td>Jernbanevej 1</td></tr><tr><td><b>Postnr.</b></td><td>4100</td></tr><tr><td><b>GPS Nord</b></td><td>55.437581000</td></tr><tr><td><b>GPS Øst</b></td><td>11.788959000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>63.761</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>42</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.788959000,55.437581000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 15</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>018</td></tr><tr><td><b>Placering</b></td><td>Sorø Station</td></tr><tr><td><b>Lokation</b></td><td>Sorø</td></tr><tr><td><b>Forkortelse</b></td><td>So</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.079.C</td></tr><tr><td><b>Adresse</b></td><td>Stationspladsen</td></tr><tr><td><b>Postnr.</b></td><td>4180</td></tr><tr><td><b>GPS Nord</b></td><td>55.419798000</td></tr><tr><td><b>GPS Øst</b></td><td>11.572757000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>78.101</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>43</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.572757000,55.419798000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 16</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>019</td></tr><tr><td><b>Placering</b></td><td>Slagelse</td></tr><tr><td><b>Lokation</b></td><td>Slagelse</td></tr><tr><td><b>Forkortelse</b></td><td>Sg</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.080.E</td></tr><tr><td><b>Adresse</b></td><td>Fægangen 7</td></tr><tr><td><b>Postnr.</b></td><td>4200</td></tr><tr><td><b>GPS Nord</b></td><td>55.414155000</td></tr><tr><td><b>GPS Øst</b></td><td>11.384427000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>90.417</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.384427000,55.414155000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 17</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>021</td></tr><tr><td><b>Placering</b></td><td>Glumsø Station</td></tr><tr><td><b>Lokation</b></td><td>Glumsø</td></tr><tr><td><b>Forkortelse</b></td><td>Gz</td></tr><tr><td><b>Forsyningstavle</b></td><td>022.011.A</td></tr><tr><td><b>Adresse</b></td><td>Stationsvej</td></tr><tr><td><b>Postnr.</b></td><td>4171</td></tr><tr><td><b>GPS Nord</b></td><td>55.353168000</td></tr><tr><td><b>GPS Øst</b></td><td>11.695718000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>75.684</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>37.5</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.695718000,55.353168000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 18</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>024</td></tr><tr><td><b>Placering</b></td><td>Høje Taastrup ved container terminal</td></tr><tr><td><b>Lokation</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.H1</td></tr><tr><td><b>Adresse</b></td><td>Letland Allé 3</td></tr><tr><td><b>Postnr.</b></td><td>2630</td></tr><tr><td><b>GPS Nord</b></td><td>55.636174000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250991000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>20.707</td></tr><tr><td><b>Mast højde</b></td><td>20</td></tr><tr><td><b>Antenne højde</b></td><td>20.6</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.250991000,55.636174000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 19</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>026</td></tr><tr><td><b>Placering</b></td><td>Næstved Syd</td></tr><tr><td><b>Lokation</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.N</td></tr><tr><td><b>Adresse</b></td><td>Præstøvej</td></tr><tr><td><b>Postnr.</b></td><td>4700</td></tr><tr><td><b>GPS Nord</b></td><td>55.217396000</td></tr><tr><td><b>GPS Øst</b></td><td>11.790116000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>92.875</td></tr><tr><td><b>Mast højde</b></td><td>(45)/45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.790116000,55.217396000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 20</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>027</td></tr><tr><td><b>Placering</b></td><td>Vordingborg Station</td></tr><tr><td><b>Lokation</b></td><td>Vordingborg</td></tr><tr><td><b>Forkortelse</b></td><td>Vo</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.121.B2</td></tr><tr><td><b>Adresse</b></td><td>Banegårdspladsen 4</td></tr><tr><td><b>Postnr.</b></td><td>4760</td></tr><tr><td><b>GPS Nord</b></td><td>55.008339000</td></tr><tr><td><b>GPS Øst</b></td><td>11.898045000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>118.569</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>37.5</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.898045000,55.008339000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 21</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>028</td></tr><tr><td><b>Placering</b></td><td>Nykøbing Falster Nord</td></tr><tr><td><b>Lokation</b></td><td>Nykøbing F.</td></tr><tr><td><b>Forkortelse</b></td><td>Nf</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.018.A</td></tr><tr><td><b>Adresse</b></td><td>Åhaven</td></tr><tr><td><b>Postnr.</b></td><td>4800</td></tr><tr><td><b>GPS Nord</b></td><td>54.784235000</td></tr><tr><td><b>GPS Øst</b></td><td>11.885487000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>144.820</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>35+40</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885487000,54.784235000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 22</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>029</td></tr><tr><td><b>Placering</b></td><td>Lolland Midt</td></tr><tr><td><b>Lokation</b></td><td>Øster Ulslev</td></tr><tr><td><b>Forkortelse</b></td><td>Øu</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.019.B</td></tr><tr><td><b>Adresse</b></td><td>Karlebyvej</td></tr><tr><td><b>Postnr.</b></td><td>4894</td></tr><tr><td><b>GPS Nord</b></td><td>54.710506000</td></tr><tr><td><b>GPS Øst</b></td><td>11.618267000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>164.859</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>37.5</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.618267000,54.710506000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 23</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>031</td></tr><tr><td><b>Placering</b></td><td>Gelsted Sjælland</td></tr><tr><td><b>Lokation</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Forsyningstavle</b></td><td>022.014.F</td></tr><tr><td><b>Adresse</b></td><td>Sidevej til Trælløsevej</td></tr><tr><td><b>Postnr.</b></td><td>4160</td></tr><tr><td><b>GPS Nord</b></td><td>55.315018000</td></tr><tr><td><b>GPS Øst</b></td><td>11.745018000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>81.130</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.745018000,55.315018000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 24</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>032</td></tr><tr><td><b>Placering</b></td><td>Mogenstrup</td></tr><tr><td><b>Lokation</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.096.F</td></tr><tr><td><b>Adresse</b></td><td>Svinget</td></tr><tr><td><b>Postnr.</b></td><td>4700</td></tr><tr><td><b>GPS Nord</b></td><td>55.161937000</td></tr><tr><td><b>GPS Øst</b></td><td>11.854115000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>100.560</td></tr><tr><td><b>Mast højde</b></td><td>42</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.854115000,55.161937000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 25</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>033</td></tr><tr><td><b>Placering</b></td><td>Tureby Station</td></tr><tr><td><b>Lokation</b></td><td>Tureby</td></tr><tr><td><b>Forkortelse</b></td><td>Th</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.065.B</td></tr><tr><td><b>Adresse</b></td><td>Turebyvej</td></tr><tr><td><b>Postnr.</b></td><td>4682</td></tr><tr><td><b>GPS Nord</b></td><td>55.374784000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078903000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>65.324</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.078903000,55.374784000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 26</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>034</td></tr><tr><td><b>Placering</b></td><td>Haslev Station</td></tr><tr><td><b>Lokation</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.D</td></tr><tr><td><b>Adresse</b></td><td>Slagterivej</td></tr><tr><td><b>Postnr.</b></td><td>4690</td></tr><tr><td><b>GPS Nord</b></td><td>55.330178000</td></tr><tr><td><b>GPS Øst</b></td><td>11.962360000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>74.241</td></tr><tr><td><b>Mast højde</b></td><td>(45)/45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.962360000,55.330178000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 27</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>035</td></tr><tr><td><b>Placering</b></td><td>Holme Olstrup Station STR mast</td></tr><tr><td><b>Lokation</b></td><td>Holme Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.B</td></tr><tr><td><b>Adresse</b></td><td>Petersmindevej</td></tr><tr><td><b>Postnr.</b></td><td>4684</td></tr><tr><td><b>GPS Nord</b></td><td>55.261734000</td></tr><tr><td><b>GPS Øst</b></td><td>11.851752000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>85.058</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.851752000,55.261734000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 28</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>036</td></tr><tr><td><b>Placering</b></td><td>Klarskov</td></tr><tr><td><b>Lokation</b></td><td>Klarskov</td></tr><tr><td><b>Forkortelse</b></td><td>Kl</td></tr><tr><td><b>Forsyningstavle</b></td><td>024.110.E</td></tr><tr><td><b>Adresse</b></td><td>Trekanten</td></tr><tr><td><b>Postnr.</b></td><td>4760</td></tr><tr><td><b>GPS Nord</b></td><td>55.068915000</td></tr><tr><td><b>GPS Øst</b></td><td>11.872891000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>111.277</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.872891000,55.068915000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 29</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>037</td></tr><tr><td><b>Placering</b></td><td>Nørre Alslev</td></tr><tr><td><b>Lokation</b></td><td>Nørre Alslev</td></tr><tr><td><b>Forkortelse</b></td><td>Nv</td></tr><tr><td><b>Forsyningstavle</b></td><td>026.007.B</td></tr><tr><td><b>Adresse</b></td><td>Nørre Alslev Stationsvej</td></tr><tr><td><b>Postnr.</b></td><td>4840</td></tr><tr><td><b>GPS Nord</b></td><td>54.894516000</td></tr><tr><td><b>GPS Øst</b></td><td>11.885387000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>132.503</td></tr><tr><td><b>Mast højde</b></td><td>42</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.885387000,54.894516000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 30</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>038</td></tr><tr><td><b>Placering</b></td><td>Vipperød Station</td></tr><tr><td><b>Lokation</b></td><td>Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Pe</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.061.A4</td></tr><tr><td><b>Adresse</b></td><td>Stationsvej</td></tr><tr><td><b>Postnr.</b></td><td>4390</td></tr><tr><td><b>GPS Nord</b></td><td>55.665990000</td></tr><tr><td><b>GPS Øst</b></td><td>11.739031000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>61.046</td></tr><tr><td><b>Mast højde</b></td><td>(45)/45</td></tr><tr><td><b>Antenne højde</b></td><td>24</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.739031000,55.665990000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 31</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>039</td></tr><tr><td><b>Placering</b></td><td>Herlufholm</td></tr><tr><td><b>Lokation</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Forsyningstavle</b></td><td>022.014.G</td></tr><tr><td><b>Adresse</b></td><td>Herlufholm Allé</td></tr><tr><td><b>Postnr.</b></td><td>4700</td></tr><tr><td><b>GPS Nord</b></td><td>55.245268000</td></tr><tr><td><b>GPS Øst</b></td><td>11.759589000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>89.059</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.759589000,55.245268000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 32</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>040</td></tr><tr><td><b>Placering</b></td><td>Allerup</td></tr><tr><td><b>Lokation</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.068.B</td></tr><tr><td><b>Adresse</b></td><td>Blommevej</td></tr><tr><td><b>Postnr.</b></td><td>4300</td></tr><tr><td><b>GPS Nord</b></td><td>55.709364000</td></tr><tr><td><b>GPS Øst</b></td><td>11.659982000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>70.304</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>35</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/ikke drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.659982000,55.709364000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 33</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>041</td></tr><tr><td><b>Placering</b></td><td>Mørkøv Station</td></tr><tr><td><b>Lokation</b></td><td>Mørkøv</td></tr><tr><td><b>Forkortelse</b></td><td>Mø</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.083.A8</td></tr><tr><td><b>Adresse</b></td><td>Jernbanevej</td></tr><tr><td><b>Postnr.</b></td><td>4440</td></tr><tr><td><b>GPS Nord</b></td><td>55.654480000</td></tr><tr><td><b>GPS Øst</b></td><td>11.502722000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>82.867</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.502722000,55.654480000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 34</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>042</td></tr><tr><td><b>Placering</b></td><td>Astrup</td></tr><tr><td><b>Lokation</b></td><td>Jyderup</td></tr><tr><td><b>Forkortelse</b></td><td>Jy</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.092.B</td></tr><tr><td><b>Adresse</b></td><td>Astrupvej 13</td></tr><tr><td><b>Postnr.</b></td><td>4450</td></tr><tr><td><b>GPS Nord</b></td><td>55.650750000</td></tr><tr><td><b>GPS Øst</b></td><td>11.352597000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>93.077</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.352597000,55.650750000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 35</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>043</td></tr><tr><td><b>Placering</b></td><td>Værslev (Birkendegård)</td></tr><tr><td><b>Lokation</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.B</td></tr><tr><td><b>Adresse</b></td><td>Aldersrovej</td></tr><tr><td><b>Postnr.</b></td><td>4400</td></tr><tr><td><b>GPS Nord</b></td><td>55.669101000</td></tr><tr><td><b>GPS Øst</b></td><td>11.214968000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>102.435</td></tr><tr><td><b>Mast højde</b></td><td>(45)/45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåv. + fredskov/ikke drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.214968000,55.669101000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 36</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>044</td></tr><tr><td><b>Placering</b></td><td>Kalundborg Vogndepot</td></tr><tr><td><b>Lokation</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.F</td></tr><tr><td><b>Adresse</b></td><td>Stationsvej</td></tr><tr><td><b>Postnr.</b></td><td>4400</td></tr><tr><td><b>GPS Nord</b></td><td>55.677134000</td></tr><tr><td><b>GPS Øst</b></td><td>11.103382000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>109.688</td></tr><tr><td><b>Mast højde</b></td><td>(22,5)33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.103382000,55.677134000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 37</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>045</td></tr><tr><td><b>Placering</b></td><td>Holbæk</td></tr><tr><td><b>Lokation</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.067.F</td></tr><tr><td><b>Adresse</b></td><td>Ved Holbæk Station parkering (Dampmøllevej)</td></tr><tr><td><b>Postnr.</b></td><td>4300</td></tr><tr><td><b>GPS Nord</b></td><td>55.713997000</td></tr><tr><td><b>GPS Øst</b></td><td>11.711619000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>66.734</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.711619000,55.713997000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 38</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>051</td></tr><tr><td><b>Placering</b></td><td>Forlev Stationsby</td></tr><tr><td><b>Lokation</b></td><td>Forlev</td></tr><tr><td><b>Forkortelse</b></td><td>Fo</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.101.D</td></tr><tr><td><b>Adresse</b></td><td>Gl. Stationsplads, Forlev</td></tr><tr><td><b>Postnr.</b></td><td>4241</td></tr><tr><td><b>GPS Nord</b></td><td>55.376731000</td></tr><tr><td><b>GPS Øst</b></td><td>11.262250000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>2</td></tr><tr><td><b>Kilometrering</b></td><td>99.650</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.262250000,55.376731000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 39</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>052</td></tr><tr><td><b>Placering</b></td><td>Rødby Øst</td></tr><tr><td><b>Lokation</b></td><td>Rødby</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.028.B</td></tr><tr><td><b>Adresse</b></td><td>Grusvej ved Darketvej</td></tr><tr><td><b>Postnr.</b></td><td>4970</td></tr><tr><td><b>GPS Nord</b></td><td>54.678602000</td></tr><tr><td><b>GPS Øst</b></td><td>11.423508000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>178.072</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.423508000,54.678602000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 40</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>053</td></tr><tr><td><b>Placering</b></td><td>Korsør Station</td></tr><tr><td><b>Lokation</b></td><td>Korsør</td></tr><tr><td><b>Forkortelse</b></td><td>Kø</td></tr><tr><td><b>Forsyningstavle</b></td><td>-</td></tr><tr><td><b>Adresse</b></td><td>Storebæltsvej</td></tr><tr><td><b>Postnr.</b></td><td>4220</td></tr><tr><td><b>GPS Nord</b></td><td>55.356830000</td></tr><tr><td><b>GPS Øst</b></td><td>11.134935000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>108.290</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>37</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.134935000,55.356830000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 41</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>055</td></tr><tr><td><b>Placering</b></td><td>Rødby Havn</td></tr><tr><td><b>Lokation</b></td><td>Rødby</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Forsyningstavle</b></td><td>029.000.E</td></tr><tr><td><b>Adresse</b></td><td>Færgestationsvej 3</td></tr><tr><td><b>Postnr.</b></td><td>4970</td></tr><tr><td><b>GPS Nord</b></td><td>54.659470000</td></tr><tr><td><b>GPS Øst</b></td><td>11.362056000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>182.561</td></tr><tr><td><b>Mast højde</b></td><td>42</td></tr><tr><td><b>Antenne højde</b></td><td>32</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.362056000,54.659470000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 42</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>233</td></tr><tr><td><b>Placering</b></td><td>Sundby</td></tr><tr><td><b>Lokation</b></td><td>Sundby</td></tr><tr><td><b>Forkortelse</b></td><td>Sy</td></tr><tr><td><b>Forsyningstavle</b></td><td>028.069.B1</td></tr><tr><td><b>Adresse</b></td><td>Ved Teglskoven</td></tr><tr><td><b>Postnr.</b></td><td>4990</td></tr><tr><td><b>GPS Nord</b></td><td>54.739863000</td></tr><tr><td><b>GPS Øst</b></td><td>11.751781000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>155.732</td></tr><tr><td><b>Mast højde</b></td><td>42</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/ikke drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.751781000,54.739863000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 43</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>272</td></tr><tr><td><b>Placering</b></td><td>Haslev Nord</td></tr><tr><td><b>Lokation</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.068.A</td></tr><tr><td><b>Adresse</b></td><td>Grusvej ved Tollerødvej</td></tr><tr><td><b>Postnr.</b></td><td>4690</td></tr><tr><td><b>GPS Nord</b></td><td>55.358198000</td></tr><tr><td><b>GPS Øst</b></td><td>12.040463000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>68.389</td></tr><tr><td><b>Mast højde</b></td><td>33</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåv. + fredskov/drift</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.040463000,55.358198000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 44</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>273</td></tr><tr><td><b>Placering</b></td><td>Haslev Syd</td></tr><tr><td><b>Lokation</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.C</td></tr><tr><td><b>Adresse</b></td><td>Grusvej for enden af Toftevej</td></tr><tr><td><b>Postnr.</b></td><td>4690</td></tr><tr><td><b>GPS Nord</b></td><td>55.307917000</td></tr><tr><td><b>GPS Øst</b></td><td>11.919009000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>77.981</td></tr><tr><td><b>Mast højde</b></td><td>36</td></tr><tr><td><b>Antenne højde</b></td><td>35</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.919009000,55.307917000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 45</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>271</td></tr><tr><td><b>Placering</b></td><td>Herfølge</td></tr><tr><td><b>Lokation</b></td><td>Herfølge</td></tr><tr><td><b>Forkortelse</b></td><td>Hf</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.059.B</td></tr><tr><td><b>Adresse</b></td><td>Ølandsvej 1</td></tr><tr><td><b>Postnr.</b></td><td>4681</td></tr><tr><td><b>GPS Nord</b></td><td> 55.426760000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.144144000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>58.256</td></tr><tr><td><b>Mast højde</b></td><td>30</td></tr><tr><td><b>Antenne højde</b></td><td>26.7</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.144144000, 55.426760000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 46</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>270</td></tr><tr><td><b>Placering</b></td><td>Havdrup</td></tr><tr><td><b>Lokation</b></td><td>Havdrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hd</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.042.A</td></tr><tr><td><b>Adresse</b></td><td>Ulvevej 21</td></tr><tr><td><b>Postnr.</b></td><td>4622</td></tr><tr><td><b>GPS Nord</b></td><td>55.542915000</td></tr><tr><td><b>GPS Øst</b></td><td>12.117465000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>42.964</td></tr><tr><td><b>Mast højde</b></td><td>21</td></tr><tr><td><b>Antenne højde</b></td><td>20</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.117465000,55.542915000,0</coordinates>
+  </Point>
+</Placemark>
+</Document></kml>
