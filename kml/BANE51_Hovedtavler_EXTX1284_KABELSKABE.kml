@@ -671,6 +671,21 @@
 </Placemark>
 
 <Placemark>
+  <name>200135-209</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Kabelskab</b></td><td>200135-209</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved GSMR</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.667738</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.218129,55.667738,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>200498-205</name>
   <styleUrl>#s</styleUrl>
   <description>
