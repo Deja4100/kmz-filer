@@ -530,5 +530,70 @@
     </Link>
    </NetworkLink>
 
+<Folder>
+<name>BDK lag</name>
+  
+<NetworkLink>
+    <name>Adgangsveje</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/Adgangsveje.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+  <NetworkLink>
+    <name>Matrikler</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/BDK-matrikler.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+  <NetworkLink>
+    <name>BTR knuder</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/BTR-knuder.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+    <NetworkLink>
+    <name>Kilometrering</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/Kilometrering.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+    <NetworkLink>
+    <name>Sporforløb</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/Sporforløb.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+    <NetworkLink>
+    <name>Sporskifter</name>
+    <visibility>0</visibility>
+        <open>0</open>
+    <Link>
+     <href>https://raw.githubusercontent.com/Deja4100/kmz-filer/main/Sporskifter.kmz</href>
+      <refreshMode>onChange</refreshMode>
+    </Link>
+   </NetworkLink>
+
+</Folder>
+
 </Document>
 </kml>
