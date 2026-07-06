@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lw 006</td></tr><tr><td><b>Equipment</b></td><td>10468190</td></tr><tr><td><b>Tavlenummer</b></td><td>042.047.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.047.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.508601000</td></tr><tr><td><b>GPS Øst</b></td><td>12.144783000</td></tr><tr><td><b>Kilometrering</b></td><td>47.189</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Lille Skensved</td></tr><tr><td><b>Forkortelse</b></td><td>Lw</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lw 006</td></tr><tr><td><b>Equipment</b></td><td>10468190</td></tr><tr><td><b>Tavlenummer</b></td><td>042.047.A1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.047.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.508601000</td></tr><tr><td><b>GPS Øst</b></td><td>12.144783000</td></tr><tr><td><b>Kilometrering</b></td><td>47.189</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>PCM Rack og Bypass eneste vital</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -136,12 +136,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I værkstedsbygning</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 016</td></tr><tr><td><b>Equipment</b></td><td>10466043</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458980000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187581000</td></tr><tr><td><b>Kilometrering</b></td><td>53.336</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I værkstedsbygning</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 016</td></tr><tr><td><b>Equipment</b></td><td>10466043</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.458980000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187581000</td></tr><tr><td><b>Kilometrering</b></td><td>53.336</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.187581000, 55.458980000,0</coordinates>
+    <coordinates>12.187581000,55.458980000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -166,12 +166,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I fyrrum, værkstedsbygning</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 016</td></tr><tr><td><b>Equipment</b></td><td>10702697</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458969000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187483000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td>Kræver planlægning ved gennemgang med veterantog</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>I fyrrum, værkstedsbygning</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 016</td></tr><tr><td><b>Equipment</b></td><td>10702697</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A5.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A5</td></tr><tr><td><b>Forsikring (A)</b></td><td>32</td></tr><tr><td><b>GPS Nord</b></td><td>55.458969000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187483000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td>Kræver planlægning ved gennemgang med veterantog</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.187483000, 55.458969000,0</coordinates>
+    <coordinates>12.187483000,55.458969000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -346,12 +346,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Nødstrømshus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 013</td></tr><tr><td><b>Equipment</b></td><td>10694255</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td> 55.460138000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187741000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Nødstrømshus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 013</td></tr><tr><td><b>Equipment</b></td><td>10694255</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>250</td></tr><tr><td><b>GPS Nord</b></td><td>55.460138000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187741000</td></tr><tr><td><b>Kilometrering</b></td><td>53.495</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Generator</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.187741000, 55.460138000,0</coordinates>
+    <coordinates>12.187741000,55.460138000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -421,12 +421,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Teknikhytte v. spor 0</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 604</td></tr><tr><td><b>Equipment</b></td><td>10901673</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A11</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.458733000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.187387000</td></tr><tr><td><b>Kilometrering</b></td><td>53.515</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Teknikhytte v. spor 0</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 604</td></tr><tr><td><b>Equipment</b></td><td>10901673</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A11</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.458733000</td></tr><tr><td><b>GPS Øst</b></td><td>12.187387000</td></tr><tr><td><b>Kilometrering</b></td><td>53.515</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.187387000, 55.458733000,0</coordinates>
+    <coordinates>12.187387000,55.458733000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -436,12 +436,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 053948</td></tr><tr><td><b>Equipment</b></td><td>10905264</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td> 55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 053948</td></tr><tr><td><b>Equipment</b></td><td>10905264</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td>12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.185795000, 55.454959000,0</coordinates>
+    <coordinates>12.185795000,55.454959000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -451,12 +451,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 053948</td></tr><tr><td><b>Equipment</b></td><td>10905326</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E1</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpeovervågning</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Kj 053948</td></tr><tr><td><b>Equipment</b></td><td>10905326</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.E1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.E1</td></tr><tr><td><b>Forsikring (A)</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td>55.454959000</td></tr><tr><td><b>GPS Øst</b></td><td>12.185795000</td></tr><tr><td><b>Kilometrering</b></td><td>53.950</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpeovervågning</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.185795000, 55.454959000,0</coordinates>
+    <coordinates>12.185795000,55.454959000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -541,12 +541,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Stationsbygning kælder </td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz 001</td></tr><tr><td><b>Equipment</b></td><td>10774120</td></tr><tr><td><b>Tavlenummer</b></td><td>042.075.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td> 55.329375000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.960986000</td></tr><tr><td><b>Kilometrering</b></td><td>74.367</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td>BY</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev</td></tr><tr><td><b>Forkortelse</b></td><td>Hz</td></tr><tr><td><b>Uddybende placering</b></td><td>Stationsbygning kælder </td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz 001</td></tr><tr><td><b>Equipment</b></td><td>10774120</td></tr><tr><td><b>Tavlenummer</b></td><td>042.075.H1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.075.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.329375000</td></tr><tr><td><b>GPS Øst</b></td><td>11.960986000</td></tr><tr><td><b>Kilometrering</b></td><td>74.367</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs </td></tr><tr><td><b>Tavlefunktion</b></td><td>BY</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.960986000, 55.329375000,0</coordinates>
+    <coordinates>11.960986000,55.329375000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -571,12 +571,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev - Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hz-Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Bråby Stationsby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz-Ol 079780</td></tr><tr><td><b>Equipment</b></td><td>10903369</td></tr><tr><td><b>Tavlenummer</b></td><td>042.076.E2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td> 55.292948000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.907264000</td></tr><tr><td><b>Kilometrering</b></td><td>79.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Ventilation</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Haslev - Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Hz-Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Bråby Stationsby</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hz-Ol 079780</td></tr><tr><td><b>Equipment</b></td><td>10903369</td></tr><tr><td><b>Tavlenummer</b></td><td>042.076.E2</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.076.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>GPS Nord</b></td><td>55.292948000</td></tr><tr><td><b>GPS Øst</b></td><td>11.907264000</td></tr><tr><td><b>Kilometrering</b></td><td>79.800</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Ventilation</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.907264000, 55.292948000,0</coordinates>
+    <coordinates>11.907264000,55.292948000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -601,12 +601,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ol 003</td></tr><tr><td><b>Equipment</b></td><td>10122640</td></tr><tr><td><b>Tavlenummer</b></td><td>042.085.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.260374000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.847042000</td></tr><tr><td><b>Kilometrering</b></td><td>85.482</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Holme-Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ol 003</td></tr><tr><td><b>Equipment</b></td><td>10122640</td></tr><tr><td><b>Tavlenummer</b></td><td>042.085.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.A1</td></tr><tr><td><b>Forsikring (A)</b></td><td>16</td></tr><tr><td><b>GPS Nord</b></td><td>55.260374000</td></tr><tr><td><b>GPS Øst</b></td><td>11.847042000</td></tr><tr><td><b>Kilometrering</b></td><td>85.482</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.847042000, 55.260374000,0</coordinates>
+    <coordinates>11.847042000,55.260374000,0</coordinates>
   </Point>
 </Placemark>
 
