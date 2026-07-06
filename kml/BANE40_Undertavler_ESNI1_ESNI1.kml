@@ -151,12 +151,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporstopper</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A10</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.457198000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.186689000</td></tr><tr><td><b>Kilometrering</b></td><td>53.695</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Køge</td></tr><tr><td><b>Forkortelse</b></td><td>Kj</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporstopper</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>042.053.A10</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.457198000</td></tr><tr><td><b>GPS Øst</b></td><td>12.186689000</td></tr><tr><td><b>Kilometrering</b></td><td>53.695</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.186689000, 55.457198000,0</coordinates>
+    <coordinates>12.186689000,55.457198000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -196,12 +196,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Herfølge</td></tr><tr><td><b>Forkortelse</b></td><td>Hf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>042.059.E3</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.059.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td> 55.415499000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.134661000</td></tr><tr><td><b>Kilometrering</b></td><td>58.945</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Navn</b></td><td>Herfølge</td></tr><tr><td><b>Forkortelse</b></td><td>Hf</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>042.059.E3</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.059.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.415499000</td></tr><tr><td><b>GPS Øst</b></td><td>12.134661000</td></tr><tr><td><b>Kilometrering</b></td><td>58.945</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.134661000, 55.415499000,0</coordinates>
+    <coordinates>12.134661000,55.415499000,0</coordinates>
   </Point>
 </Placemark>
 
