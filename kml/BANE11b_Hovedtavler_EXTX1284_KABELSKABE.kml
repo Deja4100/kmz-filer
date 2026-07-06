@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>5901</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x240/120 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vejkryds</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.649252</td></tr>
+<tr><td><b>Tavlefunktion</b></td><td>UPS</td></tr><tr><td><b>Kabelskab</b></td><td>5901</td></tr><tr><td><b>Ledningsdimension</b></td><td>3x240/120 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vejkryds</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.649252</td></tr>
 </table>
 ]]>
 </description>
