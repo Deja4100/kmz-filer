@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10521564</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.646103000</td></tr><tr><td><b>GPS Øst</b></td><td>12.247398000</td></tr><tr><td><b>Kilometrering</b></td><td>20.946</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Sikringsanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10521564</td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.I1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.646103000</td></tr><tr><td><b>GPS Øst</b></td><td>12.247398000</td></tr><tr><td><b>Kilometrering</b></td><td>20.946</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Sikringsanlæg</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.I2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.I1</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.646103000</td></tr><tr><td><b>GPS Øst</b></td><td>12.247398000</td></tr><tr><td><b>Kilometrering</b></td><td>20.946</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Uddybende placering</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.019.I2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.I</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.646103000</td></tr><tr><td><b>GPS Øst</b></td><td>12.247398000</td></tr><tr><td><b>Kilometrering</b></td><td>20.946</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -211,7 +211,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 021</td></tr><tr><td><b>Equipment</b></td><td>10124064</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647800000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127594000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS, køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 021</td></tr><tr><td><b>Equipment</b></td><td>10124064</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647800000</td></tr><tr><td><b>GPS Øst</b></td><td>12.127594000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>UPS, køleanlæg</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
 </table>
 ]]>
 </description>
@@ -226,7 +226,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Equipment</b></td><td>10922353</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647814000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127730000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Equipment</b></td><td>10922353</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647814000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127730000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -241,7 +241,22 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 026900</td></tr><tr><td><b>Equipment</b></td><td>10124060</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.648834000</td></tr><tr><td><b>GPS Øst</b></td><td>12.154217000</td></tr><tr><td><b>Kilometrering</b></td><td>26.912</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 026900</td></tr><tr><td><b>Equipment</b></td><td>10124060</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.648834000</td></tr><tr><td><b>GPS Øst</b></td><td>12.154217000</td></tr><tr><td><b>Kilometrering</b></td><td>26.912</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys , FST</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.154217000,55.648834000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>012.022.B2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 026900</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.B2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.648834000</td></tr><tr><td><b>GPS Øst</b></td><td>12.154217000</td></tr><tr><td><b>Kilometrering</b></td><td>26.912</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -256,7 +271,22 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 025500</td></tr><tr><td><b>Equipment</b></td><td>10124057</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.650234000</td></tr><tr><td><b>GPS Øst</b></td><td>12.177182000</td></tr><tr><td><b>Kilometrering</b></td><td>25.454</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 025500</td></tr><tr><td><b>Equipment</b></td><td>10124057</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.C1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.650234000</td></tr><tr><td><b>GPS Øst</b></td><td>12.177182000</td></tr><tr><td><b>Kilometrering</b></td><td>25.454</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys, FST blæser</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.177182000,55.650234000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>012.022.C2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 025500</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.C2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.650234000</td></tr><tr><td><b>GPS Øst</b></td><td>12.177182000</td></tr><tr><td><b>Kilometrering</b></td><td>25.454</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -271,7 +301,22 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus, Poppellunden</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 022300</td></tr><tr><td><b>Equipment</b></td><td>10124048</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.644653000</td></tr><tr><td><b>GPS Øst</b></td><td>12.226533000</td></tr><tr><td><b>Kilometrering</b></td><td>22.264</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus, Poppellunden</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 022300</td></tr><tr><td><b>Equipment</b></td><td>10124048</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.E1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.644653000</td></tr><tr><td><b>GPS Øst</b></td><td>12.226533000</td></tr><tr><td><b>Kilometrering</b></td><td>22.264</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys , FST</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.226533000,55.644653000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>012.022.E2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus, Poppellunden</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 022300</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.E2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.644653000</td></tr><tr><td><b>GPS Øst</b></td><td>12.226533000</td></tr><tr><td><b>Kilometrering</b></td><td>22.264</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -301,7 +346,22 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 023700</td></tr><tr><td><b>Equipment</b></td><td>10124054</td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647564000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204611000</td></tr><tr><td><b>Kilometrering</b></td><td>23.689</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 023700</td></tr><tr><td><b>Equipment</b></td><td>10124054</td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.B1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td>55.647564000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204611000</td></tr><tr><td><b>Kilometrering</b></td><td>23.689</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Lys , FST</td></tr><tr><td><b>Noter</b></td><td>30/60</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.204611000,55.647564000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>012.025.B2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 023700</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Tavlenummer</b></td><td>012.025.B2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.025.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.647564000</td></tr><tr><td><b>GPS Øst</b></td><td>12.204611000</td></tr><tr><td><b>Kilometrering</b></td><td>23.689</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1501,7 +1561,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På Kran, 8m højde</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667926</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På kran, 8m højde</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667926</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1516,7 +1576,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På Kran, 8m højde</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667951</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F5</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>På kran, 8m højde</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667951</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.F5.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F5</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td>55.634660000</td></tr><tr><td><b>GPS Øst</b></td><td>12.079558000</td></tr><tr><td><b>Kilometrering</b></td><td>32.031</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1906,7 +1966,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I terræn, CEE-stik stander</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667754</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.P1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.P</td></tr><tr><td><b>Forsikring (A)</b></td><td>40</td></tr><tr><td><b>GPS Nord</b></td><td>55.634166000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078563000</td></tr><tr><td><b>Kilometrering</b></td><td>32.1</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>I terræn, CEE-stik stander</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10667754</td></tr><tr><td><b>Tavlenummer</b></td><td>013.000.P1</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.P</td></tr><tr><td><b>Forsikring (A)</b></td><td>40</td></tr><tr><td><b>GPS Nord</b></td><td>55.634166000</td></tr><tr><td><b>GPS Øst</b></td><td>12.078563000</td></tr><tr><td><b>Kilometrering</b></td><td>32.1</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>CEE-stik</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
