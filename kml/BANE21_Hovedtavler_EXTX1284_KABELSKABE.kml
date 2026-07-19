@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100672-101</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Tyvelsevej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.39174</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -31,7 +31,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100420-206</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Englerupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.411308</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>107264-102</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved siden af tavlen</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.285244</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>106200-309</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved sti</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.314979</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -76,7 +76,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100410-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Vinkelvej 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.245279</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -91,7 +91,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Forsyner linjeblok 89.4</td></tr><tr><td><b>Kabelskab</b></td><td>104796-203</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved hegn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.242356</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100750-313</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x70 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved fodgængerfelt</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.353482</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -121,7 +121,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Kabelskab</b></td><td>107493-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.338299</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150084</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Forsynes fra DSB Næ 001B</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.231051</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150175</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150016-3408</td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Uffesvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.228106</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -196,7 +196,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -211,7 +211,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>150169</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.227547</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -226,7 +226,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -241,7 +241,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -256,7 +256,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150818</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved vandtårn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.230564</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -271,7 +271,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150046-1760</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved ståltrappe</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.217646</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -286,7 +286,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150051-4506</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.226566</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -301,7 +301,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>150170</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.234637</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -316,7 +316,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100175-208</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før hytte</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.18629</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -331,7 +331,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>104647-203</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x6 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.205364</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -346,7 +346,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Kabelskab</b></td><td>100176-4023</td></tr><tr><td><b>Ledningsdimension</b></td><td>4X16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før indkørsel</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.162247000</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -361,7 +361,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>104058-107</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved TOB hytte</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 55.185150000</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -376,7 +376,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>133738</td></tr><tr><td><b>Ledningsdimension</b></td><td>2X4X185 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.194434</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -391,7 +391,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>104920-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.118008</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -406,7 +406,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100639-112</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved cykelparkering</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.1101</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -421,7 +421,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Elevatorforsyning</td></tr><tr><td><b>Kabelskab</b></td><td>100639-112</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved cykelparkering</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.1101</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -436,7 +436,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>100639-211</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved sti</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.110038</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -451,7 +451,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV, TOB</td></tr><tr><td><b>Kabelskab</b></td><td>100639-211</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, før p-plads</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.109554</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -466,7 +466,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Kabelskab</b></td><td>104723-308</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved sti før GSMR</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.068958</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -481,7 +481,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>104723-308</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved sti før GSMR</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.068958</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -496,7 +496,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Forsyner TOB, SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>122052</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Marienbergvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.008756</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -511,7 +511,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>109129-201</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.02605</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -526,7 +526,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>132025-901</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.000913</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -541,7 +541,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>104132-101</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.994903</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -556,7 +556,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Stationsinventar</td></tr><tr><td><b>Kabelskab</b></td><td>132014-605</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Biograf Caféen</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.011743</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -571,7 +571,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Kabelskab</b></td><td>104930-108</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved pumpetavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.985066</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -586,7 +586,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>109128</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer i bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938972</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -601,7 +601,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>102750-109</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938955</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -616,7 +616,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>102750-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.940356</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -631,7 +631,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>130945</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.930817</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -646,7 +646,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Kabelskab</b></td><td>102750-109</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, I vejkant</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.938955</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -661,7 +661,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>102408</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Ravnsevej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.89784</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -676,7 +676,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Kabelskab</b></td><td>102486-107</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Nørre Alslev Boldklub</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.892981</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -691,7 +691,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>102988-302</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, hjørnet ved Østergade 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.856117</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -706,7 +706,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>102891-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.842213</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -721,7 +721,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV</td></tr><tr><td><b>Kabelskab</b></td><td>102984-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.866484</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -736,7 +736,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Kabelskab</b></td><td>102988-202</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Nørregade 19</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.858608</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -751,7 +751,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Kabelskab</b></td><td>130031-104</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Stubberupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.82161</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -766,7 +766,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Kabelskab</b></td><td>130252-102</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved indkørsel</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.784321</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -781,7 +781,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Stationsinventar</td></tr><tr><td><b>Kabelskab</b></td><td>108547</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x185 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -796,7 +796,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Pumper</td></tr><tr><td><b>Kabelskab</b></td><td>108536-506</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved Søvej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.766284</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -811,7 +811,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>130104</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770368</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -826,7 +826,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>108547</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer, Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -841,7 +841,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>130098</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770284</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -856,7 +856,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Pumper</td></tr><tr><td><b>Kabelskab</b></td><td>130098</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.770284</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -871,7 +871,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>Pumper</td></tr><tr><td><b>Kabelskab</b></td><td>108645</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.7634</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -886,7 +886,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>130119-301</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.779095000</td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
