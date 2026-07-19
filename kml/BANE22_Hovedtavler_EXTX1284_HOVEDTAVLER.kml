@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf-Nfv 147938</td></tr><tr><td><b>Equipment</b></td><td>10683799</td></tr><tr><td><b>Tavlenummer</b></td><td>028.002.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>572145</td></tr><tr><td><b>Aftagernummer</b></td><td>74002256768</td></tr><tr><td><b>GPS Nord</b></td><td> 54.757569000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.861540000</td></tr><tr><td><b>Kilometrering</b></td><td>148.367</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -31,7 +31,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv 148700</td></tr><tr><td><b>Equipment</b></td><td>10140754</td></tr><tr><td><b>Tavlenummer</b></td><td>028.003.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>509748</td></tr><tr><td><b>Aftagernummer</b></td><td>85220125200</td></tr><tr><td><b>GPS Nord</b></td><td>54.756416000</td></tr><tr><td><b>GPS Øst</b></td><td>11.857270000</td></tr><tr><td><b>Kilometrering</b></td><td>148.67</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster - Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nf - Nfv</td></tr><tr><td><b>Uddybende placering</b></td><td>I brohus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 044</td></tr><tr><td><b>Equipment</b></td><td>10536475</td></tr><tr><td><b>Tavlenummer</b></td><td>028.004.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>225</td></tr><tr><td><b>Målernummer</b></td><td>652745</td></tr><tr><td><b>Aftagernummer</b></td><td>85220076922</td></tr><tr><td><b>GPS Nord</b></td><td>54.759090000</td></tr><tr><td><b>GPS Øst</b></td><td>11.866243000</td></tr><tr><td><b>Kilometrering</b></td><td>147.98</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Darketvej</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 178100</td></tr><tr><td><b>Equipment</b></td><td>10705847</td></tr><tr><td><b>Tavlenummer</b></td><td>028.004.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>546388</td></tr><tr><td><b>Aftagernummer</b></td><td>74002014825</td></tr><tr><td><b>GPS Nord</b></td><td>54.678558000</td></tr><tr><td><b>GPS Øst</b></td><td>11.423470000</td></tr><tr><td><b>Kilometrering</b></td><td>178.09</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -76,7 +76,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Flaarupvej</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 169670</td></tr><tr><td><b>Equipment</b></td><td>10666000</td></tr><tr><td><b>Tavlenummer</b></td><td>028.004.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>547558</td></tr><tr><td><b>Aftagernummer</b></td><td>74002015624</td></tr><tr><td><b>GPS Nord</b></td><td>54.696411000</td></tr><tr><td><b>GPS Øst</b></td><td>11.549473000</td></tr><tr><td><b>Kilometrering</b></td><td>169.64</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -91,7 +91,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Sakskøbing</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nfv-Rfø 155700</td></tr><tr><td><b>Equipment</b></td><td>10694628</td></tr><tr><td><b>Tavlenummer</b></td><td>028.004.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>546635</td></tr><tr><td><b>Aftagernummer</b></td><td>74002014788</td></tr><tr><td><b>GPS Nord</b></td><td> 54.739918000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.751993000</td></tr><tr><td><b>Kilometrering</b></td><td>148.4.3</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Pumpestation</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10773446</td></tr><tr><td><b>Tavlenummer</b></td><td>028.004.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>590645</td></tr><tr><td><b>Aftagernummer</b></td><td>74002798824</td></tr><tr><td><b>GPS Nord</b></td><td>54.736867000</td></tr><tr><td><b>GPS Øst</b></td><td>11.738029000</td></tr><tr><td><b>Kilometrering</b></td><td>156.700</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -121,7 +121,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-233</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10524768</td></tr><tr><td><b>Tavlenummer</b></td><td>028.009.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>538758</td></tr><tr><td><b>Aftagernummer</b></td><td>81100742147</td></tr><tr><td><b>GPS Nord</b></td><td>54.739918000</td></tr><tr><td><b>GPS Øst</b></td><td>11.751838000</td></tr><tr><td><b>Kilometrering</b></td><td>155.70</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>Radiohytte, GSMR-029</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10140767</td></tr><tr><td><b>Tavlenummer</b></td><td>028.019.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>244442</td></tr><tr><td><b>Aftagernummer</b></td><td>81101332132</td></tr><tr><td><b>GPS Nord</b></td><td>54.710434000</td></tr><tr><td><b>GPS Øst</b></td><td>11.618340000</td></tr><tr><td><b>Kilometrering</b></td><td>164.96</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Nykøbing Falster Vest - Rødby Øst</td></tr><tr><td><b>Forkortelse</b></td><td>Nfv - Rfø</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-052</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10228475</td></tr><tr><td><b>Tavlenummer</b></td><td>028.028.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>Målernummer</b></td><td>504829</td></tr><tr><td><b>Aftagernummer</b></td><td>74000552930</td></tr><tr><td><b>GPS Nord</b></td><td>54.678539000</td></tr><tr><td><b>GPS Øst</b></td><td>11.423437000</td></tr><tr><td><b>Kilometrering</b></td><td>178.1</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Uddybende placering</b></td><td>I bygning</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rf 005</td></tr><tr><td><b>Equipment</b></td><td>10518556</td></tr><tr><td><b>Tavlenummer</b></td><td>029.000.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>400</td></tr><tr><td><b>Målernummer</b></td><td>660539</td></tr><tr><td><b>Aftagernummer</b></td><td>85902540239</td></tr><tr><td><b>GPS Nord</b></td><td>54.654366000</td></tr><tr><td><b>GPS Øst</b></td><td>11.352540000</td></tr><tr><td><b>Kilometrering</b></td><td>183.38</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-055</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10238952</td></tr><tr><td><b>Tavlenummer</b></td><td>029.000.E</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>Målernummer</b></td><td>510009</td></tr><tr><td><b>Aftagernummer</b></td><td>74000604103</td></tr><tr><td><b>GPS Nord</b></td><td>54.659504000</td></tr><tr><td><b>GPS Øst</b></td><td>11.362021000</td></tr><tr><td><b>Kilometrering</b></td><td>182.6</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSM-R</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>#VALUE!</b></td><td></td></tr>
 </table>
 ]]>
 </description>
