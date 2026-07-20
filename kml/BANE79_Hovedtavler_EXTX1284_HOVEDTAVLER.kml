@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Roskilde - Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Ro-Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for sporet</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10142400</td></tr><tr><td><b>Tavlenummer</b></td><td>052.034.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>21501348</td></tr><tr><td><b>Aftagernummer</b></td><td>74111195439</td></tr><tr><td><b>GPS Nord</b></td><td>55.603592000</td></tr><tr><td><b>GPS Øst</b></td><td>12.040195000</td></tr><tr><td><b>Kilometrering</b></td><td>36.363</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>AM hytter</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -31,7 +31,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Roskilde - Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Ro-Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Pumpestyretavle, Darup Mosevej</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10601997</td></tr><tr><td><b>Tavlenummer</b></td><td>052.034.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>22292867</td></tr><tr><td><b>Aftagernummer</b></td><td>79102213376</td></tr><tr><td><b>GPS Nord</b></td><td> 55.606028000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.046379000</td></tr><tr><td><b>Kilometrering</b></td><td>35.949</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Roskilde - Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Ro-Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Pumpestyretavle, Gammelgårdsvej</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10712329</td></tr><tr><td><b>Tavlenummer</b></td><td>052.034.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>22300844</td></tr><tr><td><b>Aftagernummer</b></td><td>79102213390</td></tr><tr><td><b>GPS Nord</b></td><td> 55.609317000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.049755000</td></tr><tr><td><b>Kilometrering</b></td><td>35.565</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>På perron</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10142445</td></tr><tr><td><b>Tavlenummer</b></td><td>052.041.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>160</td></tr><tr><td><b>Målernummer</b></td><td>21021632</td></tr><tr><td><b>Aftagernummer</b></td><td>74115983506</td></tr><tr><td><b>GPS Nord</b></td><td>55.604485000</td></tr><tr><td><b>GPS Øst</b></td><td>11.970690000</td></tr><tr><td><b>Kilometrering</b></td><td>40.810</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -76,7 +76,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-011</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10232092</td></tr><tr><td><b>Tavlenummer</b></td><td>052.041.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>Målernummer</b></td><td>21024669</td></tr><tr><td><b>Aftagernummer</b></td><td>74115826162</td></tr><tr><td><b>GPS Nord</b></td><td>55.604435000</td></tr><tr><td><b>GPS Øst</b></td><td>11.970297000</td></tr><tr><td><b>Kilometrering</b></td><td>40.839</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -91,7 +91,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre</td></tr><tr><td><b>Forkortelse</b></td><td>Lj</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB</td></tr><tr><td><b>Bygningsnummer</b></td><td>Lj 603</td></tr><tr><td><b>Equipment</b></td><td>10773459</td></tr><tr><td><b>Tavlenummer</b></td><td>052.041.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>22104343</td></tr><tr><td><b>Aftagernummer</b></td><td>79103480401</td></tr><tr><td><b>GPS Nord</b></td><td> 55.605038000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.973978000</td></tr><tr><td><b>Kilometrering</b></td><td>40.598</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Lejre - Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Lj-Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved broundergang</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10879996</td></tr><tr><td><b>Tavlenummer</b></td><td>052.042.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>22349300</td></tr><tr><td><b>Aftagernummer</b></td><td>79104751869</td></tr><tr><td><b>GPS Nord</b></td><td>55.589191000</td></tr><tr><td><b>GPS Øst</b></td><td>11.899172000</td></tr><tr><td><b>Kilometrering</b></td><td>45.000</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -121,7 +121,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved radiohytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv 015</td></tr><tr><td><b>Equipment</b></td><td>10142451</td></tr><tr><td><b>Tavlenummer</b></td><td>052.049.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>Målernummer</b></td><td>21021603</td></tr><tr><td><b>Aftagernummer</b></td><td>74115978991</td></tr><tr><td><b>GPS Nord</b></td><td> 55.595292000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.860859000</td></tr><tr><td><b>Kilometrering</b></td><td>48.254</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-010</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10228466</td></tr><tr><td><b>Tavlenummer</b></td><td>052.049.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>21025153</td></tr><tr><td><b>Aftagernummer</b></td><td>74115787326</td></tr><tr><td><b>GPS Nord</b></td><td>55.595299000</td></tr><tr><td><b>GPS Øst</b></td><td>11.861319000</td></tr><tr><td><b>Kilometrering</b></td><td>48.221</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø</td></tr><tr><td><b>Forkortelse</b></td><td>Hv</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv 601</td></tr><tr><td><b>Equipment</b></td><td>10773458</td></tr><tr><td><b>Tavlenummer</b></td><td>052.049.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>22361382</td></tr><tr><td><b>Aftagernummer</b></td><td>79103541904</td></tr><tr><td><b>GPS Nord</b></td><td> 55.595252000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.861501000</td></tr><tr><td><b>Kilometrering</b></td><td>48.211</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Hvalsø - Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Hv-Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Internet i tog, Soderup Vest</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hv-Tø 051945</td></tr><tr><td><b>Equipment</b></td><td>10678022</td></tr><tr><td><b>Tavlenummer</b></td><td>052.050.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>562318</td></tr><tr><td><b>Aftagernummer</b></td><td>74002141200</td></tr><tr><td><b>GPS Nord</b></td><td>55.598742000</td></tr><tr><td><b>GPS Øst</b></td><td>11.807211000</td></tr><tr><td><b>Kilometrering</b></td><td>51.942</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Bag relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Tø 002</td></tr><tr><td><b>Equipment</b></td><td>10206633</td></tr><tr><td><b>Tavlenummer</b></td><td>052.055.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>300</td></tr><tr><td><b>Målernummer</b></td><td>657092</td></tr><tr><td><b>Aftagernummer</b></td><td>74000800246</td></tr><tr><td><b>GPS Nord</b></td><td>55.612591000</td></tr><tr><td><b>GPS Øst</b></td><td>11.772415000</td></tr><tr><td><b>Kilometrering</b></td><td>54.673</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -196,7 +196,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-009</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10905397</td></tr><tr><td><b>Tavlenummer</b></td><td>052.055.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>Målernummer</b></td><td>511497</td></tr><tr><td><b>Aftagernummer</b></td><td>74000595814</td></tr><tr><td><b>GPS Nord</b></td><td>55.621273000</td></tr><tr><td><b>GPS Øst</b></td><td>11.762758000</td></tr><tr><td><b>Kilometrering</b></td><td>55.861</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -211,7 +211,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Over tunnelen, pumpetavle</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10699739</td></tr><tr><td><b>Tavlenummer</b></td><td>052.055.G</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>521890</td></tr><tr><td><b>Aftagernummer</b></td><td>74000815899</td></tr><tr><td><b>GPS Nord</b></td><td>55.613251000</td></tr><tr><td><b>GPS Øst</b></td><td>11.771053000</td></tr><tr><td><b>Kilometrering</b></td><td>54.786</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -226,7 +226,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse</td></tr><tr><td><b>Forkortelse</b></td><td>Tø</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB</td></tr><tr><td><b>Bygningsnummer</b></td><td>Tø 601</td></tr><tr><td><b>Equipment</b></td><td>10773457</td></tr><tr><td><b>Tavlenummer</b></td><td>052.055.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td>595080</td></tr><tr><td><b>Aftagernummer</b></td><td>74002486110</td></tr><tr><td><b>GPS Nord</b></td><td> 55.612603000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.772393000</td></tr><tr><td><b>Kilometrering</b></td><td>54.676</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -241,7 +241,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Tølløse - Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Tø-Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for sporet</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10227272</td></tr><tr><td><b>Tavlenummer</b></td><td>052.056.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>515541</td></tr><tr><td><b>Aftagernummer</b></td><td>74200578334</td></tr><tr><td><b>GPS Nord</b></td><td>55.637054000</td></tr><tr><td><b>GPS Øst</b></td><td>11.752373000</td></tr><tr><td><b>Kilometrering</b></td><td>57.726</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -256,7 +256,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Pe 012</td></tr><tr><td><b>Equipment</b></td><td>10206635</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>Målernummer</b></td><td>658321</td></tr><tr><td><b>Aftagernummer</b></td><td>74000799892</td></tr><tr><td><b>GPS Nord</b></td><td> 55.666593000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.738883000</td></tr><tr><td><b>Kilometrering</b></td><td>61.120</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -271,7 +271,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Vipperød</td></tr><tr><td><b>Forkortelse</b></td><td>Pe</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved tunnel, pumpestyretavle</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10520805</td></tr><tr><td><b>Tavlenummer</b></td><td>052.061.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>522194</td></tr><tr><td><b>Aftagernummer</b></td><td>74000815912</td></tr><tr><td><b>GPS Nord</b></td><td>55.668144000</td></tr><tr><td><b>GPS Øst</b></td><td>11.737883000</td></tr><tr><td><b>Kilometrering</b></td><td>61.307</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pumpe</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -286,7 +286,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Vipperød - Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Pe-Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Ud for sporet</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10143223</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.D</td></tr><tr><td><b>Forsikring (A)</b></td><td>63</td></tr><tr><td><b>Målernummer</b></td><td>515584</td></tr><tr><td><b>Aftagernummer</b></td><td>74200720177</td></tr><tr><td><b>GPS Nord</b></td><td>55.690002000</td></tr><tr><td><b>GPS Øst</b></td><td>11.723965000</td></tr><tr><td><b>Kilometrering</b></td><td>63.934</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>AM hytter</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -301,7 +301,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>I kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hk 001</td></tr><tr><td><b>Equipment</b></td><td>10143233</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>200</td></tr><tr><td><b>Målernummer</b></td><td>656778</td></tr><tr><td><b>Aftagernummer</b></td><td>74201215979</td></tr><tr><td><b>GPS Nord</b></td><td>55.715515000</td></tr><tr><td><b>GPS Øst</b></td><td>11.708850000</td></tr><tr><td><b>Kilometrering</b></td><td>66.968</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -316,7 +316,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>I vejkant, sportskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10143230</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>300</td></tr><tr><td><b>Målernummer</b></td><td>1040864</td></tr><tr><td><b>Aftagernummer</b></td><td>74200673657</td></tr><tr><td><b>GPS Nord</b></td><td>55.716446000</td></tr><tr><td><b>GPS Øst</b></td><td>11.705000000</td></tr><tr><td><b>Kilometrering</b></td><td>67.224</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -331,7 +331,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Ved parkeringsplads</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10143226</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.C</td></tr><tr><td><b>Forsikring (A)</b></td><td>100</td></tr><tr><td><b>Målernummer</b></td><td>1038479</td></tr><tr><td><b>Aftagernummer</b></td><td>74200843012</td></tr><tr><td><b>GPS Nord</b></td><td>55.713238000</td></tr><tr><td><b>GPS Øst</b></td><td>11.712958000</td></tr><tr><td><b>Kilometrering</b></td><td>66.616</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Noter</b></td><td>Transformer (kræver nøgle)</td></tr>
 </table>
 ]]>
 </description>
@@ -346,7 +346,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-045</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10227262</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.F</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>506795</td></tr><tr><td><b>Aftagernummer</b></td><td>74000549947</td></tr><tr><td><b>GPS Nord</b></td><td>55.713982000</td></tr><tr><td><b>GPS Øst</b></td><td>11.711632000</td></tr><tr><td><b>Kilometrering</b></td><td>66.726</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -361,7 +361,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>#VALUE!</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Holbæk</td></tr><tr><td><b>Forkortelse</b></td><td>Hk</td></tr><tr><td><b>Uddybende placering</b></td><td>Forsyning til STOB</td></tr><tr><td><b>Bygningsnummer</b></td><td>Hk 601</td></tr><tr><td><b>Equipment</b></td><td>10773456</td></tr><tr><td><b>Tavlenummer</b></td><td>052.067.H</td></tr><tr><td><b>Forsikring (A)</b></td><td>50</td></tr><tr><td><b>Målernummer</b></td><td></td></tr><tr><td><b>Aftagernummer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.713299000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.712692000</td></tr><tr><td><b>Kilometrering</b></td><td>66.630</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Måler</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
