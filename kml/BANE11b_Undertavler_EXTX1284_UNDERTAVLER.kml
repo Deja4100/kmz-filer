@@ -221,12 +221,12 @@
 </Placemark>
 
 <Placemark>
-  <name>012.022.A3</name>
+  <name>012.022.A1.1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Equipment</b></td><td>10922353</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647814000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127730000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Uddybende placering</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Equipment</b></td><td>10922353</td></tr><tr><td><b>Tavlenummer</b></td><td>012.022.A1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.022.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>10</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647814000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127730000</td></tr><tr><td><b>Kilometrering</b></td><td>28.587</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Indendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Køleanlæg</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
