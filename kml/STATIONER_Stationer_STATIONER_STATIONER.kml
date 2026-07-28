@@ -161,12 +161,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Holme-Olstrup</name>
+  <name>Holme Olstrup</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Holme-Olstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.260999</td></tr><tr><td><b>GPS Øst</b></td><td>11.848819</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.085.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155373</td></tr><tr><td><b>Telefonnummer</b></td><td>21191490</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>Station</b></td><td>Holme Olstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.260999</td></tr><tr><td><b>GPS Øst</b></td><td>11.848819</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.085.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155373</td></tr><tr><td><b>Telefonnummer</b></td><td>21191490</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
 </table>
 ]]>
 </description>
