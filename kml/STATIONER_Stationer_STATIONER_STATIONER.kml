@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Borup</td></tr><tr><td><b>GPS Nord</b></td><td>55.494652</td></tr><tr><td><b>GPS Øst</b></td><td>11.972477</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>014.049.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155456</td></tr><tr><td><b>Telefonnummer</b></td><td>51700056</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Borup</td></tr><tr><td><b>GPS Nord</b></td><td>55.494652</td></tr><tr><td><b>GPS Øst</b></td><td>11.972477</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>014.049.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155456</td></tr><tr><td><b>Telefonnummer</b></td><td>51700056</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>75</td></tr>
 </table>
 ]]>
 </description>
@@ -31,7 +31,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Eskilstrup</td></tr><tr><td><b>GPS Nord</b></td><td>54.856039</td></tr><tr><td><b>GPS Øst</b></td><td>11.885623</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>026.011.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155217</td></tr><tr><td><b>Telefonnummer</b></td><td>21160515</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Eskilstrup</td></tr><tr><td><b>GPS Nord</b></td><td>54.856039</td></tr><tr><td><b>GPS Øst</b></td><td>11.885623</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>026.011.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155217</td></tr><tr><td><b>Telefonnummer</b></td><td>21160515</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>69</td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Gadstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.572758</td></tr><tr><td><b>GPS Øst</b></td><td>12.099497</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.039.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155274</td></tr><tr><td><b>Telefonnummer</b></td><td>20556649</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Gadstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.572758</td></tr><tr><td><b>GPS Øst</b></td><td>12.099497</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.039.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155274</td></tr><tr><td><b>Telefonnummer</b></td><td>20556649</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>96</td></tr>
 </table>
 ]]>
 </description>
@@ -61,7 +61,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Glumsø</td></tr><tr><td><b>GPS Nord</b></td><td>55.353519</td></tr><tr><td><b>GPS Øst</b></td><td>11.695399</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>022.011.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155159</td></tr><tr><td><b>Telefonnummer</b></td><td>29273189</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Glumsø</td></tr><tr><td><b>GPS Nord</b></td><td>55.353519</td></tr><tr><td><b>GPS Øst</b></td><td>11.695399</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>022.011.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155159</td></tr><tr><td><b>Telefonnummer</b></td><td>29273189</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>81</td></tr>
 </table>
 ]]>
 </description>
@@ -76,7 +76,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Haslev</td></tr><tr><td><b>GPS Nord</b></td><td>55.329403</td></tr><tr><td><b>GPS Øst</b></td><td>11.960969</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.075.H1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155365</td></tr><tr><td><b>Telefonnummer</b></td><td>20573635</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Haslev</td></tr><tr><td><b>GPS Nord</b></td><td>55.329403</td></tr><tr><td><b>GPS Øst</b></td><td>11.960969</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.075.H1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155365</td></tr><tr><td><b>Telefonnummer</b></td><td>20573635</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>78</td></tr>
 </table>
 ]]>
 </description>
@@ -91,7 +91,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Havdrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.543453</td></tr><tr><td><b>GPS Øst</b></td><td>12.117066</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.043.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155282</td></tr><tr><td><b>Telefonnummer</b></td><td>51198068</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Havdrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.543453</td></tr><tr><td><b>GPS Øst</b></td><td>12.117066</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.043.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155282</td></tr><tr><td><b>Telefonnummer</b></td><td>51198068</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>75</td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Hedehusene</td></tr><tr><td><b>GPS Nord</b></td><td>55.648919</td></tr><tr><td><b>GPS Øst</b></td><td>12.197344</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.025.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155050</td></tr><tr><td><b>Telefonnummer</b></td><td>51352244</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Hedehusene</td></tr><tr><td><b>GPS Nord</b></td><td>55.648919</td></tr><tr><td><b>GPS Øst</b></td><td>12.197344</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.025.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155050</td></tr><tr><td><b>Telefonnummer</b></td><td>51352244</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>90</td></tr>
 </table>
 ]]>
 </description>
@@ -121,7 +121,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Herfølge</td></tr><tr><td><b>GPS Nord</b></td><td>55.417699</td></tr><tr><td><b>GPS Øst</b></td><td>12.137217</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.059.E</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155340</td></tr><tr><td><b>Telefonnummer</b></td><td>23691674</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Herfølge</td></tr><tr><td><b>GPS Nord</b></td><td>55.417699</td></tr><tr><td><b>GPS Øst</b></td><td>12.137217</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.059.E</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155340</td></tr><tr><td><b>Telefonnummer</b></td><td>23691674</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>51</td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.648872</td></tr><tr><td><b>GPS Øst</b></td><td>12.269553</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.019.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155043</td></tr><tr><td><b>Telefonnummer</b></td><td>24983430</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Høje Taastrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.648872</td></tr><tr><td><b>GPS Øst</b></td><td>12.269553</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.019.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155043</td></tr><tr><td><b>Telefonnummer</b></td><td>24983430</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Holbæk</td></tr><tr><td><b>GPS Nord</b></td><td>55.715673</td></tr><tr><td><b>GPS Øst</b></td><td>11.708418</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.067.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155472</td></tr><tr><td><b>Telefonnummer</b></td><td>29670280</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Holbæk</td></tr><tr><td><b>GPS Nord</b></td><td>55.715673</td></tr><tr><td><b>GPS Øst</b></td><td>11.708418</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.067.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155472</td></tr><tr><td><b>Telefonnummer</b></td><td>29670280</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Holme Olstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.260999</td></tr><tr><td><b>GPS Øst</b></td><td>11.848819</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.085.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155373</td></tr><tr><td><b>Telefonnummer</b></td><td>21191490</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Holme Olstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.260999</td></tr><tr><td><b>GPS Øst</b></td><td>11.848819</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.085.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155373</td></tr><tr><td><b>Telefonnummer</b></td><td>21191490</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>60</td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Hvalsø</td></tr><tr><td><b>GPS Nord</b></td><td>55.595434</td></tr><tr><td><b>GPS Øst</b></td><td>11.859836</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.049.A1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155332</td></tr><tr><td><b>Telefonnummer</b></td><td>20459924</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Hvalsø</td></tr><tr><td><b>GPS Nord</b></td><td>55.595434</td></tr><tr><td><b>GPS Øst</b></td><td>11.859836</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.049.A1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155332</td></tr><tr><td><b>Telefonnummer</b></td><td>20459924</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -196,7 +196,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Jyderup</td></tr><tr><td><b>GPS Nord</b></td><td>55.660193</td></tr><tr><td><b>GPS Øst</b></td><td>11.39805</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.089.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155423</td></tr><tr><td><b>Telefonnummer</b></td><td>20537773</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Jyderup</td></tr><tr><td><b>GPS Nord</b></td><td>55.660193</td></tr><tr><td><b>GPS Øst</b></td><td>11.39805</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.089.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155423</td></tr><tr><td><b>Telefonnummer</b></td><td>20537773</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -211,7 +211,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Kalundborg</td></tr><tr><td><b>GPS Nord</b></td><td>55.67782</td></tr><tr><td><b>GPS Øst</b></td><td>11.088941</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>053.000.A1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155449</td></tr><tr><td><b>Telefonnummer</b></td><td>20598425</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Kalundborg</td></tr><tr><td><b>GPS Nord</b></td><td>55.67782</td></tr><tr><td><b>GPS Øst</b></td><td>11.088941</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>053.000.A1</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155449</td></tr><tr><td><b>Telefonnummer</b></td><td>20598425</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -226,7 +226,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Kalundborg Øst</td></tr><tr><td><b>GPS Nord</b></td><td>55.676253</td></tr><tr><td><b>GPS Øst</b></td><td>11.123946</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.109.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155324</td></tr><tr><td><b>Telefonnummer</b></td><td>20462637</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Kalundborg Øst</td></tr><tr><td><b>GPS Nord</b></td><td>55.676253</td></tr><tr><td><b>GPS Øst</b></td><td>11.123946</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.109.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155324</td></tr><tr><td><b>Telefonnummer</b></td><td>20462637</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -241,7 +241,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Knabstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.664905</td></tr><tr><td><b>GPS Øst</b></td><td>11.553605</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>042.079.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155407</td></tr><tr><td><b>Telefonnummer</b></td><td>21156296</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Knabstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.664905</td></tr><tr><td><b>GPS Øst</b></td><td>11.553605</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>042.079.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155407</td></tr><tr><td><b>Telefonnummer</b></td><td>21156296</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>66</td></tr>
 </table>
 ]]>
 </description>
@@ -256,7 +256,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Køge</td></tr><tr><td><b>GPS Nord</b></td><td>55.457549</td></tr><tr><td><b>GPS Øst</b></td><td>12.186602</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.053.K</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155316</td></tr><tr><td><b>Telefonnummer</b></td><td>24927335</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Køge</td></tr><tr><td><b>GPS Nord</b></td><td>55.457549</td></tr><tr><td><b>GPS Øst</b></td><td>12.186602</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.053.K</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155316</td></tr><tr><td><b>Telefonnummer</b></td><td>24927335</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
@@ -271,7 +271,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Lejre</td></tr><tr><td><b>GPS Nord</b></td><td>55.604625</td></tr><tr><td><b>GPS Øst</b></td><td>11.971431</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.041.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155480</td></tr><tr><td><b>Telefonnummer</b></td><td>29256733</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Lejre</td></tr><tr><td><b>GPS Nord</b></td><td>55.604625</td></tr><tr><td><b>GPS Øst</b></td><td>11.971431</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.041.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155480</td></tr><tr><td><b>Telefonnummer</b></td><td>29256733</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -286,7 +286,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Lille Skensved</td></tr><tr><td><b>GPS Nord</b></td><td>55.511395</td></tr><tr><td><b>GPS Øst</b></td><td>12.140317</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.047.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155290</td></tr><tr><td><b>Telefonnummer</b></td><td>30629151</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Lille Skensved</td></tr><tr><td><b>GPS Nord</b></td><td>55.511395</td></tr><tr><td><b>GPS Øst</b></td><td>12.140317</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>042.047.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155290</td></tr><tr><td><b>Telefonnummer</b></td><td>30629151</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
@@ -301,7 +301,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Lundby</td></tr><tr><td><b>GPS Nord</b></td><td>55.110408</td></tr><tr><td><b>GPS Øst</b></td><td>11.869831</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>024.109.B</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155183</td></tr><tr><td><b>Telefonnummer</b></td><td>23288998</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Lundby</td></tr><tr><td><b>GPS Nord</b></td><td>55.110408</td></tr><tr><td><b>GPS Øst</b></td><td>11.869831</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>024.109.B</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155183</td></tr><tr><td><b>Telefonnummer</b></td><td>23288998</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>78</td></tr>
 </table>
 ]]>
 </description>
@@ -316,7 +316,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Mørkøv</td></tr><tr><td><b>GPS Nord</b></td><td>55.654423</td></tr><tr><td><b>GPS Øst</b></td><td>11.501883</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.083.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155415</td></tr><tr><td><b>Telefonnummer</b></td><td>21150749</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Mørkøv</td></tr><tr><td><b>GPS Nord</b></td><td>55.654423</td></tr><tr><td><b>GPS Øst</b></td><td>11.501883</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.083.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155415</td></tr><tr><td><b>Telefonnummer</b></td><td>21150749</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>57</td></tr>
 </table>
 ]]>
 </description>
@@ -331,7 +331,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved</td></tr><tr><td><b>GPS Nord</b></td><td>55.231196</td></tr><tr><td><b>GPS Øst</b></td><td>11.767067</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>023.000.A3</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155167</td></tr><tr><td><b>Telefonnummer</b></td><td>20429456</td></tr><tr><td><b>Ekstern antenne</b></td><td>ikke monteret endnu</td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Næstved</td></tr><tr><td><b>GPS Nord</b></td><td>55.231196</td></tr><tr><td><b>GPS Øst</b></td><td>11.767067</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>023.000.A3</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155167</td></tr><tr><td><b>Telefonnummer</b></td><td>20429456</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -346,7 +346,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Nord</td></tr><tr><td><b>GPS Nord</b></td><td>55.24831</td></tr><tr><td><b>GPS Øst</b></td><td>11.786471</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.086.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155381</td></tr><tr><td><b>Telefonnummer</b></td><td>21152831</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Næstved Nord</td></tr><tr><td><b>GPS Nord</b></td><td>55.24831</td></tr><tr><td><b>GPS Øst</b></td><td>11.786471</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.086.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155381</td></tr><tr><td><b>Telefonnummer</b></td><td>21152831</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>96</td></tr>
 </table>
 ]]>
 </description>
@@ -361,7 +361,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nørre Alslev</td></tr><tr><td><b>GPS Nord</b></td><td>54.896586</td></tr><tr><td><b>GPS Øst</b></td><td>11.885575</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>026.007.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155209</td></tr><tr><td><b>Telefonnummer</b></td><td>24632194</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Nørre Alslev</td></tr><tr><td><b>GPS Nord</b></td><td>54.896586</td></tr><tr><td><b>GPS Øst</b></td><td>11.885575</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>026.007.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155209</td></tr><tr><td><b>Telefonnummer</b></td><td>24632194</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>81</td></tr>
 </table>
 ]]>
 </description>
@@ -376,7 +376,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster</td></tr><tr><td><b>GPS Nord</b></td><td>54.767088</td></tr><tr><td><b>GPS Øst</b></td><td>11.877598</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>027.000.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155225</td></tr><tr><td><b>Telefonnummer</b></td><td>24499732</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Nykøbing Falster</td></tr><tr><td><b>GPS Nord</b></td><td>54.767088</td></tr><tr><td><b>GPS Øst</b></td><td>11.877598</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>027.000.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155225</td></tr><tr><td><b>Telefonnummer</b></td><td>24499732</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>66</td></tr>
 </table>
 ]]>
 </description>
@@ -391,7 +391,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ølby</td></tr><tr><td><b>GPS Nord</b></td><td>55.479598</td></tr><tr><td><b>GPS Øst</b></td><td>12.175194</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>854.363.B</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155308</td></tr><tr><td><b>Telefonnummer</b></td><td>51359062</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Ølby</td></tr><tr><td><b>GPS Nord</b></td><td>55.479598</td></tr><tr><td><b>GPS Øst</b></td><td>12.175194</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>854.363.B</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155308</td></tr><tr><td><b>Telefonnummer</b></td><td>51359062</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>75</td></tr>
 </table>
 ]]>
 </description>
@@ -406,7 +406,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Regstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.677478</td></tr><tr><td><b>GPS Øst</b></td><td>11.612771</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>052.075.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155399</td></tr><tr><td><b>Telefonnummer</b></td><td>40331707</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Regstrup</td></tr><tr><td><b>GPS Nord</b></td><td>55.677478</td></tr><tr><td><b>GPS Øst</b></td><td>11.612771</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>052.075.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155399</td></tr><tr><td><b>Telefonnummer</b></td><td>40331707</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>93</td></tr>
 </table>
 ]]>
 </description>
@@ -421,7 +421,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted</td></tr><tr><td><b>GPS Nord</b></td><td>55.438388</td></tr><tr><td><b>GPS Øst</b></td><td>11.786479</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>015.000.A2</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155118</td></tr><tr><td><b>Telefonnummer</b></td><td>61130831</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Ringsted</td></tr><tr><td><b>GPS Nord</b></td><td>55.438388</td></tr><tr><td><b>GPS Øst</b></td><td>11.786479</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>015.000.A2</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155118</td></tr><tr><td><b>Telefonnummer</b></td><td>61130831</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
@@ -436,7 +436,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Rødby Færge</td></tr><tr><td><b>GPS Nord</b></td><td>54.654691</td></tr><tr><td><b>GPS Øst</b></td><td>11.353657</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>029.000.A3</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155258</td></tr><tr><td><b>Telefonnummer</b></td><td>23726717</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Rødby Færge</td></tr><tr><td><b>GPS Nord</b></td><td>54.654691</td></tr><tr><td><b>GPS Øst</b></td><td>11.353657</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td></td></tr><tr><td><b>Tavle</b></td><td>029.000.A3</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155258</td></tr><tr><td><b>Telefonnummer</b></td><td>23726717</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -451,7 +451,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>GPS Nord</b></td><td>55.639188</td></tr><tr><td><b>GPS Øst</b></td><td>12.088968</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>013.000.A</td></tr><tr><td><b>Tænding</b></td><td>Astro ur Perronlys</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155076</td></tr><tr><td><b>Telefonnummer</b></td><td>20595219</td></tr><tr><td><b>Ekstern antenne</b></td><td>X</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>GPS Nord</b></td><td>55.639188</td></tr><tr><td><b>GPS Øst</b></td><td>12.088968</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>013.000.A</td></tr><tr><td><b>Tænding</b></td><td>Astro ur Perronlys</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155076</td></tr><tr><td><b>Telefonnummer</b></td><td>20595219</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>93</td></tr>
 </table>
 ]]>
 </description>
@@ -466,7 +466,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>GPS Nord</b></td><td>55.407243</td></tr><tr><td><b>GPS Øst</b></td><td>11.348669</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>016.093.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155142</td></tr><tr><td><b>Telefonnummer</b></td><td>29360671</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>GPS Nord</b></td><td>55.407243</td></tr><tr><td><b>GPS Øst</b></td><td>11.348669</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>016.093.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155142</td></tr><tr><td><b>Telefonnummer</b></td><td>29360671</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
@@ -481,7 +481,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Sorø</td></tr><tr><td><b>GPS Nord</b></td><td>55.419262</td></tr><tr><td><b>GPS Øst</b></td><td>11.569288</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>016.079.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155134</td></tr><tr><td><b>Telefonnummer</b></td><td>20573753</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Sorø</td></tr><tr><td><b>GPS Nord</b></td><td>55.419262</td></tr><tr><td><b>GPS Øst</b></td><td>11.569288</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>016.079.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155134</td></tr><tr><td><b>Telefonnummer</b></td><td>20573753</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>75</td></tr>
 </table>
 ]]>
 </description>
@@ -496,7 +496,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Svebølle</td></tr><tr><td><b>GPS Nord</b></td><td>55.652297</td></tr><tr><td><b>GPS Øst</b></td><td>11.2917</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.097.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155431</td></tr><tr><td><b>Telefonnummer</b></td><td>20574836</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Svebølle</td></tr><tr><td><b>GPS Nord</b></td><td>55.652297</td></tr><tr><td><b>GPS Øst</b></td><td>11.2917</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Ingen kørestrøm</td></tr><tr><td><b>Tavle</b></td><td>052.097.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155431</td></tr><tr><td><b>Telefonnummer</b></td><td>20574836</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -511,7 +511,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Tølløse</td></tr><tr><td><b>GPS Nord</b></td><td>55.611921</td></tr><tr><td><b>GPS Øst</b></td><td>11.772885</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.055.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155100</td></tr><tr><td><b>Telefonnummer</b></td><td>40356300</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Tølløse</td></tr><tr><td><b>GPS Nord</b></td><td>55.611921</td></tr><tr><td><b>GPS Øst</b></td><td>11.772885</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.055.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155100</td></tr><tr><td><b>Telefonnummer</b></td><td>40356300</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -526,7 +526,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Trekroner</td></tr><tr><td><b>GPS Nord</b></td><td>55.647934</td></tr><tr><td><b>GPS Øst</b></td><td>12.131768</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.029.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155068</td></tr><tr><td><b>Telefonnummer</b></td><td>29830604</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Trekroner</td></tr><tr><td><b>GPS Nord</b></td><td>55.647934</td></tr><tr><td><b>GPS Øst</b></td><td>12.131768</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>012.029.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155068</td></tr><tr><td><b>Telefonnummer</b></td><td>29830604</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>60</td></tr>
 </table>
 ]]>
 </description>
@@ -541,7 +541,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Tureby</td></tr><tr><td><b>GPS Nord</b></td><td>55.373286</td></tr><tr><td><b>GPS Øst</b></td><td>12.076125</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.065.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155357</td></tr><tr><td><b>Telefonnummer</b></td><td>29419671</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>4</td></tr><tr><td><b>Station</b></td><td>Tureby</td></tr><tr><td><b>GPS Nord</b></td><td>55.373286</td></tr><tr><td><b>GPS Øst</b></td><td>12.076125</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>042.065.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155357</td></tr><tr><td><b>Telefonnummer</b></td><td>29419671</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
@@ -556,7 +556,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Viby Sjælland</td></tr><tr><td><b>GPS Nord</b></td><td>55.549611</td></tr><tr><td><b>GPS Øst</b></td><td>12.024474</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>014.043.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155092</td></tr><tr><td><b>Telefonnummer</b></td><td>21156487</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Station</b></td><td>Viby Sjælland</td></tr><tr><td><b>GPS Nord</b></td><td>55.549611</td></tr><tr><td><b>GPS Øst</b></td><td>12.024474</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Normal</td></tr><tr><td><b>Tavle</b></td><td>014.043.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155092</td></tr><tr><td><b>Telefonnummer</b></td><td>21156487</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>96</td></tr>
 </table>
 ]]>
 </description>
@@ -571,7 +571,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Vipperød</td></tr><tr><td><b>GPS Nord</b></td><td>55.666919</td></tr><tr><td><b>GPS Øst</b></td><td>11.738682</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.061.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155464</td></tr><tr><td><b>Telefonnummer</b></td><td>21159536</td></tr><tr><td><b>Ekstern antenne</b></td><td>ikke monteret endnu</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Station</b></td><td>Vipperød</td></tr><tr><td><b>GPS Nord</b></td><td>55.666919</td></tr><tr><td><b>GPS Øst</b></td><td>11.738682</td></tr><tr><td><b>SR/ORF</b></td><td>SR</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>052.061.A</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155464</td></tr><tr><td><b>Telefonnummer</b></td><td>21159536</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -586,7 +586,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Vordingborg</td></tr><tr><td><b>GPS Nord</b></td><td>55.012644</td></tr><tr><td><b>GPS Øst</b></td><td>11.900117</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>024.121.F</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155191</td></tr><tr><td><b>Telefonnummer</b></td><td>40142944</td></tr><tr><td><b>Ekstern antenne</b></td><td></td></tr><tr><td><b>Note</b></td><td>Vi må IKKE arbejde over 3,5m højde uden Kørestrømsafbrydelse</td></tr>
+<tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Station</b></td><td>Vordingborg</td></tr><tr><td><b>GPS Nord</b></td><td>55.012644</td></tr><tr><td><b>GPS Øst</b></td><td>11.900117</td></tr><tr><td><b>SR/ORF</b></td><td>ORF</td></tr><tr><td><b>Kørestrøm</b></td><td>Sicat</td></tr><tr><td><b>Tavle</b></td><td>024.121.F</td></tr><tr><td><b>Tænding</b></td><td>Astro Ur</td></tr><tr><td><b>SIM-kort nummer</b></td><td>89450130211222155191</td></tr><tr><td><b>Telefonnummer</b></td><td>40142944</td></tr><tr><td><b>Signalstyrke pr. 15-08-2023</b></td><td>63</td></tr>
 </table>
 ]]>
 </description>
