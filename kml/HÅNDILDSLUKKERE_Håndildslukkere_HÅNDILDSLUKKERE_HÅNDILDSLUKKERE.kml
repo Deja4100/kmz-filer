@@ -191,6 +191,36 @@
 </Placemark>
 
 <Placemark>
+  <name>10831348</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted - Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Equipment</b></td><td>10831348</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg 604</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Feb 07 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>479126</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>84.4</td></tr><tr><td><b>GPS Nord</b></td><td> 55.427154000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.759579000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.759579000, 55.427154000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10831352</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Ringsted - Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Equipment</b></td><td>10831352</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg 604</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Feb 11 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>479047</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>66.3</td></tr><tr><td><b>GPS Nord</b></td><td> 55.427132000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.759568000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.759568000, 55.427132000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>10825477</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -307,291 +337,6 @@
 </description>
   <Point>
     <coordinates> 11.453559000, 55.408038000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803585</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803585</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relærum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322400</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803586</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803586</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322475</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803587</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803587</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322420</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803588</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803588</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødstrømsrum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322349</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.948</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803589</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803589</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 13 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322503</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>20.429</td></tr><tr><td><b>GPS Nord</b></td><td> 55.646110000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.247425000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.247425000, 55.646110000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803590</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803590</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relærum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322450</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.948</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803591</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803591</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321209</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.269757000, 55.648580000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803592</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803592</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 023710</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485942</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>23.695</td></tr><tr><td><b>GPS Nord</b></td><td>55.647567000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.204518000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.204518000,55.647567000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803594</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803594</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus, Poppellunden</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 022300</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485862</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>22.265</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644649000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.226545000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.226545000, 55.644649000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803596</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803596</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 023700</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485851</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>23.688</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647553000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.204610000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.204610000, 55.647553000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803597</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803597</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 05500</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486032</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>25.458</td></tr><tr><td><b>GPS Nord</b></td><td> 55.650239000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.177185000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.177185000, 55.650239000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10825473</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Rosklide</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10825473</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 026900</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486892</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>26.909</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648849000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.154227000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.154227000, 55.648849000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803600</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803600</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kommandopost 1. sal (Klima)</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321422</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>12.084636000, 55.637792000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803601</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803601</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kommandopost 2. sal (Klima)</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321093</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>12.084636000, 55.637792000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803602</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803602</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>KMP Tavlerum Kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322324</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>12.084636000, 55.637792000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803603</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803603</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>KMP Batterirum Kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322405</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>12.084636000, 55.637792000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10825472</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10825472</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 030170</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321290</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>30.168</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644315000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.103471000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.103471000, 55.644315000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803598</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Trekroner</td></tr><tr><td><b>Forkortelse</b></td><td>Trk</td></tr><tr><td><b>Equipment</b></td><td>10803598</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486936</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>28.581</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647820000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127716000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.127716000, 55.647820000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10803599</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Trekroner</td></tr><tr><td><b>Forkortelse</b></td><td>Trk</td></tr><tr><td><b>Equipment</b></td><td>10803599</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relehytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Trk 021</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485883</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>28.586</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647807000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127585000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 12.127585000, 55.647807000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -806,21 +551,6 @@
 </Placemark>
 
 <Placemark>
-  <name>10831348</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Ringsted - Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Equipment</b></td><td>10831348</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg - Næ 604</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Feb 07 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>479126</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>84.4</td></tr><tr><td><b>GPS Nord</b></td><td> 55.427154000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.759579000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 11.759579000, 55.427154000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
   <name>10831351</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -832,21 +562,6 @@
 </description>
   <Point>
     <coordinates> 11.760786000, 55.242224000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>10831352</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>12</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Ringsted - Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Rg - Næ</td></tr><tr><td><b>Equipment</b></td><td>10831352</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rg - Næ 604</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Sat Feb 11 2023 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>479047</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>66.3</td></tr><tr><td><b>GPS Nord</b></td><td> 55.427132000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.759568000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 11.759568000, 55.427132000,0</coordinates>
   </Point>
 </Placemark>
 
@@ -871,7 +586,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10803626</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>UPS rum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Scandlines</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 05 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321120</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.403</td></tr><tr><td><b>GPS Nord</b></td><td> 54.654448000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352558000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10803626</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>UPS rum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rf 005</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 05 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321120</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.403</td></tr><tr><td><b>GPS Nord</b></td><td> 54.654448000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352558000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -886,7 +601,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825476</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telerum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Scandlines</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 05 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>320916</td></tr><tr><td><b>Konstrukt. måned</b></td><td>3</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td> 54.654399000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352595000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825476</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telerum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rf 005</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Jul 05 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>320916</td></tr><tr><td><b>Konstrukt. måned</b></td><td>3</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td> 54.654399000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352595000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -901,7 +616,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825474</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Generatorrum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Scandlines</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 06 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321089</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td>54.654465000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352591000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825474</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Generatorrum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rf 005</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 06 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321089</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td>54.654465000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352591000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -916,7 +631,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825475</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Rum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Scandlines</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 06 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>320592</td></tr><tr><td><b>Konstrukt. måned</b></td><td>3</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td>54.654465000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352591000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Navn</b></td><td>Rødby Færge</td></tr><tr><td><b>Forkortelse</b></td><td>Rf</td></tr><tr><td><b>Equipment</b></td><td>10825475</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Rum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Rf 005</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 06 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>320592</td></tr><tr><td><b>Konstrukt. måned</b></td><td>3</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>183.399</td></tr><tr><td><b>GPS Nord</b></td><td>54.654465000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.352591000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1327,6 +1042,291 @@
 </description>
   <Point>
     <coordinates> 11.738848000, 55.666624000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803585</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803585</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relærum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322400</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803586</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803586</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322475</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803587</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803587</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322420</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.498</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803588</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803588</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødstrømsrum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322349</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.948</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803589</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803589</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>I/U hytte 20.9</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 13 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322503</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>20.429</td></tr><tr><td><b>GPS Nord</b></td><td> 55.646110000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.247425000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.247425000, 55.646110000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803590</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803590</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relærum</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322450</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.948</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803591</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Equipment</b></td><td>10803591</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Telehytte i kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå 010</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Jul 07 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321209</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>19.6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.269757000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.269757000, 55.648580000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803592</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803592</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 023710</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485942</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>23.695</td></tr><tr><td><b>GPS Nord</b></td><td>55.647567000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.204518000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.204518000,55.647567000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803594</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803594</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus, Poppellunden</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 022300</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485862</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>22.265</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644649000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.226545000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.226545000, 55.644649000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803596</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803596</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå-Ro 023700</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Tue Aug 09 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485851</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>23.688</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647553000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.204610000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.204610000, 55.647553000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803597</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10803597</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 05500</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486032</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>25.458</td></tr><tr><td><b>GPS Nord</b></td><td> 55.650239000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.177185000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.177185000, 55.650239000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10825473</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup - Rosklide</td></tr><tr><td><b>Forkortelse</b></td><td>Htå - Ro</td></tr><tr><td><b>Equipment</b></td><td>10825473</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 026900</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486892</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>26.909</td></tr><tr><td><b>GPS Nord</b></td><td> 55.648849000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.154227000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.154227000, 55.648849000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803600</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803600</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kommandopost 1. sal (Klima)</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321422</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084636000, 55.637792000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803601</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803601</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kommandopost 2. sal (Klima)</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321093</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084636000, 55.637792000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803602</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803602</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>KMP Tavlerum Kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322324</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084636000, 55.637792000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803603</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10803603</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>KMP Batterirum Kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 028</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jul 27 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>322405</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>31.558</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637792000</td></tr><tr><td><b>GPS Øst</b></td><td>12.084636000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.084636000, 55.637792000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10825472</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Equipment</b></td><td>10825472</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Ro 030170</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>321290</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2021</td></tr><tr><td><b>Kilometrering</b></td><td>30.168</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644315000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.103471000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.103471000, 55.644315000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803598</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Trekroner</td></tr><tr><td><b>Forkortelse</b></td><td>Trk</td></tr><tr><td><b>Equipment</b></td><td>10803598</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relæhus</td></tr><tr><td><b>Bygningsnummer</b></td><td>Htå - Ro 020</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486936</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>28.581</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647820000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127716000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.127716000, 55.647820000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>10803599</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>11B</td></tr><tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Trekroner</td></tr><tr><td><b>Forkortelse</b></td><td>Trk</td></tr><tr><td><b>Equipment</b></td><td>10803599</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Relehytte</td></tr><tr><td><b>Bygningsnummer</b></td><td>Trk 021</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>485883</td></tr><tr><td><b>Konstrukt. måned</b></td><td>2</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>28.586</td></tr><tr><td><b>GPS Nord</b></td><td> 55.647807000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.127585000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr><tr><td><b>Vægt 2026 (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.127585000, 55.647807000,0</coordinates>
   </Point>
 </Placemark>
 </Document></kml>
