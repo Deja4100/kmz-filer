@@ -476,12 +476,12 @@
 </Placemark>
 
 <Placemark>
-  <name>012.519.A2.2</name>
+  <name>012.519.A2.1.1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Terrænlys øst, 18m mast</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10868537</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A2.2</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A2</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.641291000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250939000</td></tr><tr><td><b>Kilometrering</b></td><td>21.701</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pladsbelysning</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>TIB</b></td><td>1</td></tr><tr><td><b>Navn</b></td><td>Høje Taastrup Kombiterminal</td></tr><tr><td><b>Forkortelse</b></td><td>Htås</td></tr><tr><td><b>Uddybende placering</b></td><td>Terrænlys øst, 18m mast</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10868537</td></tr><tr><td><b>Tavlenummer</b></td><td>012.519.A2.1.1</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.A2.1</td></tr><tr><td><b>Forsikring (A)</b></td><td>35</td></tr><tr><td><b>GPS Nord</b></td><td> 55.641291000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250939000</td></tr><tr><td><b>Kilometrering</b></td><td>21.701</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>Pladsbelysning</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
