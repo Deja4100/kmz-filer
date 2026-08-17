@@ -311,7 +311,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 22</name>
+  <name>Item 21</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -331,7 +331,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td>SPSKV + pumper</td></tr><tr><td><b>Kabelskab</b></td><td>4569</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.40778</td></tr>
+<tr><td><b>Tavlefunktion</b></td><td>SPSKV + pumper</td></tr><tr><td><b>Kabelskab</b></td><td>4569</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>KS, ved sti</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.40778</td></tr>
 </table>
 ]]>
 </description>
