@@ -4196,6 +4196,21 @@
 </Placemark>
 
 <Placemark>
+  <name>Mast ved overgang</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup Midt</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast ved overgang</td></tr><tr><td><b>GPS Nord</b></td><td>55.648437</td></tr><tr><td><b>GPS Øst</b></td><td>12.26631</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 2</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.26631,55.648437,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>Lav mast 36</name>
   <styleUrl>#s</styleUrl>
   <description>
