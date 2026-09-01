@@ -596,12 +596,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Hegnmonteret</name>
+  <name>Hegnsmonteret</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved (togfører perron)</td></tr><tr><td><b>Lampetype</b></td><td>O10 lamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.239025</td></tr><tr><td><b>GPS Øst</b></td><td>11.761914</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>20</td></tr><tr><td><b>Note</b></td><td>39 lamper på hegn</td></tr>
+<tr><td><b>Station</b></td><td>Næstved (togfører perron)</td></tr><tr><td><b>Lampetype</b></td><td>O10 lamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.239025</td></tr><tr><td><b>GPS Øst</b></td><td>11.761914</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>20</td></tr><tr><td><b>Note</b></td><td>39 lamper på hegn</td></tr>
 </table>
 ]]>
 </description>
@@ -1226,12 +1226,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Hegnmonteret</name>
+  <name>Hegnsmonteret</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved syd, fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.226852</td></tr><tr><td><b>GPS Øst</b></td><td>11.77241</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr><tr><td><b>Note</b></td><td>39 stk</td></tr>
+<tr><td><b>Station</b></td><td>Næstved syd, fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.226852</td></tr><tr><td><b>GPS Øst</b></td><td>11.77241</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr><tr><td><b>Note</b></td><td>39 stk</td></tr>
 </table>
 ]]>
 </description>
@@ -2011,7 +2011,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634616000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078865000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634616000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078865000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2026,7 +2026,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 2</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078935000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 2</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634580000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078935000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2041,7 +2041,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 3</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634558000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078757000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 3</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634558000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078757000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2056,7 +2056,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 4</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634522000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078825000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 4</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634522000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078825000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2071,7 +2071,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 5</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634503000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078650000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 5</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634503000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078650000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2086,7 +2086,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634469000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078725000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634469000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078725000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2101,7 +2101,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 7</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634451000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078539000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 7</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634451000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078539000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2116,7 +2116,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Plan 90</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 8</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634408000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078616000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 8</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634408000</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078616000</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
