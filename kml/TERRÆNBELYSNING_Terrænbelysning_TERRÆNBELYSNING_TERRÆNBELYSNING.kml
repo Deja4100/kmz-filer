@@ -1591,12 +1591,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635429°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079990°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>51</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>GPS Nord</b></td><td>55.635429</td></tr><tr><td><b>GPS Øst</b></td><td>12.07999</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>51</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079990°, 55.635429°,0</coordinates>
+    <coordinates>12.07999,55.635429,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1606,12 +1606,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635388°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080028°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>F</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>GPS Nord</b></td><td>55.635388</td></tr><tr><td><b>GPS Øst</b></td><td>12.080028</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>F</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080028°, 55.635388°,0</coordinates>
+    <coordinates>12.080028,55.635388,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1621,12 +1621,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635349°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080082°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>B</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>GPS Nord</b></td><td>55.635349</td></tr><tr><td><b>GPS Øst</b></td><td>12.080082</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>B</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080082°, 55.635349°,0</coordinates>
+    <coordinates>12.080082,55.635349,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1636,12 +1636,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635317°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080122°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>GPS Nord</b></td><td>55.635317</td></tr><tr><td><b>GPS Øst</b></td><td>12.080122</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080122°, 55.635317°,0</coordinates>
+    <coordinates>12.080122,55.635317,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1651,12 +1651,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635147°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079548°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>B</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>GPS Nord</b></td><td>55.635147</td></tr><tr><td><b>GPS Øst</b></td><td>12.079548</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>B</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079548°, 55.635147°,0</coordinates>
+    <coordinates>12.079548,55.635147,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1666,12 +1666,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 15</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635104°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079619°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>A</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 15</td></tr><tr><td><b>GPS Nord</b></td><td>55.635104</td></tr><tr><td><b>GPS Øst</b></td><td>12.079619</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>A</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079619°, 55.635104°,0</coordinates>
+    <coordinates>12.079619,55.635104,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1681,12 +1681,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 16</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635047°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079722°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>90</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 16</td></tr><tr><td><b>GPS Nord</b></td><td>55.635047</td></tr><tr><td><b>GPS Øst</b></td><td>12.079722</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>90</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079722°, 55.635047°,0</coordinates>
+    <coordinates>12.079722,55.635047,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1921,12 +1921,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.636099°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.081727°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.636099</td></tr><tr><td><b>GPS Øst</b></td><td>12.081727</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.081727°,55.636099°,0</coordinates>
+    <coordinates>12.081727,55.636099,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1936,12 +1936,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635858°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080961°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.635858</td></tr><tr><td><b>GPS Øst</b></td><td>12.080961</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080961°, 55.635858°,0</coordinates>
+    <coordinates>12.080961,55.635858,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1951,12 +1951,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635663°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080496°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.635663</td></tr><tr><td><b>GPS Øst</b></td><td>12.080496</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080496°, 55.635663°,0</coordinates>
+    <coordinates>12.080496,55.635663,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1966,12 +1966,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635138°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079362°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.635138</td></tr><tr><td><b>GPS Øst</b></td><td>12.079362</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079362°, 55.635138°,0</coordinates>
+    <coordinates>12.079362,55.635138,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1981,12 +1981,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634839°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078774°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.634839</td></tr><tr><td><b>GPS Øst</b></td><td>12.078774</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.078774°, 55.634839°,0</coordinates>
+    <coordinates>12.078774,55.634839,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1996,12 +1996,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634594°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.078313°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast v. spor 51</td></tr><tr><td><b>GPS Nord</b></td><td>55.634594</td></tr><tr><td><b>GPS Øst</b></td><td>12.078313</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.078313°, 55.634594°,0</coordinates>
+    <coordinates>12.078313,55.634594,0</coordinates>
   </Point>
 </Placemark>
 
