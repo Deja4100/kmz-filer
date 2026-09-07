@@ -619,7 +619,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Høje Taastrup del 3</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -629,7 +629,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Kalundborg del 1</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -639,7 +639,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Kalundborg del 2</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -649,7 +649,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Kalundborg del 3</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -659,7 +659,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Køge nord</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -669,7 +669,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Køge syd</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -679,7 +679,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Nykøbing Falster del 1</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -689,7 +689,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Nykøbing Falster del 2</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -699,7 +699,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Nykøbing Falster del 3</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -709,7 +709,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Næstved del 1</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -719,7 +719,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Næstved del 2</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -729,7 +729,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Ringsted vest</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -739,7 +739,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Ringsted øst</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -749,7 +749,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Roskilde Station vest</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -759,7 +759,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Roskilde Station øst</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -769,7 +769,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Roskilde Maskinstation</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
@@ -779,7 +779,7 @@
    </NetworkLink>
 
 <NetworkLink>
-    <name>Høje Taastrup del 2</name>
+    <name>Kombiterminal</name>
     <visibility>0</visibility>
         <open>0</open>
     <Link>
