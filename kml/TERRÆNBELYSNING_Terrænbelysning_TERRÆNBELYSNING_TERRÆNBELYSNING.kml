@@ -601,7 +601,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved (togfører perron)</td></tr><tr><td><b>Lampetype</b></td><td>O10 lamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.239025</td></tr><tr><td><b>GPS Øst</b></td><td>11.761914</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>20</td></tr><tr><td><b>Note</b></td><td>39 lamper på hegn</td></tr>
+<tr><td><b>Station</b></td><td>Næstved (togfører perron)</td></tr><tr><td><b>Lampetype</b></td><td>O10 lamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.239025</td></tr><tr><td><b>GPS Øst</b></td><td>11.761914</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>20</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -761,17 +761,212 @@
 </Placemark>
 
 <Placemark>
-  <name>Gammel mast</name>
+  <name>Gittermast 3</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gammel mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.233787</td></tr><tr><td><b>GPS Øst</b></td><td>11.765524</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>ml. 32-41</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 3</td></tr><tr><td><b>GPS Nord</b></td><td>55.233225</td></tr><tr><td><b>GPS Øst</b></td><td>11.766364</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766364,55.233225,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 2</td></tr><tr><td><b>GPS Nord</b></td><td>55.233076</td></tr><tr><td><b>GPS Øst</b></td><td>11.766736</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766736,55.233076,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232921</td></tr><tr><td><b>GPS Øst</b></td><td>11.766714</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766714,55.232921,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 11</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>GPS Nord</b></td><td>55.233787</td></tr><tr><td><b>GPS Øst</b></td><td>11.765524</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
     <coordinates>11.765524,55.233787,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 10</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>GPS Nord</b></td><td>55.233639</td></tr><tr><td><b>GPS Øst</b></td><td>11.765731</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765731,55.233639,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 9</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>GPS Nord</b></td><td>55.233494</td></tr><tr><td><b>GPS Øst</b></td><td>11.765924</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765924,55.233494,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>GPS Nord</b></td><td>55.23335</td></tr><tr><td><b>GPS Øst</b></td><td>11.766104</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766104,55.23335,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>GPS Nord</b></td><td>55.233199</td></tr><tr><td><b>GPS Øst</b></td><td>11.766277</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766277,55.233199,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>GPS Nord</b></td><td>55.233048</td></tr><tr><td><b>GPS Øst</b></td><td>11.766443</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766443,55.233048,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>GPS Nord</b></td><td>55.232891</td></tr><tr><td><b>GPS Øst</b></td><td>11.766608</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766608,55.232891,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>GPS Nord</b></td><td>55.23274</td></tr><tr><td><b>GPS Øst</b></td><td>11.766658</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766658,55.23274,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>GPS Nord</b></td><td>55.232734</td></tr><tr><td><b>GPS Øst</b></td><td>11.766773</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766773,55.232734,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>GPS Nord</b></td><td>55.232558</td></tr><tr><td><b>GPS Øst</b></td><td>11.766877</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766877,55.232558,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232577</td></tr><tr><td><b>GPS Øst</b></td><td>11.766944</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766944,55.232577,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1021,7 +1216,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>GPS Nord</b></td><td>55.227161</td></tr><tr><td><b>GPS Øst</b></td><td>11.772207</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>GPS Nord</b></td><td>55.227161</td></tr><tr><td><b>GPS Øst</b></td><td>11.772207</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1036,7 +1231,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>GPS Nord</b></td><td>55.226977</td></tr><tr><td><b>GPS Øst</b></td><td>11.772448</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>GPS Nord</b></td><td>55.226977</td></tr><tr><td><b>GPS Øst</b></td><td>11.772448</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1051,7 +1246,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>GPS Nord</b></td><td>55.226856</td></tr><tr><td><b>GPS Øst</b></td><td>11.772655</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>GPS Nord</b></td><td>55.226856</td></tr><tr><td><b>GPS Øst</b></td><td>11.772655</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1066,7 +1261,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>GPS Nord</b></td><td>55.226712</td></tr><tr><td><b>GPS Øst</b></td><td>11.772877</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>GPS Nord</b></td><td>55.226712</td></tr><tr><td><b>GPS Øst</b></td><td>11.772877</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1081,7 +1276,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>GPS Nord</b></td><td>55.226601</td></tr><tr><td><b>GPS Øst</b></td><td>11.773067</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>GPS Nord</b></td><td>55.226601</td></tr><tr><td><b>GPS Øst</b></td><td>11.773067</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1096,7 +1291,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>GPS Nord</b></td><td>55.226463</td></tr><tr><td><b>GPS Øst</b></td><td>11.773317</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>GPS Nord</b></td><td>55.226463</td></tr><tr><td><b>GPS Øst</b></td><td>11.773317</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1111,7 +1306,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>GPS Nord</b></td><td>55.226337</td></tr><tr><td><b>GPS Øst</b></td><td>11.773546</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>GPS Nord</b></td><td>55.226337</td></tr><tr><td><b>GPS Øst</b></td><td>11.773546</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1126,7 +1321,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>GPS Nord</b></td><td>55.226228</td></tr><tr><td><b>GPS Øst</b></td><td>11.773767</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>GPS Nord</b></td><td>55.226228</td></tr><tr><td><b>GPS Øst</b></td><td>11.773767</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1141,7 +1336,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>GPS Nord</b></td><td>55.226105</td></tr><tr><td><b>GPS Øst</b></td><td>11.774008</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>GPS Nord</b></td><td>55.226105</td></tr><tr><td><b>GPS Øst</b></td><td>11.774008</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1156,7 +1351,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>GPS Nord</b></td><td>55.225986</td></tr><tr><td><b>GPS Øst</b></td><td>11.774225</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>GPS Nord</b></td><td>55.225986</td></tr><tr><td><b>GPS Øst</b></td><td>11.774225</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1171,7 +1366,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>GPS Nord</b></td><td>55.225874</td></tr><tr><td><b>GPS Øst</b></td><td>11.77448</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>GPS Nord</b></td><td>55.225874</td></tr><tr><td><b>GPS Øst</b></td><td>11.77448</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1186,7 +1381,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>GPS Nord</b></td><td>55.225759</td></tr><tr><td><b>GPS Øst</b></td><td>11.774723</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>GPS Nord</b></td><td>55.225759</td></tr><tr><td><b>GPS Øst</b></td><td>11.774723</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1201,7 +1396,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>GPS Nord</b></td><td>55.225675</td></tr><tr><td><b>GPS Øst</b></td><td>11.774941</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>GPS Nord</b></td><td>55.225675</td></tr><tr><td><b>GPS Øst</b></td><td>11.774941</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1216,7 +1411,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>GPS Nord</b></td><td>55.225543</td></tr><tr><td><b>GPS Øst</b></td><td>11.775236</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td>14x 10m master ved fækalieanlæg</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>GPS Nord</b></td><td>55.225543</td></tr><tr><td><b>GPS Øst</b></td><td>11.775236</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -1231,7 +1426,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.226852</td></tr><tr><td><b>GPS Øst</b></td><td>11.77241</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr><tr><td><b>Note</b></td><td>39 stk</td></tr>
+<tr><td><b>Station</b></td><td>Næstved fækalieanlæg</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>GPS Nord</b></td><td>55.226852</td></tr><tr><td><b>GPS Øst</b></td><td>11.77241</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.P</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2212,6 +2407,171 @@
 </description>
   <Point>
     <coordinates>11.093086,55.677843,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677525</td></tr><tr><td><b>GPS Øst</b></td><td>11.091769</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.091769,55.677525,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.67751</td></tr><tr><td><b>GPS Øst</b></td><td>11.092368</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.092368,55.67751,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.67751</td></tr><tr><td><b>GPS Øst</b></td><td>11.092964</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.092964,55.67751,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677507</td></tr><tr><td><b>GPS Øst</b></td><td>11.093573</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.093573,55.677507,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677499</td></tr><tr><td><b>GPS Øst</b></td><td>11.094178</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.094178,55.677499,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677491</td></tr><tr><td><b>GPS Øst</b></td><td>11.094782</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.094782,55.677491,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677584</td></tr><tr><td><b>GPS Øst</b></td><td>11.09511</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.09511,55.677584,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677581</td></tr><tr><td><b>GPS Øst</b></td><td>11.095685</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.095685,55.677581,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677667</td></tr><tr><td><b>GPS Øst</b></td><td>11.095847</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.095847,55.677667,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677682</td></tr><tr><td><b>GPS Øst</b></td><td>11.096429</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.096429,55.677682,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>GPS Nord</b></td><td>55.677667</td></tr><tr><td><b>GPS Øst</b></td><td>11.09692</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.09692,55.677667,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5056,7 +5416,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.769544</td></tr><tr><td><b>GPS Øst</b></td><td>11.879944</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.769544</td></tr><tr><td><b>GPS Øst</b></td><td>11.879944</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5071,7 +5431,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.769942</td></tr><tr><td><b>GPS Øst</b></td><td>11.880306</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.769942</td></tr><tr><td><b>GPS Øst</b></td><td>11.880306</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5086,7 +5446,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.770342</td></tr><tr><td><b>GPS Øst</b></td><td>11.880673</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.770342</td></tr><tr><td><b>GPS Øst</b></td><td>11.880673</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5101,7 +5461,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.770744</td></tr><tr><td><b>GPS Øst</b></td><td>11.881038</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Galge</td></tr><tr><td><b>GPS Nord</b></td><td>54.770744</td></tr><tr><td><b>GPS Øst</b></td><td>11.881038</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5116,7 +5476,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.7709</td></tr><tr><td><b>GPS Øst</b></td><td>11.882144</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>6 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.7709</td></tr><tr><td><b>GPS Øst</b></td><td>11.882144</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5131,7 +5491,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.77126</td></tr><tr><td><b>GPS Øst</b></td><td>11.882509</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>7 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.77126</td></tr><tr><td><b>GPS Øst</b></td><td>11.882509</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5146,7 +5506,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771627</td></tr><tr><td><b>GPS Øst</b></td><td>11.882807</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>7 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771627</td></tr><tr><td><b>GPS Øst</b></td><td>11.882807</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5161,7 +5521,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771985</td></tr><tr><td><b>GPS Øst</b></td><td>11.883083</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>7 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771985</td></tr><tr><td><b>GPS Øst</b></td><td>11.883083</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5176,7 +5536,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772384</td></tr><tr><td><b>GPS Øst</b></td><td>11.883345</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>7 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772384</td></tr><tr><td><b>GPS Øst</b></td><td>11.883345</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5191,7 +5551,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772729</td></tr><tr><td><b>GPS Øst</b></td><td>11.883566</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>6 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772729</td></tr><tr><td><b>GPS Øst</b></td><td>11.883566</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5206,7 +5566,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771106</td></tr><tr><td><b>GPS Øst</b></td><td>11.881317</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.7</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>4 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771106</td></tr><tr><td><b>GPS Øst</b></td><td>11.881317</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.7</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5221,7 +5581,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771458</td></tr><tr><td><b>GPS Øst</b></td><td>11.881611</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.8</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>4 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.771458</td></tr><tr><td><b>GPS Øst</b></td><td>11.881611</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.8</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5236,7 +5596,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.77182</td></tr><tr><td><b>GPS Øst</b></td><td>11.88191</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.9</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>4 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.77182</td></tr><tr><td><b>GPS Øst</b></td><td>11.88191</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.9</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5251,7 +5611,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772188</td></tr><tr><td><b>GPS Øst</b></td><td>11.8822</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.10</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>4 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772188</td></tr><tr><td><b>GPS Øst</b></td><td>11.8822</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.10</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5266,7 +5626,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772565</td></tr><tr><td><b>GPS Øst</b></td><td>11.882412</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.11</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>3 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772565</td></tr><tr><td><b>GPS Øst</b></td><td>11.882412</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.11</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5281,7 +5641,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772906</td></tr><tr><td><b>GPS Øst</b></td><td>11.88267</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.12</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>3 stk</td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>På snor</td></tr><tr><td><b>GPS Nord</b></td><td>54.772906</td></tr><tr><td><b>GPS Øst</b></td><td>11.88267</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2.12</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -5407,6 +5767,126 @@
 </description>
   <Point>
     <coordinates>11.884119,54.774617,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 387</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.437448</td></tr><tr><td><b>GPS Øst</b></td><td>11.780918</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.780918,55.437448,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 388</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.437444</td></tr><tr><td><b>GPS Øst</b></td><td>11.781471</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.781471,55.437444,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 389</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.437395</td></tr><tr><td><b>GPS Øst</b></td><td>11.781949</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.781949,55.437395,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 390</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.437353</td></tr><tr><td><b>GPS Øst</b></td><td>11.78238</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.78238,55.437353,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 391</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.437245</td></tr><tr><td><b>GPS Øst</b></td><td>11.783075</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.783075,55.437245,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>GPS Nord</b></td><td>55.436993</td></tr><tr><td><b>GPS Øst</b></td><td>11.786382</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.786382,55.436993,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast </name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast </td></tr><tr><td><b>GPS Nord</b></td><td>55.437242</td></tr><tr><td><b>GPS Øst</b></td><td>11.784498</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.784498,55.437242,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast </name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast </td></tr><tr><td><b>GPS Nord</b></td><td>55.438254</td></tr><tr><td><b>GPS Øst</b></td><td>11.789472</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.789472,55.438254,0</coordinates>
   </Point>
 </Placemark>
 </Document></kml>
