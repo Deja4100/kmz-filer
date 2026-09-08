@@ -2576,6 +2576,66 @@
 </Placemark>
 
 <Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.677667</td></tr><tr><td><b>GPS Øst</b></td><td>11.095414</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.095414,55.677667,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.67768</td></tr><tr><td><b>GPS Øst</b></td><td>11.095018</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.095018,55.67768,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.677689</td></tr><tr><td><b>GPS Øst</b></td><td>11.094622</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.094622,55.677689,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kalundborg station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.677684</td></tr><tr><td><b>GPS Øst</b></td><td>11.09398</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.09398,55.677684,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>Portal 13</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -3496,12 +3556,27 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted øst</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Stander</td></tr><tr><td><b>Armaturer</b></td><td>19</td></tr><tr><td><b>GPS Nord</b></td><td>55.43873</td></tr><tr><td><b>GPS Øst</b></td><td>11.797176</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>19</td></tr>
+<tr><td><b>Station</b></td><td>Ringsted øst</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Stander</td></tr><tr><td><b>Armaturer</b></td><td>19</td></tr><tr><td><b>GPS Nord</b></td><td>55.43873</td></tr><tr><td><b>GPS Øst</b></td><td>11.797176</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
     <coordinates>11.797176,55.43873,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 238</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>4</td></tr><tr><td><b>GPS Nord</b></td><td>55.438175</td></tr><tr><td><b>GPS Øst</b></td><td>11.792038</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.792038,55.438175,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3571,12 +3646,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437478</td></tr><tr><td><b>GPS Øst</b></td><td>11.777978</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>60</td></tr>
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.438254</td></tr><tr><td><b>GPS Øst</b></td><td>11.789472</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>11.777978,55.437478,0</coordinates>
+    <coordinates>11.789472,55.438254,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3586,12 +3661,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 6</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437501</td></tr><tr><td><b>GPS Øst</b></td><td>11.778436</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 6</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437478</td></tr><tr><td><b>GPS Øst</b></td><td>11.777978</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>60</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>11.778436,55.437501,0</coordinates>
+    <coordinates>11.777978,55.437478,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3601,12 +3676,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 7</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.43748</td></tr><tr><td><b>GPS Øst</b></td><td>11.778811</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 7</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437501</td></tr><tr><td><b>GPS Øst</b></td><td>11.778436</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>11.778811,55.43748,0</coordinates>
+    <coordinates>11.778436,55.437501,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3616,12 +3691,102 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 8</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437454</td></tr><tr><td><b>GPS Øst</b></td><td>11.779991</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 8</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.43748</td></tr><tr><td><b>GPS Øst</b></td><td>11.778811</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.778811,55.43748,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast 9</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 9</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437454</td></tr><tr><td><b>GPS Øst</b></td><td>11.779991</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B4</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
     <coordinates>11.779991,55.437454,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 248</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437448</td></tr><tr><td><b>GPS Øst</b></td><td>11.780918</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.780918,55.437448,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 249</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437444</td></tr><tr><td><b>GPS Øst</b></td><td>11.781471</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.781471,55.437444,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 250</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted station</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437395</td></tr><tr><td><b>GPS Øst</b></td><td>11.781949</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.781949,55.437395,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 251</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted rangerområde</td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437353</td></tr><tr><td><b>GPS Øst</b></td><td>11.78238</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.78238,55.437353,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 252</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted rangerområde</td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437245</td></tr><tr><td><b>GPS Øst</b></td><td>11.783075</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.783075,55.437245,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3892,6 +4057,36 @@
 </description>
   <Point>
     <coordinates>11.783611,55.437142,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.436993</td></tr><tr><td><b>GPS Øst</b></td><td>11.786382</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.786382,55.436993,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast </name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast </td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437242</td></tr><tr><td><b>GPS Øst</b></td><td>11.784498</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.784498,55.437242,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5767,126 +5962,6 @@
 </description>
   <Point>
     <coordinates>11.884119,54.774617,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 387</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437448</td></tr><tr><td><b>GPS Øst</b></td><td>11.780918</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.780918,55.437448,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 388</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437444</td></tr><tr><td><b>GPS Øst</b></td><td>11.781471</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.781471,55.437444,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 389</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437395</td></tr><tr><td><b>GPS Øst</b></td><td>11.781949</td></tr><tr><td><b>Forsyningstavle</b></td><td>015.000.B</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.781949,55.437395,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 390</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437353</td></tr><tr><td><b>GPS Øst</b></td><td>11.78238</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.78238,55.437353,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 391</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437245</td></tr><tr><td><b>GPS Øst</b></td><td>11.783075</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.783075,55.437245,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Gittermast</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.436993</td></tr><tr><td><b>GPS Øst</b></td><td>11.786382</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.786382,55.436993,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Gittermast </name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast </td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.437242</td></tr><tr><td><b>GPS Øst</b></td><td>11.784498</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.784498,55.437242,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Gittermast </name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Ringsted </td></tr><tr><td><b>Lampetype</b></td><td>Københavner </td></tr><tr><td><b>Ophæng</b></td><td>Gittermast </td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.438254</td></tr><tr><td><b>GPS Øst</b></td><td>11.789472</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.789472,55.438254,0</coordinates>
   </Point>
 </Placemark>
 </Document></kml>
