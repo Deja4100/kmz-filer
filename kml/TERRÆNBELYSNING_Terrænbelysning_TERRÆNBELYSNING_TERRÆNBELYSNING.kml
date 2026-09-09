@@ -1081,7 +1081,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 1</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.232224</td></tr><tr><td><b>GPS Øst</b></td><td>11.76721</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.7</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 1</td></tr><tr><td><b>Armaturer</b></td><td>5</td></tr><tr><td><b>GPS Nord</b></td><td>55.232224</td></tr><tr><td><b>GPS Øst</b></td><td>11.76721</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.7</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
 </table>
 ]]>
 </description>
@@ -1096,7 +1096,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 2</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.231869</td></tr><tr><td><b>GPS Øst</b></td><td>11.76756</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.8</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 2</td></tr><tr><td><b>Armaturer</b></td><td>5</td></tr><tr><td><b>GPS Nord</b></td><td>55.231869</td></tr><tr><td><b>GPS Øst</b></td><td>11.76756</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.8</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
 </table>
 ]]>
 </description>
@@ -1111,7 +1111,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 3</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.231519</td></tr><tr><td><b>GPS Øst</b></td><td>11.767886</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.9</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 3</td></tr><tr><td><b>Armaturer</b></td><td>5</td></tr><tr><td><b>GPS Nord</b></td><td>55.231519</td></tr><tr><td><b>GPS Øst</b></td><td>11.767886</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.9</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
 </table>
 ]]>
 </description>
@@ -1126,7 +1126,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 4</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.231166</td></tr><tr><td><b>GPS Øst</b></td><td>11.76821</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.10</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 4</td></tr><tr><td><b>Armaturer</b></td><td>5</td></tr><tr><td><b>GPS Nord</b></td><td>55.231166</td></tr><tr><td><b>GPS Øst</b></td><td>11.76821</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.10</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
 </table>
 ]]>
 </description>
@@ -1141,7 +1141,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 5</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.230814</td></tr><tr><td><b>GPS Øst</b></td><td>11.768559</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.11</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Galge 5</td></tr><tr><td><b>Armaturer</b></td><td>5</td></tr><tr><td><b>GPS Nord</b></td><td>55.230814</td></tr><tr><td><b>GPS Øst</b></td><td>11.768559</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5.1.11</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>32-33</td></tr>
 </table>
 ]]>
 </description>
@@ -1207,6 +1207,111 @@
 </description>
   <Point>
     <coordinates>11.768416,55.230355,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vaskemast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td> 55.230876°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767668°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.767668°, 55.230876°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Vaskemast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td> 55.231025°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.768137°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.768137°, 55.231025°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hegnsmonteret</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>Armaturer</b></td><td>13</td></tr><tr><td><b>GPS Nord</b></td><td> 55.232313°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.766590°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>3-4</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.766590°, 55.232313°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hegnsmonteret</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>O10 skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>Armaturer</b></td><td>26</td></tr><tr><td><b>GPS Nord</b></td><td> 55.230653°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.768242°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>3-4</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.768242°, 55.230653°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Stilamper</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Stilamper</td></tr><tr><td><b>Armaturer</b></td><td>6</td></tr><tr><td><b>GPS Nord</b></td><td> 55.230602°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.768008°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1-2</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.768008°, 55.230602°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.230444°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767847°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.767847°, 55.230444°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.230547°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767741°</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.767741°, 55.230547°,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3566,7 +3671,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 238</name>
+  <name>Item 245</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3716,7 +3821,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 248</name>
+  <name>Item 255</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3731,7 +3836,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 249</name>
+  <name>Item 256</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3746,7 +3851,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 250</name>
+  <name>Item 257</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3761,7 +3866,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 251</name>
+  <name>Item 258</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3776,7 +3881,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 252</name>
+  <name>Item 259</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
