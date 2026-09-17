@@ -4391,12 +4391,747 @@
 </Placemark>
 
 <Placemark>
+  <name>Item 293</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td></td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.635942°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250698°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250698°, 55.635942°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 294</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td></td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.635263°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250659°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250659°, 55.635263°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 295</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.635179°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250168°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250168°, 55.635179°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 296</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.634681°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250157°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250157°, 55.634681°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 297</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.634201°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250132°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250132°, 55.634201°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 298</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.634593°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249383°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249383°, 55.634593°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 299</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.635080°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249406°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249406°, 55.635080°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 300</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635347°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.248884°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.248884°, 55.635347°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.641574°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249886°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249886°, 55.641574°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.641394°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249836°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249836°, 55.641394°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.641214°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249792°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249792°, 55.641214°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.641033°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249765°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249765°, 55.641033°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.640854°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249746°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249746°, 55.640854°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.640673°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249741°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249741°, 55.640673°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.640493°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249730°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249730°, 55.640493°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635657°</td></tr><tr><td><b>GPS Øst</b></td><td>12.249518°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.249518°, 55.635657°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636053°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249537°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249537°, 55.636053°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636451°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249559°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249559°, 55.636451°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.636847°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249571°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249571°, 55.636847°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637241°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249594°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249594°, 55.637241°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.637641°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249609°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249609°, 55.637641°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638035°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249626°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249626°, 55.638035°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638426°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249652°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249652°, 55.638426°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.638829°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249673°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249673°, 55.638829°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.639234°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249691°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249691°, 55.639234°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.639627°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249707°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249707°, 55.639627°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.640028°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249726°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249726°, 55.640028°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.640320°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249739°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249739°, 55.640320°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.641002°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249834°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249834°, 55.641002°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.641596°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249775°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249775°, 55.641596°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>18m mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>18m mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.642351°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.249912°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.249912°, 55.642351°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 324</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.642652°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250138°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250138°, 55.642652°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 325</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.642600°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250630°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250630°, 55.642600°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 326</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.642736°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250413°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250413°, 55.642736°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 327</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.643003°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250368°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250368°, 55.643003°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 328</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.643239°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250353°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250353°, 55.643239°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 329</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.643550°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250218°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>104</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250218°, 55.643550°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 330</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td></td></tr><tr><td><b>Armaturer</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.643991°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250283°</td></tr><tr><td><b>Forsyningstavle</b></td><td></td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250283°, 55.643991°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>Gittermast</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646618</td></tr><tr><td><b>GPS Øst</b></td><td>12.252948</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.J</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.643435°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250509°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>112</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250509°, 55.643435°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.643625°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250377°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>112</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250377°, 55.643625°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.643860°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250453°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>112</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250453°, 55.643860°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644322°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250428°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250428°, 55.644322°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.644683°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250478°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250478°, 55.644683°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.645081°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250645°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250645°, 55.645081°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.645437°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.250903°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.250903°, 55.645437°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.645801°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.251292°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.251292°, 55.645801°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.646118°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.251760°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.251760°, 55.646118°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Kombiterminal</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.646389°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.252309°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.C</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>103</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.252309°, 55.646389°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td>Copenhagen LED Gen2</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast</td></tr><tr><td><b>Armaturer</b></td><td>69</td></tr><tr><td><b>GPS Nord</b></td><td>55.646634</td></tr><tr><td><b>GPS Øst</b></td><td>12.252651</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.J</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 201</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.252651,55.646634,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646618</td></tr><tr><td><b>GPS Øst</b></td><td>12.252948</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
@@ -4411,7 +5146,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646773</td></tr><tr><td><b>GPS Øst</b></td><td>12.253591</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.J</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646773</td></tr><tr><td><b>GPS Øst</b></td><td>12.253591</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
@@ -4426,12 +5161,27 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646873</td></tr><tr><td><b>GPS Øst</b></td><td>12.254277</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.J</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup (Proppen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.646873</td></tr><tr><td><b>GPS Øst</b></td><td>12.254277</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
     <coordinates>12.254277,55.646873,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647509</td></tr><tr><td><b>GPS Øst</b></td><td>12.259901</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.259901,55.647509,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4606,12 +5356,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 12</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647396</td></tr><tr><td><b>GPS Øst</b></td><td>12.258896</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 12</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647352°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.258590°</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.258896,55.647396,0</coordinates>
+    <coordinates> 12.258590°,55.647352°,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4621,27 +5371,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 13</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647454</td></tr><tr><td><b>GPS Øst</b></td><td>12.259446</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 13</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647396</td></tr><tr><td><b>GPS Øst</b></td><td>12.258896</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.259446,55.647454,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Gittermast</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647509</td></tr><tr><td><b>GPS Øst</b></td><td>12.259901</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>12.259901,55.647509,0</coordinates>
+    <coordinates>12.258896,55.647396,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4651,12 +5386,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647543</td></tr><tr><td><b>GPS Øst</b></td><td>12.260227</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647454</td></tr><tr><td><b>GPS Øst</b></td><td>12.259446</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.260227,55.647543,0</coordinates>
+    <coordinates>12.259446,55.647454,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4666,12 +5401,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 15</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647585</td></tr><tr><td><b>GPS Øst</b></td><td>12.260619</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 15</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647543</td></tr><tr><td><b>GPS Øst</b></td><td>12.260227</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.260619,55.647585,0</coordinates>
+    <coordinates>12.260227,55.647543,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4681,12 +5416,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 16</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647631</td></tr><tr><td><b>GPS Øst</b></td><td>12.261</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 16</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647585</td></tr><tr><td><b>GPS Øst</b></td><td>12.260619</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.261,55.647631,0</coordinates>
+    <coordinates>12.260619,55.647585,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4696,12 +5431,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 17</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64767</td></tr><tr><td><b>GPS Øst</b></td><td>12.261352</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 17</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647631</td></tr><tr><td><b>GPS Øst</b></td><td>12.261</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.261352,55.64767,0</coordinates>
+    <coordinates>12.261,55.647631,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4711,12 +5446,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 18</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64772</td></tr><tr><td><b>GPS Øst</b></td><td>12.261787</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 18</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64767</td></tr><tr><td><b>GPS Øst</b></td><td>12.261352</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.261787,55.64772,0</coordinates>
+    <coordinates>12.261352,55.64767,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4726,12 +5461,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 19</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647765</td></tr><tr><td><b>GPS Øst</b></td><td>12.262173</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 19</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64772</td></tr><tr><td><b>GPS Øst</b></td><td>12.261787</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.262173,55.647765,0</coordinates>
+    <coordinates>12.261787,55.64772,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4741,12 +5476,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 20</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647804</td></tr><tr><td><b>GPS Øst</b></td><td>12.262562</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 20</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647765</td></tr><tr><td><b>GPS Øst</b></td><td>12.262173</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.262562,55.647804,0</coordinates>
+    <coordinates>12.262173,55.647765,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4756,12 +5491,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 21</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647847</td></tr><tr><td><b>GPS Øst</b></td><td>12.26295</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 21</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647804</td></tr><tr><td><b>GPS Øst</b></td><td>12.262562</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.26295,55.647847,0</coordinates>
+    <coordinates>12.262562,55.647804,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4771,12 +5506,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 22</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647889</td></tr><tr><td><b>GPS Øst</b></td><td>12.263337</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 22</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647847</td></tr><tr><td><b>GPS Øst</b></td><td>12.26295</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.263337,55.647889,0</coordinates>
+    <coordinates>12.26295,55.647847,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4786,12 +5521,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 23</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647926</td></tr><tr><td><b>GPS Øst</b></td><td>12.263698</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 23</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647889</td></tr><tr><td><b>GPS Øst</b></td><td>12.263337</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.263698,55.647926,0</coordinates>
+    <coordinates>12.263337,55.647889,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4801,12 +5536,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 24</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647968</td></tr><tr><td><b>GPS Øst</b></td><td>12.264126</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 24</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647926</td></tr><tr><td><b>GPS Øst</b></td><td>12.263698</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.264126,55.647968,0</coordinates>
+    <coordinates>12.263698,55.647926,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4816,12 +5551,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 25</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648001</td></tr><tr><td><b>GPS Øst</b></td><td>12.264521</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 25</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.647968</td></tr><tr><td><b>GPS Øst</b></td><td>12.264126</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.264521,55.648001,0</coordinates>
+    <coordinates>12.264126,55.647968,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4831,12 +5566,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 26</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648036</td></tr><tr><td><b>GPS Øst</b></td><td>12.264906</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 26</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648001</td></tr><tr><td><b>GPS Øst</b></td><td>12.264521</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.264906,55.648036,0</coordinates>
+    <coordinates>12.264521,55.648001,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4846,12 +5581,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 27</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648069</td></tr><tr><td><b>GPS Øst</b></td><td>12.265303</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 27</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648036</td></tr><tr><td><b>GPS Øst</b></td><td>12.264906</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.265303,55.648069,0</coordinates>
+    <coordinates>12.264906,55.648036,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4861,12 +5596,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 28</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648104</td></tr><tr><td><b>GPS Øst</b></td><td>12.265692</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 28</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648069</td></tr><tr><td><b>GPS Øst</b></td><td>12.265303</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.265692,55.648104,0</coordinates>
+    <coordinates>12.265303,55.648069,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4876,12 +5611,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 29</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648173</td></tr><tr><td><b>GPS Øst</b></td><td>12.266469</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 29</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648104</td></tr><tr><td><b>GPS Øst</b></td><td>12.265692</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.266469,55.648173,0</coordinates>
+    <coordinates>12.265692,55.648104,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4891,12 +5626,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 30</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648206</td></tr><tr><td><b>GPS Øst</b></td><td>12.266865</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 30</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648141</td></tr><tr><td><b>GPS Øst</b></td><td>12.265977</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.266865,55.648206,0</coordinates>
+    <coordinates>12.265977,55.648141,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4906,12 +5641,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 31</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648243</td></tr><tr><td><b>GPS Øst</b></td><td>12.267256</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 31</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648173</td></tr><tr><td><b>GPS Øst</b></td><td>12.266469</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.267256,55.648243,0</coordinates>
+    <coordinates>12.266469,55.648173,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4921,12 +5656,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 32</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648279</td></tr><tr><td><b>GPS Øst</b></td><td>12.267649</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 32</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648206</td></tr><tr><td><b>GPS Øst</b></td><td>12.266865</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.267649,55.648279,0</coordinates>
+    <coordinates>12.266865,55.648206,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4936,12 +5671,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 33</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648317</td></tr><tr><td><b>GPS Øst</b></td><td>12.268044</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 33</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648243</td></tr><tr><td><b>GPS Øst</b></td><td>12.267256</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.268044,55.648317,0</coordinates>
+    <coordinates>12.267256,55.648243,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4951,12 +5686,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 34</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648355</td></tr><tr><td><b>GPS Øst</b></td><td>12.268432</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 34</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648279</td></tr><tr><td><b>GPS Øst</b></td><td>12.267649</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.268432,55.648355,0</coordinates>
+    <coordinates>12.267649,55.648279,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4966,12 +5701,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 35</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648394</td></tr><tr><td><b>GPS Øst</b></td><td>12.268826</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 35</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648434</td></tr><tr><td><b>GPS Øst</b></td><td>12.269213</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.268826,55.648394,0</coordinates>
+    <coordinates>12.269213,55.648434,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4981,12 +5716,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 36</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64857</td></tr><tr><td><b>GPS Øst</b></td><td>12.270376</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 36</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648473</td></tr><tr><td><b>GPS Øst</b></td><td>12.269612</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.270376,55.64857,0</coordinates>
+    <coordinates>12.269612,55.648473,0</coordinates>
   </Point>
 </Placemark>
 
@@ -4996,12 +5731,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 37</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648611</td></tr><tr><td><b>GPS Øst</b></td><td>12.270768</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 37</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648518</td></tr><tr><td><b>GPS Øst</b></td><td>12.270008</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.270768,55.648611,0</coordinates>
+    <coordinates>12.270008,55.648518,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5011,12 +5746,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 38</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64866</td></tr><tr><td><b>GPS Øst</b></td><td>12.271164</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 38</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648317</td></tr><tr><td><b>GPS Øst</b></td><td>12.268044</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.271164,55.64866,0</coordinates>
+    <coordinates>12.268044,55.648317,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5026,12 +5761,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 39</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648711</td></tr><tr><td><b>GPS Øst</b></td><td>12.271547</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 39</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648355</td></tr><tr><td><b>GPS Øst</b></td><td>12.268432</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.271547,55.648711,0</coordinates>
+    <coordinates>12.268432,55.648355,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5041,12 +5776,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 40</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64876</td></tr><tr><td><b>GPS Øst</b></td><td>12.271931</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 40</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648394</td></tr><tr><td><b>GPS Øst</b></td><td>12.268826</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.271931,55.64876,0</coordinates>
+    <coordinates>12.268826,55.648394,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5056,12 +5791,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 41</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648813</td></tr><tr><td><b>GPS Øst</b></td><td>12.27232</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 41</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64857</td></tr><tr><td><b>GPS Øst</b></td><td>12.270376</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.27232,55.648813,0</coordinates>
+    <coordinates>12.270376,55.64857,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5071,12 +5806,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 42</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648863</td></tr><tr><td><b>GPS Øst</b></td><td>12.272708</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 42</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648611</td></tr><tr><td><b>GPS Øst</b></td><td>12.270768</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.272708,55.648863,0</coordinates>
+    <coordinates>12.270768,55.648611,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5086,12 +5821,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 43</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648914</td></tr><tr><td><b>GPS Øst</b></td><td>12.273095</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 43</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64866</td></tr><tr><td><b>GPS Øst</b></td><td>12.271164</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.273095,55.648914,0</coordinates>
+    <coordinates>12.271164,55.64866,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5101,12 +5836,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 44</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648967</td></tr><tr><td><b>GPS Øst</b></td><td>12.273478</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 44</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648711</td></tr><tr><td><b>GPS Øst</b></td><td>12.271547</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.273478,55.648967,0</coordinates>
+    <coordinates>12.271547,55.648711,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5116,12 +5851,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 45</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649018</td></tr><tr><td><b>GPS Øst</b></td><td>12.273863</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 45</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.64876</td></tr><tr><td><b>GPS Øst</b></td><td>12.271931</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.273863,55.649018,0</coordinates>
+    <coordinates>12.271931,55.64876,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5131,12 +5866,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 46</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649073</td></tr><tr><td><b>GPS Øst</b></td><td>12.274249</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 46</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648813</td></tr><tr><td><b>GPS Øst</b></td><td>12.27232</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.274249,55.649073,0</coordinates>
+    <coordinates>12.27232,55.648813,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5146,12 +5881,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 47</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649127</td></tr><tr><td><b>GPS Øst</b></td><td>12.274633</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 47</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648863</td></tr><tr><td><b>GPS Øst</b></td><td>12.272708</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.274633,55.649127,0</coordinates>
+    <coordinates>12.272708,55.648863,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5161,12 +5896,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 48</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649185</td></tr><tr><td><b>GPS Øst</b></td><td>12.275031</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 48</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648914</td></tr><tr><td><b>GPS Øst</b></td><td>12.273095</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.275031,55.649185,0</coordinates>
+    <coordinates>12.273095,55.648914,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5176,12 +5911,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 49</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649242</td></tr><tr><td><b>GPS Øst</b></td><td>12.275416</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 49</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.648967</td></tr><tr><td><b>GPS Øst</b></td><td>12.273478</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.275416,55.649242,0</coordinates>
+    <coordinates>12.273478,55.648967,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5191,12 +5926,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 50</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649294</td></tr><tr><td><b>GPS Øst</b></td><td>12.275792</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 50</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649018</td></tr><tr><td><b>GPS Øst</b></td><td>12.273863</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.275792,55.649294,0</coordinates>
+    <coordinates>12.273863,55.649018,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5206,12 +5941,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 51</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649351</td></tr><tr><td><b>GPS Øst</b></td><td>12.276195</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 51</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649073</td></tr><tr><td><b>GPS Øst</b></td><td>12.274249</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.276195,55.649351,0</coordinates>
+    <coordinates>12.274249,55.649073,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5221,12 +5956,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 52</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649398</td></tr><tr><td><b>GPS Øst</b></td><td>12.27658</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 52</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649127</td></tr><tr><td><b>GPS Øst</b></td><td>12.274633</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.27658,55.649398,0</coordinates>
+    <coordinates>12.274633,55.649127,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5236,12 +5971,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 53</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649446</td></tr><tr><td><b>GPS Øst</b></td><td>12.27697</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 53</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649185</td></tr><tr><td><b>GPS Øst</b></td><td>12.275031</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.27697,55.649446,0</coordinates>
+    <coordinates>12.275031,55.649185,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5251,12 +5986,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 54</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649491</td></tr><tr><td><b>GPS Øst</b></td><td>12.277363</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 54</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649242</td></tr><tr><td><b>GPS Øst</b></td><td>12.275416</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.277363,55.649491,0</coordinates>
+    <coordinates>12.275416,55.649242,0</coordinates>
   </Point>
 </Placemark>
 
@@ -5266,7 +6001,82 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 55</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649534</td></tr><tr><td><b>GPS Øst</b></td><td>12.277751</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 55</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649294</td></tr><tr><td><b>GPS Øst</b></td><td>12.275792</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.275792,55.649294,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast 56</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 56</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649351</td></tr><tr><td><b>GPS Øst</b></td><td>12.276195</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.276195,55.649351,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast 57</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 57</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649398</td></tr><tr><td><b>GPS Øst</b></td><td>12.27658</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.27658,55.649398,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast 58</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 58</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649446</td></tr><tr><td><b>GPS Øst</b></td><td>12.27697</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.27697,55.649446,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast 59</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 59</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649491</td></tr><tr><td><b>GPS Øst</b></td><td>12.277363</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.277363,55.649491,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lav mast 60</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Høje Taastrup stisystem</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Lav mast 60</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.649534</td></tr><tr><td><b>GPS Øst</b></td><td>12.277751</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.019.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>Spor 0</td></tr>
 </table>
 ]]>
 </description>
