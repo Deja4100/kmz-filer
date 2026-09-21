@@ -1591,7 +1591,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde syd</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Under KMP</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.637725</td></tr><tr><td><b>GPS Øst</b></td><td>12.084882</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2.3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde syd</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Under KMP</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637725</td></tr><tr><td><b>GPS Øst</b></td><td>12.084882</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.G2.3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -2302,6 +2302,66 @@
 </description>
   <Point>
     <coordinates>12.078313,55.634594,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Pullert</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634850°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079184°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.079184°, 55.634850°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Pullert</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635076°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079676°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.079676°, 55.635076°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Pullert</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635498°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080668°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 12.080668°, 55.635498°,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hegnsmonteret</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>PL-L 36W/840/4P</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>Armaturer</b></td><td>8</td></tr><tr><td><b>GPS Nord</b></td><td>55.634506</td></tr><tr><td><b>GPS Øst</b></td><td>12.078732</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.078732,55.634506,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3671,7 +3731,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 245</name>
+  <name>Item 250</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3821,7 +3881,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 255</name>
+  <name>Item 260</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3836,7 +3896,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 256</name>
+  <name>Item 261</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3851,7 +3911,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 257</name>
+  <name>Item 262</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3866,7 +3926,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 258</name>
+  <name>Item 263</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3881,7 +3941,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 259</name>
+  <name>Item 264</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -4396,7 +4456,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639896</td></tr><tr><td><b>GPS Øst</b></td><td>12.248399</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639896</td></tr><tr><td><b>GPS Øst</b></td><td>12.248399</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4411,7 +4471,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639564</td></tr><tr><td><b>GPS Øst</b></td><td>12.248226</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639564</td></tr><tr><td><b>GPS Øst</b></td><td>12.248226</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4426,7 +4486,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639223</td></tr><tr><td><b>GPS Øst</b></td><td>12.247985</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639223</td></tr><tr><td><b>GPS Øst</b></td><td>12.247985</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4441,7 +4501,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638788</td></tr><tr><td><b>GPS Øst</b></td><td>12.248187</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638788</td></tr><tr><td><b>GPS Øst</b></td><td>12.248187</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4456,7 +4516,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638463</td></tr><tr><td><b>GPS Øst</b></td><td>12.248173</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638463</td></tr><tr><td><b>GPS Øst</b></td><td>12.248173</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4471,7 +4531,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638088</td></tr><tr><td><b>GPS Øst</b></td><td>12.248151</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638088</td></tr><tr><td><b>GPS Øst</b></td><td>12.248151</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4486,7 +4546,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637707</td></tr><tr><td><b>GPS Øst</b></td><td>12.248149</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637707</td></tr><tr><td><b>GPS Øst</b></td><td>12.248149</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4501,7 +4561,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637335</td></tr><tr><td><b>GPS Øst</b></td><td>12.248129</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637335</td></tr><tr><td><b>GPS Øst</b></td><td>12.248129</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4516,7 +4576,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636952</td></tr><tr><td><b>GPS Øst</b></td><td>12.248115</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636952</td></tr><tr><td><b>GPS Øst</b></td><td>12.248115</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4531,7 +4591,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636582</td></tr><tr><td><b>GPS Øst</b></td><td>12.248098</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636582</td></tr><tr><td><b>GPS Øst</b></td><td>12.248098</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4546,7 +4606,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636199</td></tr><tr><td><b>GPS Øst</b></td><td>12.248078</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636199</td></tr><tr><td><b>GPS Øst</b></td><td>12.248078</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4561,7 +4621,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.635831</td></tr><tr><td><b>GPS Øst</b></td><td>12.248064</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.635831</td></tr><tr><td><b>GPS Øst</b></td><td>12.248064</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4571,12 +4631,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635891</td></tr><tr><td><b>GPS Øst</b></td><td>12.247612</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635891</td></tr><tr><td><b>GPS Øst</b></td><td>12.247612</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>204</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4586,12 +4646,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.636238</td></tr><tr><td><b>GPS Øst</b></td><td>12.247619</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.636238</td></tr><tr><td><b>GPS Øst</b></td><td>12.247619</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4601,12 +4661,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 3</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636572</td></tr><tr><td><b>GPS Øst</b></td><td>12.247572</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636572</td></tr><tr><td><b>GPS Øst</b></td><td>12.247572</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4616,12 +4676,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 4</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636949</td></tr><tr><td><b>GPS Øst</b></td><td>12.247584</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636949</td></tr><tr><td><b>GPS Øst</b></td><td>12.247584</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4631,12 +4691,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 5</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637251</td></tr><tr><td><b>GPS Øst</b></td><td>12.247615</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637251</td></tr><tr><td><b>GPS Øst</b></td><td>12.247615</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205-206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4646,12 +4706,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 6</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637584</td></tr><tr><td><b>GPS Øst</b></td><td>12.247632</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637584</td></tr><tr><td><b>GPS Øst</b></td><td>12.247632</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205-206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4661,12 +4721,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 7</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637916</td></tr><tr><td><b>GPS Øst</b></td><td>12.247647</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.637916</td></tr><tr><td><b>GPS Øst</b></td><td>12.247647</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205-206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4676,12 +4736,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 8</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.638248</td></tr><tr><td><b>GPS Øst</b></td><td>12.247661</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>Armaturer</b></td><td>3</td></tr><tr><td><b>GPS Nord</b></td><td>55.638248</td></tr><tr><td><b>GPS Øst</b></td><td>12.247661</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>205-206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4691,12 +4751,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 9</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638556</td></tr><tr><td><b>GPS Øst</b></td><td>12.247829</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638556</td></tr><tr><td><b>GPS Øst</b></td><td>12.247829</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>204</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4706,12 +4766,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 10</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.638565</td></tr><tr><td><b>GPS Øst</b></td><td>12.247596</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.638565</td></tr><tr><td><b>GPS Øst</b></td><td>12.247596</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4721,12 +4781,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 11</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638799</td></tr><tr><td><b>GPS Øst</b></td><td>12.247634</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638799</td></tr><tr><td><b>GPS Øst</b></td><td>12.247634</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4736,12 +4796,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 12</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63905</td></tr><tr><td><b>GPS Øst</b></td><td>12.247695</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63905</td></tr><tr><td><b>GPS Øst</b></td><td>12.247695</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4751,12 +4811,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 13</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63933</td></tr><tr><td><b>GPS Øst</b></td><td>12.247753</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63933</td></tr><tr><td><b>GPS Øst</b></td><td>12.247753</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4766,12 +4826,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 14</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639609</td></tr><tr><td><b>GPS Øst</b></td><td>12.247847</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639609</td></tr><tr><td><b>GPS Øst</b></td><td>12.247847</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4781,12 +4841,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 15</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640005</td></tr><tr><td><b>GPS Øst</b></td><td>12.248133</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 15</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640005</td></tr><tr><td><b>GPS Øst</b></td><td>12.248133</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4796,12 +4856,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 16</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.642029</td></tr><tr><td><b>GPS Øst</b></td><td>12.248057</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 16</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.642029</td></tr><tr><td><b>GPS Øst</b></td><td>12.248057</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4811,12 +4871,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 17</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.641636</td></tr><tr><td><b>GPS Øst</b></td><td>12.248028</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 17</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.641636</td></tr><tr><td><b>GPS Øst</b></td><td>12.248028</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4826,12 +4886,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 18</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.641251</td></tr><tr><td><b>GPS Øst</b></td><td>12.24812</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 18</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.641251</td></tr><tr><td><b>GPS Øst</b></td><td>12.24812</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>206</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4841,12 +4901,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 19</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640939</td></tr><tr><td><b>GPS Øst</b></td><td>12.24826</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 19</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640939</td></tr><tr><td><b>GPS Øst</b></td><td>12.24826</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>203</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4856,12 +4916,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 20</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640627</td></tr><tr><td><b>GPS Øst</b></td><td>12.248341</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 20</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640627</td></tr><tr><td><b>GPS Øst</b></td><td>12.248341</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>203</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4871,12 +4931,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 21</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640317</td></tr><tr><td><b>GPS Øst</b></td><td>12.248421</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 21</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640317</td></tr><tr><td><b>GPS Øst</b></td><td>12.248421</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>203</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4886,12 +4946,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 22</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640064</td></tr><tr><td><b>GPS Øst</b></td><td>12.248434</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 22</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.640064</td></tr><tr><td><b>GPS Øst</b></td><td>12.248434</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>203</td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
@@ -4901,12 +4961,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.640348</td></tr><tr><td><b>GPS Øst</b></td><td>12.248705</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.640348</td></tr><tr><td><b>GPS Øst</b></td><td>12.248705</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4916,12 +4976,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639967</td></tr><tr><td><b>GPS Øst</b></td><td>12.248732</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639967</td></tr><tr><td><b>GPS Øst</b></td><td>12.248732</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4931,12 +4991,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 3</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.63958</td></tr><tr><td><b>GPS Øst</b></td><td>12.248717</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.63958</td></tr><tr><td><b>GPS Øst</b></td><td>12.248717</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4946,12 +5006,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 4</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639297</td></tr><tr><td><b>GPS Øst</b></td><td>12.248715</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639297</td></tr><tr><td><b>GPS Øst</b></td><td>12.248715</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4961,12 +5021,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 5</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638965</td></tr><tr><td><b>GPS Øst</b></td><td>12.248699</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638965</td></tr><tr><td><b>GPS Øst</b></td><td>12.248699</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4976,12 +5036,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 6</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638632</td></tr><tr><td><b>GPS Øst</b></td><td>12.248679</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638632</td></tr><tr><td><b>GPS Øst</b></td><td>12.248679</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -4991,12 +5051,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 7</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638302</td></tr><tr><td><b>GPS Øst</b></td><td>12.248665</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638302</td></tr><tr><td><b>GPS Øst</b></td><td>12.248665</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5006,12 +5066,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 8</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637969</td></tr><tr><td><b>GPS Øst</b></td><td>12.248647</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637969</td></tr><tr><td><b>GPS Øst</b></td><td>12.248647</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5021,12 +5081,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 9</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63764</td></tr><tr><td><b>GPS Øst</b></td><td>12.248629</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.63764</td></tr><tr><td><b>GPS Øst</b></td><td>12.248629</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5036,12 +5096,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 10</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637306</td></tr><tr><td><b>GPS Øst</b></td><td>12.248616</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637306</td></tr><tr><td><b>GPS Øst</b></td><td>12.248616</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5051,12 +5111,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 11</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636978</td></tr><tr><td><b>GPS Øst</b></td><td>12.248604</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636978</td></tr><tr><td><b>GPS Øst</b></td><td>12.248604</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5066,12 +5126,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 12</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636647</td></tr><tr><td><b>GPS Øst</b></td><td>12.248589</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636647</td></tr><tr><td><b>GPS Øst</b></td><td>12.248589</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5081,12 +5141,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 13</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636313</td></tr><tr><td><b>GPS Øst</b></td><td>12.248573</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 13</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636313</td></tr><tr><td><b>GPS Øst</b></td><td>12.248573</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5096,12 +5156,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 14</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635982</td></tr><tr><td><b>GPS Øst</b></td><td>12.248557</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635982</td></tr><tr><td><b>GPS Øst</b></td><td>12.248557</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5111,12 +5171,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Mast 15</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635652</td></tr><tr><td><b>GPS Øst</b></td><td>12.248542</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Ved spor 202</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Mast 15</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635652</td></tr><tr><td><b>GPS Øst</b></td><td>12.248542</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>202</td></tr><tr><td><b>Note</b></td><td>Ved spor</td></tr>
 </table>
 ]]>
 </description>
@@ -5131,7 +5191,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635298</td></tr><tr><td><b>GPS Øst</b></td><td>12.248773</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635298</td></tr><tr><td><b>GPS Øst</b></td><td>12.248773</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -5146,7 +5206,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635164</td></tr><tr><td><b>GPS Øst</b></td><td>12.249291</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635164</td></tr><tr><td><b>GPS Øst</b></td><td>12.249291</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -5161,7 +5221,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634899</td></tr><tr><td><b>GPS Øst</b></td><td>12.249268</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634899</td></tr><tr><td><b>GPS Øst</b></td><td>12.249268</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -5176,7 +5236,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634608</td></tr><tr><td><b>GPS Øst</b></td><td>12.249249</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634608</td></tr><tr><td><b>GPS Øst</b></td><td>12.249249</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
