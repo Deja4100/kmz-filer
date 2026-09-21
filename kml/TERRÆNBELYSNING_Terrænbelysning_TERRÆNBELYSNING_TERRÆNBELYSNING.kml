@@ -2306,17 +2306,167 @@
 </Placemark>
 
 <Placemark>
-  <name>Pullert</name>
+  <name>Mast 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.634850°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079184°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635542</td></tr><tr><td><b>GPS Øst</b></td><td>12.081535</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079184°, 55.634850°,0</coordinates>
+    <coordinates>12.081535,55.635542,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.63549</td></tr><tr><td><b>GPS Øst</b></td><td>12.081599</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081599,55.63549,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635397</td></tr><tr><td><b>GPS Øst</b></td><td>12.081371</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081371,55.635397,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635398</td></tr><tr><td><b>GPS Øst</b></td><td>12.081371</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.081371,55.635398,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635076</td></tr><tr><td><b>GPS Øst</b></td><td>12.080804</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.080804,55.635076,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634942</td></tr><tr><td><b>GPS Øst</b></td><td>12.080584</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.080584,55.634942,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634803</td></tr><tr><td><b>GPS Øst</b></td><td>12.08038</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.08038,55.634803,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 9</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634649</td></tr><tr><td><b>GPS Øst</b></td><td>12.080193</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.080193,55.634649,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 10</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634314</td></tr><tr><td><b>GPS Øst</b></td><td>12.079494</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.079494,55.634314,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 11</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634456</td></tr><tr><td><b>GPS Øst</b></td><td>12.079192</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.079192,55.634456,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 12</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Grand DeVille</td></tr><tr><td><b>Ophæng</b></td><td>Mast 12</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.63454</td></tr><tr><td><b>GPS Øst</b></td><td>12.079338</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.079338,55.63454,0</coordinates>
   </Point>
 </Placemark>
 
@@ -2326,12 +2476,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635076°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.079676°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.63485</td></tr><tr><td><b>GPS Øst</b></td><td>12.079184</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.079676°, 55.635076°,0</coordinates>
+    <coordinates>12.079184,55.63485,0</coordinates>
   </Point>
 </Placemark>
 
@@ -2341,12 +2491,27 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 55.635498°</td></tr><tr><td><b>GPS Øst</b></td><td> 12.080668°</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635076</td></tr><tr><td><b>GPS Øst</b></td><td>12.079676</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 12.080668°, 55.635498°,0</coordinates>
+    <coordinates>12.079676,55.635076,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Pullert</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td></td></tr><tr><td><b>Ophæng</b></td><td>Pullert</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635498</td></tr><tr><td><b>GPS Øst</b></td><td>12.080668</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.080668,55.635498,0</coordinates>
   </Point>
 </Placemark>
 
@@ -3731,7 +3896,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 250</name>
+  <name>Item 260</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3881,7 +4046,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 260</name>
+  <name>Item 270</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3896,7 +4061,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 261</name>
+  <name>Item 271</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3911,7 +4076,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 262</name>
+  <name>Item 272</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3926,7 +4091,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 263</name>
+  <name>Item 273</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -3941,7 +4106,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 264</name>
+  <name>Item 274</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
