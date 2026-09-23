@@ -2231,6 +2231,21 @@
 </Placemark>
 
 <Placemark>
+  <name>Hegnsmonteret</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Roskilde maskinstation</td></tr><tr><td><b>Lampetype</b></td><td>Skotlamper</td></tr><tr><td><b>Ophæng</b></td><td>Hegnsmonteret</td></tr><tr><td><b>Armaturer</b></td><td>9</td></tr><tr><td><b>GPS Nord</b></td><td>55.635748</td></tr><tr><td><b>GPS Øst</b></td><td>12.08163</td></tr><tr><td><b>Forsyningstavle</b></td><td>013.000.F</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Ved parkering nær barakker</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.08163,55.635748,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>Mast 1</name>
   <styleUrl>#s</styleUrl>
   <description>
