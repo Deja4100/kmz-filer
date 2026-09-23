@@ -406,6 +406,21 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Køge øst</td></tr><tr><td><b>Lampetype</b></td><td>Phillips Københavner 10m mast</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.463473</td></tr><tr><td><b>GPS Øst</b></td><td>12.187589</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>63</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.187589,55.463473,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
 <tr><td><b>Station</b></td><td>Køge øst</td></tr><tr><td><b>Lampetype</b></td><td>Phillips Københavner 10m mast</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.462011</td></tr><tr><td><b>GPS Øst</b></td><td>12.189032</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>81</td></tr><tr><td><b>Note</b></td><td>Mast syd for Movia bushal</td></tr>
 </table>
 ]]>
