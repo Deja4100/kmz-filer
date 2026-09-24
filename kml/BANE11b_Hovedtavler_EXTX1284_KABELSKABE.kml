@@ -311,32 +311,32 @@
 </Placemark>
 
 <Placemark>
-  <name>131167</name>
+  <name>131008</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>131167</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved Føtex</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.639204</td></tr>
+<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>131008</td></tr><tr><td><b>Ledningsdimension</b></td><td>2x4x240 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer under jorden ved Hestetorvet</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.64018</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.088646,55.639204,0</coordinates>
+    <coordinates>12.088465,55.64018,0</coordinates>
   </Point>
 </Placemark>
 
 <Placemark>
-  <name>131167</name>
+  <name>131008</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>131167</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer ved Føtex</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.638433</td></tr>
+<tr><td><b>Tavlefunktion</b></td><td></td></tr><tr><td><b>Kabelskab</b></td><td>131008</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Transformer under jorden ved Hestetorvet</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.64018</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.086628,55.638433,0</coordinates>
+    <coordinates>12.088465,55.64018,0</coordinates>
   </Point>
 </Placemark>
 
