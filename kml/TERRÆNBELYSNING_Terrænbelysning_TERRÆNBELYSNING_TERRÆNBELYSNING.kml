@@ -701,81 +701,6 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast 5</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233957</td></tr><tr><td><b>GPS Øst</b></td><td>11.765633</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.765633,55.233957,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 4</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233819</td></tr><tr><td><b>GPS Øst</b></td><td>11.76587</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.76587,55.233819,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 3</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233702</td></tr><tr><td><b>GPS Øst</b></td><td>11.76607</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.76607,55.233702,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 2</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233601</td></tr><tr><td><b>GPS Øst</b></td><td>11.766246</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766246,55.233601,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 1</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233504</td></tr><tr><td><b>GPS Øst</b></td><td>11.766408</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766408,55.233504,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
   <name>Gittermast 3</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -817,171 +742,6 @@
 </description>
   <Point>
     <coordinates>11.766714,55.232921,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 11</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233787</td></tr><tr><td><b>GPS Øst</b></td><td>11.765524</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.765524,55.233787,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 10</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233639</td></tr><tr><td><b>GPS Øst</b></td><td>11.765731</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.765731,55.233639,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 9</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233494</td></tr><tr><td><b>GPS Øst</b></td><td>11.765924</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.765924,55.233494,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 8</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.23335</td></tr><tr><td><b>GPS Øst</b></td><td>11.766104</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766104,55.23335,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 7</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233199</td></tr><tr><td><b>GPS Øst</b></td><td>11.766277</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766277,55.233199,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 6</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233048</td></tr><tr><td><b>GPS Øst</b></td><td>11.766443</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766443,55.233048,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 5</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232891</td></tr><tr><td><b>GPS Øst</b></td><td>11.766608</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766608,55.232891,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 4</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.23274</td></tr><tr><td><b>GPS Øst</b></td><td>11.766658</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766658,55.23274,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 3</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232734</td></tr><tr><td><b>GPS Øst</b></td><td>11.766773</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766773,55.232734,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 2</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232558</td></tr><tr><td><b>GPS Øst</b></td><td>11.766877</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766877,55.232558,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Mast 1</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232577</td></tr><tr><td><b>GPS Øst</b></td><td>11.766944</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.766944,55.232577,0</coordinates>
   </Point>
 </Placemark>
 
@@ -1166,12 +926,252 @@
 </Placemark>
 
 <Placemark>
+  <name>Mast 5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233957</td></tr><tr><td><b>GPS Øst</b></td><td>11.765633</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765633,55.233957,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233819</td></tr><tr><td><b>GPS Øst</b></td><td>11.76587</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76587,55.233819,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233702</td></tr><tr><td><b>GPS Øst</b></td><td>11.76607</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.76607,55.233702,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233601</td></tr><tr><td><b>GPS Øst</b></td><td>11.766246</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766246,55.233601,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Iridium?</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233504</td></tr><tr><td><b>GPS Øst</b></td><td>11.766408</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>22</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766408,55.233504,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 11</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 11</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233787</td></tr><tr><td><b>GPS Øst</b></td><td>11.765524</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765524,55.233787,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 10</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 10</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233639</td></tr><tr><td><b>GPS Øst</b></td><td>11.765731</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765731,55.233639,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 9</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 9</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233494</td></tr><tr><td><b>GPS Øst</b></td><td>11.765924</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.765924,55.233494,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 8</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 8</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.23335</td></tr><tr><td><b>GPS Øst</b></td><td>11.766104</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766104,55.23335,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 7</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 7</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233199</td></tr><tr><td><b>GPS Øst</b></td><td>11.766277</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766277,55.233199,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 6</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 6</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.233048</td></tr><tr><td><b>GPS Øst</b></td><td>11.766443</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766443,55.233048,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 5</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 5</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232891</td></tr><tr><td><b>GPS Øst</b></td><td>11.766608</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766608,55.232891,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 4</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.23274</td></tr><tr><td><b>GPS Øst</b></td><td>11.766658</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766658,55.23274,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 3</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232734</td></tr><tr><td><b>GPS Øst</b></td><td>11.766773</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766773,55.232734,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 2</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232558</td></tr><tr><td><b>GPS Øst</b></td><td>11.766877</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766877,55.232558,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Mast 1</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Næstved Station</td></tr><tr><td><b>Lampetype</b></td><td>Signify BVP434 LED</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.232577</td></tr><tr><td><b>GPS Øst</b></td><td>11.766944</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.A5</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>41</td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.766944,55.232577,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>Gittermast 4</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.229852</td></tr><tr><td><b>GPS Øst</b></td><td>11.769265</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.229852</td></tr><tr><td><b>GPS Øst</b></td><td>11.769265</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr>
 </table>
 ]]>
 </description>
@@ -1186,7 +1186,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230143</td></tr><tr><td><b>GPS Øst</b></td><td>11.769056</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230143</td></tr><tr><td><b>GPS Øst</b></td><td>11.769056</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>6</td></tr>
 </table>
 ]]>
 </description>
@@ -1201,7 +1201,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230213</td></tr><tr><td><b>GPS Øst</b></td><td>11.768223</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230213</td></tr><tr><td><b>GPS Øst</b></td><td>11.768223</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>91</td></tr>
 </table>
 ]]>
 </description>
@@ -1216,7 +1216,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230355</td></tr><tr><td><b>GPS Øst</b></td><td>11.768416</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.230355</td></tr><tr><td><b>GPS Øst</b></td><td>11.768416</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr>
 </table>
 ]]>
 </description>
@@ -1231,7 +1231,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.230876</td></tr><tr><td><b>GPS Øst</b></td><td>11.767668</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>2</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.230876</td></tr><tr><td><b>GPS Øst</b></td><td>11.767668</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>1</td></tr>
 </table>
 ]]>
 </description>
@@ -1246,7 +1246,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.231025</td></tr><tr><td><b>GPS Øst</b></td><td>11.768137</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>4</td></tr>
+<tr><td><b>Station</b></td><td>Næstved Station (K tavlen)</td></tr><tr><td><b>Lampetype</b></td><td>Iridium</td></tr><tr><td><b>Ophæng</b></td><td>Vaskemast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.231025</td></tr><tr><td><b>GPS Øst</b></td><td>11.768137</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>023.000.K</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>5</td></tr>
 </table>
 ]]>
 </description>
