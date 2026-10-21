@@ -746,6 +746,36 @@
 </Placemark>
 
 <Placemark>
+  <name>Item 50</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Teknisk plads</b></td><td>23000</td></tr><tr><td><b>Station</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kælder</td></tr><tr><td><b>Bygningsnummer</b></td><td>Næ 001</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Producent</b></td><td></td></tr><tr><td><b>Product Serienr.</b></td><td></td></tr><tr><td><b>Konstrukt. måned</b></td><td></td></tr><tr><td><b>Konstrukt. år</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.231048000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.767239000</td></tr><tr><td><b>Type</b></td><td></td></tr><tr><td><b>Størrelse (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.767239000, 55.231048000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Item 51</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Bane</b></td><td>21</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Teknisk plads</b></td><td>23000</td></tr><tr><td><b>Station</b></td><td>Næstved</td></tr><tr><td><b>Forkortelse</b></td><td>Næ</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Kælder ved UPS</td></tr><tr><td><b>Bygningsnummer</b></td><td>Næ 004</td></tr><tr><td><b>Idriftsætt.dato</b></td><td></td></tr><tr><td><b>Producent</b></td><td></td></tr><tr><td><b>Product Serienr.</b></td><td></td></tr><tr><td><b>Konstrukt. måned</b></td><td></td></tr><tr><td><b>Konstrukt. år</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td> 55.231681000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.766668000</td></tr><tr><td><b>Type</b></td><td></td></tr><tr><td><b>Størrelse (kg)</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates> 11.766668000, 55.231681000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
   <name>10803616</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -976,7 +1006,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Teknisk plads</b></td><td>28004</td></tr><tr><td><b>Station</b></td><td>Nykøbing Falster - Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nf - Nfv</td></tr><tr><td><b>Equipment</b></td><td>10803620</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Tavlerum, Frederik IX bro</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 044</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486874</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>118.12</td></tr><tr><td><b>GPS Nord</b></td><td> 54.759062000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.866278000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr>
+<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Teknisk plads</b></td><td>28004</td></tr><tr><td><b>Station</b></td><td>Nykøbing Falster - Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nf - Nfv</td></tr><tr><td><b>Equipment</b></td><td>10803620</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Trappe, Frederik IX bro</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 044</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Aug 10 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td>Falck</td></tr><tr><td><b>Product Serienr.</b></td><td>486874</td></tr><tr><td><b>Konstrukt. måned</b></td><td>1</td></tr><tr><td><b>Konstrukt. år</b></td><td>2022</td></tr><tr><td><b>Kilometrering</b></td><td>118.12</td></tr><tr><td><b>GPS Nord</b></td><td> 54.759062000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.866278000</td></tr><tr><td><b>Type</b></td><td>CO2</td></tr><tr><td><b>Størrelse (kg)</b></td><td>5kg</td></tr>
 </table>
 ]]>
 </description>
@@ -1027,21 +1057,6 @@
 </description>
   <Point>
     <coordinates> 11.423442000, 54.678598000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Item 69</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Bane</b></td><td>22</td></tr><tr><td><b>TIB</b></td><td>2</td></tr><tr><td><b>Teknisk plads</b></td><td>28044</td></tr><tr><td><b>Station</b></td><td>Nykøbing Falster - Nykøbing Falster Vest</td></tr><tr><td><b>Forkortelse</b></td><td>Nf - Nfv</td></tr><tr><td><b>Equipment</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>UPS rum, Frederik IX bro</td></tr><tr><td><b>Bygningsnummer</b></td><td>Nf 044</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Thu Aug 11 2022 00:00:00 GMT+0200 (Central European Summer Time)</td></tr><tr><td><b>Producent</b></td><td></td></tr><tr><td><b>Product Serienr.</b></td><td></td></tr><tr><td><b>Konstrukt. måned</b></td><td></td></tr><tr><td><b>Konstrukt. år</b></td><td></td></tr><tr><td><b>Kilometrering</b></td><td>107.73</td></tr><tr><td><b>GPS Nord</b></td><td> 54.759072000</td></tr><tr><td><b>GPS Øst</b></td><td> 11.866346000</td></tr><tr><td><b>Type</b></td><td></td></tr><tr><td><b>Størrelse (kg)</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates> 11.866346000, 54.759072000,0</coordinates>
   </Point>
 </Placemark>
 
