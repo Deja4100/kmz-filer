@@ -56,12 +56,12 @@
 </Placemark>
 
 <Placemark>
-  <name>3459-14</name>
+  <name>4359-14</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>014.034.D</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>3459-14</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Bag autoværn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.57345</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.035155</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>014.034.D</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>4359-14</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Bag autoværn</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.57345</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.035155</td></tr>
 </table>
 ]]>
 </description>
@@ -131,12 +131,12 @@
 </Placemark>
 
 <Placemark>
-  <name>386-4</name>
+  <name>386-1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>014.044.E</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>386-4</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x25 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Møllevej 18</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.535145</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.003361</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>014.044.E</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>386-1</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x25 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Møllevej 18</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.535145</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.003361</td></tr>
 </table>
 ]]>
 </description>
@@ -311,12 +311,12 @@
 </Placemark>
 
 <Placemark>
-  <name>107551-501</name>
+  <name>107551</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>015.000.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>107551-501</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>Ikke oplyst på ISB</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved transfomer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.436797</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.789703</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>015.000.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>107551</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x240AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Godsbanevej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.436797</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.789703</td></tr>
 </table>
 ]]>
 </description>
