@@ -311,12 +311,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 21</name>
+  <name>-</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>016.093.E</td></tr><tr><td><b>Tilslutningspunkt</b></td><td></td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Muligvis transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.407369</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.340938</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>016.093.E</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>-</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Muligvis transformer</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.407369</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.340938</td></tr>
 </table>
 ]]>
 </description>
@@ -341,12 +341,12 @@
 </Placemark>
 
 <Placemark>
-  <name>KS Ndr. Stationsvej</name>
+  <name>Ndr. Stationsvej</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>016.093.G</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>KS Ndr. Stationsvej</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Nordre Stationsvej 10D</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.4084</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.349987</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>016.093.G</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>Ndr. Stationsvej</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>-</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Nordre Stationsvej 10D</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.4084</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.349987</td></tr>
 </table>
 ]]>
 </description>
