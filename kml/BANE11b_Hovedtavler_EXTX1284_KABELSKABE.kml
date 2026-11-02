@@ -196,12 +196,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>012.025.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>2602-31</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Hedevolden 2</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.648327</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.202562</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>012.025.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>2602-31</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Hedevolden 2</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.649447</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.202377</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.202562,55.648327,0</coordinates>
+    <coordinates>12.202377,55.649447,0</coordinates>
   </Point>
 </Placemark>
 
