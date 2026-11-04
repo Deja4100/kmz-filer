@@ -656,17 +656,17 @@
 </Placemark>
 
 <Placemark>
-  <name>102408</name>
+  <name>102408-112</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>026.007.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102408</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Ravnsevej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.89784</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885933</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>026.007.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102408-112</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Stationspladsen</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.896933</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885344</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>11.885933,54.89784,0</coordinates>
+    <coordinates>11.885344,54.896933,0</coordinates>
   </Point>
 </Placemark>
 
@@ -736,7 +736,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>026.011.F</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102988-202</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Nørregade 19</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.858608</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886709</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>026.011.F</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102988-202</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Nørregade 19</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.858608</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886709</td></tr>
 </table>
 ]]>
 </description>
@@ -751,7 +751,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>026.015.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>130031-104</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Stubberupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.82161</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886247</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>026.015.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>130031-104</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Stubberupvej 57</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.82161</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.886247</td></tr>
 </table>
 ]]>
 </description>
@@ -766,7 +766,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>026.018.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>130252-102</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved indkørsel</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.784321</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885274</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>026.018.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>130252-102</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Åhaven 208</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.784321</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.885274</td></tr>
 </table>
 ]]>
 </description>
@@ -781,7 +781,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>027.000.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108547</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x185 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>027.000.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108547</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x185 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
 </table>
 ]]>
 </description>
@@ -796,7 +796,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>027.000.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108536-506</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Søvej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.766284</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.878357</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>027.000.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108536-506</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x95 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Søvej 79</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.766284</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.878357</td></tr>
 </table>
 ]]>
 </description>
@@ -826,7 +826,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>027.000.D</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108547</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>027.000.D</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108547</td></tr><tr><td><b>Tilslutningstype</b></td><td>Transformer</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x150 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Vesterskovvej</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>54.767728</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>11.877673</td></tr>
 </table>
 ]]>
 </description>
