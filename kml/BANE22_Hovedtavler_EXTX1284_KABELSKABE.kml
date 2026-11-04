@@ -16,7 +16,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>028.002.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108527-206</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved bro, vest</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.758014000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.862154000</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>028.002.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108527-206</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Autoværn, vest for bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.758014000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.862154000</td></tr>
 </table>
 ]]>
 </description>
@@ -46,7 +46,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>028.004.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108527-207</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved bro, vest</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.758289000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.863408000</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>028.004.A</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108527-207</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Autoværn, vest for bro</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.758289000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.863408000</td></tr>
 </table>
 ]]>
 </description>
@@ -106,7 +106,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>028.004.H</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108272-201</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x70 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved Birketvej 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.736659000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.732378000</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>028.004.H</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>108272-201</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x70 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Birketvej 1</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.736659000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.732378000</td></tr>
 </table>
 ]]>
 </description>
@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>028.019.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102099-105</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x40 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.710442000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.618388000</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>028.019.B</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>102099-105</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x10 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Ved tavle</td></tr><tr><td><b>GPS Nord (KS)</b></td><td> 54.710442000</td></tr><tr><td><b>GPS Øst (KS)</b></td><td> 11.618388000</td></tr>
 </table>
 ]]>
 </description>
