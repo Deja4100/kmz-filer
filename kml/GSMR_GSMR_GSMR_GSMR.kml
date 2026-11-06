@@ -191,12 +191,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Adamshøj (Kværkeby)</name>
+  <name>Adamshøj</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>GSM-R Numerering</b></td><td>016</td></tr><tr><td><b>Placering</b></td><td>Adamshøj (Kværkeby)</td></tr><tr><td><b>Lokation</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.058.A</td></tr><tr><td><b>Adresse</b></td><td>Adamshøjvej</td></tr><tr><td><b>Postnr.</b></td><td>4100</td></tr><tr><td><b>GPS Nord</b></td><td>55.443989000</td></tr><tr><td><b>GPS Øst</b></td><td>11.850760000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>59.778</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
+<tr><td><b>GSM-R Numerering</b></td><td>016</td></tr><tr><td><b>Placering</b></td><td>Adamshøj</td></tr><tr><td><b>Lokation</b></td><td>Ringsted</td></tr><tr><td><b>Forkortelse</b></td><td>Rg</td></tr><tr><td><b>Forsyningstavle</b></td><td>014.058.A</td></tr><tr><td><b>Adresse</b></td><td>Adamshøjvej</td></tr><tr><td><b>Postnr.</b></td><td>4100</td></tr><tr><td><b>GPS Nord</b></td><td>55.443989000</td></tr><tr><td><b>GPS Øst</b></td><td>11.850760000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>59.778</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>30</td></tr><tr><td><b>Miljøforhold</b></td><td>Miljøpåvirkning</td></tr>
 </table>
 ]]>
 </description>
@@ -266,12 +266,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Høje Taastrup ved container terminal</name>
+  <name>Kombiterminal</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>GSM-R Numerering</b></td><td>024</td></tr><tr><td><b>Placering</b></td><td>Høje Taastrup ved container terminal</td></tr><tr><td><b>Lokation</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.H1</td></tr><tr><td><b>Adresse</b></td><td>Letland Allé 3</td></tr><tr><td><b>Postnr.</b></td><td>2630</td></tr><tr><td><b>GPS Nord</b></td><td>55.636174000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250991000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>20.707</td></tr><tr><td><b>Mast højde</b></td><td>20</td></tr><tr><td><b>Antenne højde</b></td><td>20.6</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
+<tr><td><b>GSM-R Numerering</b></td><td>024</td></tr><tr><td><b>Placering</b></td><td>Kombiterminal</td></tr><tr><td><b>Lokation</b></td><td>Høje Taastrup</td></tr><tr><td><b>Forkortelse</b></td><td>Htå</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.H1</td></tr><tr><td><b>Adresse</b></td><td>Letland Allé 3</td></tr><tr><td><b>Postnr.</b></td><td>2630</td></tr><tr><td><b>GPS Nord</b></td><td>55.636174000</td></tr><tr><td><b>GPS Øst</b></td><td>12.250991000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>20.707</td></tr><tr><td><b>Mast højde</b></td><td>20</td></tr><tr><td><b>Antenne højde</b></td><td>20.6</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
 </table>
 ]]>
 </description>
@@ -401,12 +401,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Holme Olstrup Station STR mast</name>
+  <name>Holme Olstrup Station</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>GSM-R Numerering</b></td><td>035</td></tr><tr><td><b>Placering</b></td><td>Holme Olstrup Station STR mast</td></tr><tr><td><b>Lokation</b></td><td>Holme Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.B</td></tr><tr><td><b>Adresse</b></td><td>Petersmindevej</td></tr><tr><td><b>Postnr.</b></td><td>4684</td></tr><tr><td><b>GPS Nord</b></td><td>55.261734000</td></tr><tr><td><b>GPS Øst</b></td><td>11.851752000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>85.058</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
+<tr><td><b>GSM-R Numerering</b></td><td>035</td></tr><tr><td><b>Placering</b></td><td>Holme Olstrup Station</td></tr><tr><td><b>Lokation</b></td><td>Holme Olstrup</td></tr><tr><td><b>Forkortelse</b></td><td>Ol</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.085.B</td></tr><tr><td><b>Adresse</b></td><td>Petersmindevej</td></tr><tr><td><b>Postnr.</b></td><td>4684</td></tr><tr><td><b>GPS Nord</b></td><td>55.261734000</td></tr><tr><td><b>GPS Øst</b></td><td>11.851752000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>85.058</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>40</td></tr><tr><td><b>Miljøforhold</b></td><td>Fredskov/drift</td></tr>
 </table>
 ]]>
 </description>
@@ -652,6 +652,21 @@
 </description>
   <Point>
     <coordinates>11.751781000,54.739863000,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Darup</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>GSM-R Numerering</b></td><td>269</td></tr><tr><td><b>Placering</b></td><td>Darup</td></tr><tr><td><b>Lokation</b></td><td>Roskilde</td></tr><tr><td><b>Forkortelse</b></td><td>Ro</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.034.B</td></tr><tr><td><b>Adresse</b></td><td>Darupvej</td></tr><tr><td><b>Postnr.</b></td><td>4000</td></tr><tr><td><b>GPS Nord</b></td><td>55.622688000</td></tr><tr><td><b>GPS Øst</b></td><td>12.070493000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>33.600</td></tr><tr><td><b>Mast højde</b></td><td></td></tr><tr><td><b>Antenne højde</b></td><td></td></tr><tr><td><b>Miljøforhold</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>12.070493000,55.622688000,0</coordinates>
   </Point>
 </Placemark>
 
