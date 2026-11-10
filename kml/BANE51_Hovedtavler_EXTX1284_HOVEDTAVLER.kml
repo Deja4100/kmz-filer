@@ -641,21 +641,6 @@
 </Placemark>
 
 <Placemark>
-  <name>052.103.B</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>GSMR-043, Værslev</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Equipment</b></td><td>10232124</td></tr><tr><td><b>Tavlenummer</b></td><td>052.103.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>25</td></tr><tr><td><b>Målernummer</b></td><td>509222</td></tr><tr><td><b>Aftagernummer</b></td><td>74000561802</td></tr><tr><td><b>GPS Nord</b></td><td>55.669109000</td></tr><tr><td><b>GPS Øst</b></td><td>11.214998000</td></tr><tr><td><b>Kilometrering</b></td><td>102.434</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>≤63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Indendørs/udendørs</b></td><td>Udendørs</td></tr><tr><td><b>Tavlefunktion</b></td><td>GSMR</td></tr><tr><td><b>Noter</b></td><td></td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.214998000,55.669109000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
   <name>052.103.D</name>
   <styleUrl>#s</styleUrl>
   <description>
@@ -701,7 +686,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 47</name>
+  <name>Item 46</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
@@ -716,7 +701,7 @@
 </Placemark>
 
 <Placemark>
-  <name>Item 48</name>
+  <name>Item 47</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
