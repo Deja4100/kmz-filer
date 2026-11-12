@@ -7966,12 +7966,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 54.769614°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.880783°</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>54.769614</td></tr><tr><td><b>GPS Øst</b></td><td>11.880783</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.880783°, 54.769614°,0</coordinates>
+    <coordinates>11.880783,54.769614,0</coordinates>
   </Point>
 </Placemark>
 
@@ -7981,12 +7981,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 54.769994°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.881062°</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>54.769994</td></tr><tr><td><b>GPS Øst</b></td><td>11.881062</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.881062°, 54.769994°,0</coordinates>
+    <coordinates>11.881062,54.769994,0</coordinates>
   </Point>
 </Placemark>
 
@@ -7996,12 +7996,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 54.770353°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.881385°</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>54.770353</td></tr><tr><td><b>GPS Øst</b></td><td>11.881385</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.881385°, 54.770353°,0</coordinates>
+    <coordinates>11.881385,54.770353,0</coordinates>
   </Point>
 </Placemark>
 
@@ -8011,12 +8011,162 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td> 54.770682°</td></tr><tr><td><b>GPS Øst</b></td><td> 11.881783°</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Nykøbing Falster nord</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>54.770682</td></tr><tr><td><b>GPS Øst</b></td><td>11.881783</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>027.000.E2</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates> 11.881783°, 54.770682°,0</coordinates>
+    <coordinates>11.881783,54.770682,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407606</td></tr><tr><td><b>GPS Øst</b></td><td>11.344335</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.344335,55.407606,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407603</td></tr><tr><td><b>GPS Øst</b></td><td>11.344013</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.344013,55.407603,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407594</td></tr><tr><td><b>GPS Øst</b></td><td>11.343731</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.343731,55.407594,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.40758</td></tr><tr><td><b>GPS Øst</b></td><td>11.343381</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.343381,55.40758,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407567</td></tr><tr><td><b>GPS Øst</b></td><td>11.343067</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.343067,55.407567,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407557</td></tr><tr><td><b>GPS Øst</b></td><td>11.342754</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.342754,55.407557,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407541</td></tr><tr><td><b>GPS Øst</b></td><td>11.342436</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.342436,55.407541,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407528</td></tr><tr><td><b>GPS Øst</b></td><td>11.342126</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.342126,55.407528,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.40752</td></tr><tr><td><b>GPS Øst</b></td><td>11.341804</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.341804,55.40752,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Gittermast</name>
+  <styleUrl>#s</styleUrl>
+  <description>
+<![CDATA[
+<table border="1" style="border-collapse:collapse;width:100%">
+<tr><td><b>Station</b></td><td>Slagelse</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>Gittermast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.407504</td></tr><tr><td><b>GPS Øst</b></td><td>11.341493</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>016.093.E3</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>8</td></tr><tr><td><b>Note</b></td><td></td></tr>
+</table>
+]]>
+</description>
+  <Point>
+    <coordinates>11.341493,55.407504,0</coordinates>
   </Point>
 </Placemark>
 </Document></kml>
