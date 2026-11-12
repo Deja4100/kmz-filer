@@ -116,17 +116,17 @@
 </Placemark>
 
 <Placemark>
-  <name>5871-6</name>
+  <name>789-19</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Tavlenummer</b></td><td>012.022.C</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>5871-6</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 AL</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Guldalderen 24</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.651027</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.176266</td></tr>
+<tr><td><b>Tavlenummer</b></td><td>012.022.C</td></tr><tr><td><b>Tilslutningspunkt</b></td><td>789-19</td></tr><tr><td><b>Tilslutningstype</b></td><td>Kabelskab</td></tr><tr><td><b>Ledningsdimension</b></td><td>4x16 CU</td></tr><tr><td><b>Forsyningsplacering</b></td><td>Bag Guldalderen 26, i læbælte</td></tr><tr><td><b>GPS Nord (KS)</b></td><td>55.651416</td></tr><tr><td><b>GPS Øst (KS)</b></td><td>12.177071</td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.176266,55.651027,0</coordinates>
+    <coordinates>12.177071,55.651416,0</coordinates>
   </Point>
 </Placemark>
 
