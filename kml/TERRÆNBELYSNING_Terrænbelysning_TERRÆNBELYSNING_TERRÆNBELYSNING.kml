@@ -4571,12 +4571,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 1</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639896</td></tr><tr><td><b>GPS Øst</b></td><td>12.248399</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.639896</td></tr><tr><td><b>GPS Øst</b></td><td>12.248399</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4586,12 +4586,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 2</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639564</td></tr><tr><td><b>GPS Øst</b></td><td>12.248226</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 2</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639564</td></tr><tr><td><b>GPS Øst</b></td><td>12.248226</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4601,12 +4601,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 3</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639223</td></tr><tr><td><b>GPS Øst</b></td><td>12.247985</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 3</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.639223</td></tr><tr><td><b>GPS Øst</b></td><td>12.247985</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4616,12 +4616,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 4</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638788</td></tr><tr><td><b>GPS Øst</b></td><td>12.248187</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 4</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638788</td></tr><tr><td><b>GPS Øst</b></td><td>12.248187</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4631,12 +4631,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 5</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638463</td></tr><tr><td><b>GPS Øst</b></td><td>12.248173</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 5</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638463</td></tr><tr><td><b>GPS Øst</b></td><td>12.248173</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4646,12 +4646,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 6</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638088</td></tr><tr><td><b>GPS Øst</b></td><td>12.248151</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 6</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.638088</td></tr><tr><td><b>GPS Øst</b></td><td>12.248151</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4661,12 +4661,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 7</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637707</td></tr><tr><td><b>GPS Øst</b></td><td>12.248149</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 7</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637707</td></tr><tr><td><b>GPS Øst</b></td><td>12.248149</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4676,12 +4676,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 8</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637335</td></tr><tr><td><b>GPS Øst</b></td><td>12.248129</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 8</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.637335</td></tr><tr><td><b>GPS Øst</b></td><td>12.248129</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4691,12 +4691,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 9</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636952</td></tr><tr><td><b>GPS Øst</b></td><td>12.248115</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 9</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636952</td></tr><tr><td><b>GPS Øst</b></td><td>12.248115</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4706,12 +4706,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 10</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636582</td></tr><tr><td><b>GPS Øst</b></td><td>12.248098</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 10</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636582</td></tr><tr><td><b>GPS Øst</b></td><td>12.248098</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4721,12 +4721,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 11</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636199</td></tr><tr><td><b>GPS Øst</b></td><td>12.248078</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 11</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.636199</td></tr><tr><td><b>GPS Øst</b></td><td>12.248078</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4736,12 +4736,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast</name>
+  <name>Projektørmast 12</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.635831</td></tr><tr><td><b>GPS Øst</b></td><td>12.248064</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 12</td></tr><tr><td><b>Armaturer</b></td><td>2</td></tr><tr><td><b>GPS Nord</b></td><td>55.635831</td></tr><tr><td><b>GPS Øst</b></td><td>12.248064</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Pladsbelysning</td></tr>
 </table>
 ]]>
 </description>
@@ -4751,12 +4751,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast 4</name>
+  <name>Projektørmast 13</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 4</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635298</td></tr><tr><td><b>GPS Øst</b></td><td>12.248773</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 13</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635298</td></tr><tr><td><b>GPS Øst</b></td><td>12.248773</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -4766,12 +4766,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast 3</name>
+  <name>Projektørmast 14</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 3</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635164</td></tr><tr><td><b>GPS Øst</b></td><td>12.249291</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.635164</td></tr><tr><td><b>GPS Øst</b></td><td>12.249291</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -4781,12 +4781,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast 2</name>
+  <name>Projektørmast 15</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 2</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634899</td></tr><tr><td><b>GPS Øst</b></td><td>12.249268</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 15</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634899</td></tr><tr><td><b>GPS Øst</b></td><td>12.249268</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
@@ -4796,12 +4796,12 @@
 </Placemark>
 
 <Placemark>
-  <name>Mast 1</name>
+  <name>Projektørmast 16</name>
   <styleUrl>#s</styleUrl>
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Mast 1</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634608</td></tr><tr><td><b>GPS Øst</b></td><td>12.249249</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
+<tr><td><b>Station</b></td><td>NISB</td></tr><tr><td><b>Lampetype</b></td><td>Projektør</td></tr><tr><td><b>Ophæng</b></td><td>Projektørmast 16</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.634608</td></tr><tr><td><b>GPS Øst</b></td><td>12.249249</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>3</td></tr><tr><td><b>Forsyningstavle</b></td><td>012.519.I1</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td></td></tr><tr><td><b>Note</b></td><td>Langs hegn mod kombiterminal</td></tr>
 </table>
 ]]>
 </description>
