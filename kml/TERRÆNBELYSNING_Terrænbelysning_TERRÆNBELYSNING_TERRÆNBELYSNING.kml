@@ -406,7 +406,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Station</b></td><td>Køge</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>10m gittermast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.463473</td></tr><tr><td><b>GPS Øst</b></td><td>12.187589</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>63</td></tr><tr><td><b>Note</b></td><td></td></tr>
+<tr><td><b>Station</b></td><td>Køge</td></tr><tr><td><b>Lampetype</b></td><td>Københavner</td></tr><tr><td><b>Ophæng</b></td><td>10m gittermast 14</td></tr><tr><td><b>Armaturer</b></td><td>1</td></tr><tr><td><b>GPS Nord</b></td><td>55.463473</td></tr><tr><td><b>GPS Øst</b></td><td>12.187589</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>4</td></tr><tr><td><b>Forsyningstavle</b></td><td>042.053.A6</td></tr><tr><td><b>Mastnummer</b></td><td></td></tr><tr><td><b>Spor</b></td><td>63</td></tr><tr><td><b>Note</b></td><td>Forsynes fra tavle i Contec Rail</td></tr>
 </table>
 ]]>
 </description>
