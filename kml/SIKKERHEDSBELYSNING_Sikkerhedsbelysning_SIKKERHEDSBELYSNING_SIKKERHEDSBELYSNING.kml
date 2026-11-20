@@ -241,12 +241,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Equipment</b></td><td>10883859</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 1</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>56.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>13.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>Equipment</b></td><td>10883859</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 1</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>12.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>13.084627100,56.637747800,0</coordinates>
+    <coordinates>12.084627100,55.637747800,0</coordinates>
   </Point>
 </Placemark>
 
@@ -256,12 +256,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Equipment</b></td><td>10883860</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 2</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>57.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>14.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>Equipment</b></td><td>10883860</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 2</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>12.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>14.084627100,57.637747800,0</coordinates>
+    <coordinates>12.084627100,55.637747800,0</coordinates>
   </Point>
 </Placemark>
 
@@ -271,12 +271,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Equipment</b></td><td>10883861</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 3</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>58.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>15.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>Equipment</b></td><td>10883861</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 3</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>12.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>15.084627100,58.637747800,0</coordinates>
+    <coordinates>12.084627100,55.637747800,0</coordinates>
   </Point>
 </Placemark>
 
@@ -286,12 +286,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Equipment</b></td><td>10883862</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 4</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>59.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>16.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>Equipment</b></td><td>10883862</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Nødbelysning: KMP 3. sal, lampe 4</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Fri Jan 03 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>Ansell Comfort EVO 1</td></tr><tr><td><b>Typebetegnelse</b></td><td>Dual Wattage Downlight</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637747800</td></tr><tr><td><b>GPS Øst</b></td><td>12.084627100</td></tr><tr><td><b>Uddybende placering</b></td><td>KMP 3. sal</td></tr><tr><td><b>Skilt batteri type</b></td><td>Li-Bat. 2600mAh 7.4V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A15</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP hvilerum 3.sal</td></tr><tr><td><b>Gruppe</b></td><td>-F16.5</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>16.084627100,59.637747800,0</coordinates>
+    <coordinates>12.084627100,55.637747800,0</coordinates>
   </Point>
 </Placemark>
 
