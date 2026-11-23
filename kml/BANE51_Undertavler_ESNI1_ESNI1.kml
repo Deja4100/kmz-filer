@@ -136,7 +136,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>052.103.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.669279000</td></tr><tr><td><b>GPS Øst</b></td><td>11.195365000</td></tr><tr><td><b>Kilometrering</b></td><td>103.691</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>052.103.A6</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.669279000</td></tr><tr><td><b>GPS Øst</b></td><td>11.195365000</td></tr><tr><td><b>Kilometrering</b></td><td>103.691</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>>63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -151,7 +151,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>052.103.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.668474000</td></tr><tr><td><b>GPS Øst</b></td><td>11.216568000</td></tr><tr><td><b>Kilometrering</b></td><td>102.318</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Værslev</td></tr><tr><td><b>Forkortelse</b></td><td>Væ</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>052.103.A7</td></tr><tr><td><b>Forsyningstavle</b></td><td>052.103.A</td></tr><tr><td><b>Forsikring (A)</b></td><td>80</td></tr><tr><td><b>GPS Nord</b></td><td>55.668474000</td></tr><tr><td><b>GPS Øst</b></td><td>11.216568000</td></tr><tr><td><b>Kilometrering</b></td><td>102.318</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>>63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -166,7 +166,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>053.000.B3</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.677635000</td></tr><tr><td><b>GPS Øst</b></td><td>11.103323000</td></tr><tr><td><b>Kilometrering</b></td><td>109.705</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>053.000.B3</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.677635000</td></tr><tr><td><b>GPS Øst</b></td><td>11.103323000</td></tr><tr><td><b>Kilometrering</b></td><td>109.705</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>>63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
@@ -181,7 +181,7 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>053.000.B4</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.677826000</td></tr><tr><td><b>GPS Øst</b></td><td>11.098903000</td></tr><tr><td><b>Kilometrering</b></td><td>109.981</td></tr><tr><td><b>Sikringsstørrelse</b></td><td> >63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
+<tr><td><b>TIB</b></td><td>5</td></tr><tr><td><b>Navn</b></td><td>Kalundborg</td></tr><tr><td><b>Forkortelse</b></td><td>Kb</td></tr><tr><td><b>Uddybende placering</b></td><td>Sporskiftevarme</td></tr><tr><td><b>Bygningsnummer</b></td><td></td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Tavlenummer</b></td><td>053.000.B4</td></tr><tr><td><b>Forsyningstavle</b></td><td>053.000.B</td></tr><tr><td><b>Forsikring (A)</b></td><td>125</td></tr><tr><td><b>GPS Nord</b></td><td>55.677826000</td></tr><tr><td><b>GPS Øst</b></td><td>11.098903000</td></tr><tr><td><b>Kilometrering</b></td><td>109.981</td></tr><tr><td><b>Sikringsstørrelse</b></td><td>>63A</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td></td></tr><tr><td><b>Ansvarlig arbejdsplads</b></td><td>ESNI1</td></tr>
 </table>
 ]]>
 </description>
