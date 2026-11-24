@@ -596,21 +596,6 @@
 </Placemark>
 
 <Placemark>
-  <name>Korsør Station</name>
-  <styleUrl>#s</styleUrl>
-  <description>
-<![CDATA[
-<table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>GSM-R Numerering</b></td><td>053</td></tr><tr><td><b>Placering</b></td><td>Korsør Station</td></tr><tr><td><b>Lokation</b></td><td>Korsør</td></tr><tr><td><b>Forkortelse</b></td><td>Kø</td></tr><tr><td><b>Forsyningstavle</b></td><td>-</td></tr><tr><td><b>Adresse</b></td><td>Storebæltsvej</td></tr><tr><td><b>Postnr.</b></td><td>4220</td></tr><tr><td><b>GPS Nord</b></td><td>55.356830000</td></tr><tr><td><b>GPS Øst</b></td><td>11.134935000</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Kilometrering</b></td><td>108.290</td></tr><tr><td><b>Mast højde</b></td><td>45</td></tr><tr><td><b>Antenne højde</b></td><td>37</td></tr><tr><td><b>Miljøforhold</b></td><td>BR08</td></tr>
-</table>
-]]>
-</description>
-  <Point>
-    <coordinates>11.134935000,55.356830000,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
   <name>Rødby Havn</name>
   <styleUrl>#s</styleUrl>
   <description>
