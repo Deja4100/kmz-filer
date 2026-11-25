@@ -16,12 +16,12 @@
   <description>
 <![CDATA[
 <table border="1" style="border-collapse:collapse;width:100%">
-<tr><td><b>Equipment</b></td><td>10883756</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Flugtvejsskilt: Tavlerum i kælder</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jan 29 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>NORDTRONIC</td></tr><tr><td><b>Typebetegnelse</b></td><td>Exit skilt 5-7W</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.648354000</td></tr><tr><td><b>GPS Øst</b></td><td>12.269590000</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum i kælder</td></tr><tr><td><b>Skilt batteri type</b></td><td>Ni-CD SC1800mAh 4.8V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP kælder</td></tr><tr><td><b>Gruppe</b></td><td>-5F3</td></tr><tr><td><b>Noter</b></td><td></td></tr>
+<tr><td><b>Equipment</b></td><td>10883756</td></tr><tr><td><b>Datagennemgang</b></td><td>Match</td></tr><tr><td><b>Betegnelse</b></td><td>Flugtvejsskilt: Tavlerum i kælder</td></tr><tr><td><b>Station</b></td><td>Roskilde</td></tr><tr><td><b>Idriftsætt.dato</b></td><td>Wed Jan 29 2025 00:00:00 GMT+0100 (Central European Standard Time)</td></tr><tr><td><b>Producent</b></td><td>NORDTRONIC</td></tr><tr><td><b>Typebetegnelse</b></td><td>Exit skilt 5-7W</td></tr><tr><td><b>Prod. delnr.</b></td><td></td></tr><tr><td><b>GPS Nord</b></td><td>55.637855100</td></tr><tr><td><b>GPS Øst</b></td><td>12.084734600</td></tr><tr><td><b>Uddybende placering</b></td><td>Tavlerum i kælder</td></tr><tr><td><b>Skilt batteri type</b></td><td>Ni-CD SC1800mAh 4.8V</td></tr><tr><td><b>Batteribank</b></td><td>Decentralt</td></tr><tr><td><b>Jernbanesikkerhed</b></td><td>1</td></tr><tr><td><b>Tavlenavn</b></td><td>013.000.A</td></tr><tr><td><b>Tavlelokation</b></td><td>KMP kælder</td></tr><tr><td><b>Gruppe</b></td><td>-5F3</td></tr><tr><td><b>Noter</b></td><td></td></tr>
 </table>
 ]]>
 </description>
   <Point>
-    <coordinates>12.269590000,55.648354000,0</coordinates>
+    <coordinates>12.084734600,55.637855100,0</coordinates>
   </Point>
 </Placemark>
 
